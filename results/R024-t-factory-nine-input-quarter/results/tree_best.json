@@ -1,0 +1,477 @@
+{
+ "measure": "-XZIIZIIIX",
+ "plus": {
+  "measure": "+IIIIZZZZI",
+  "plus": {
+   "measure": "+IIIXXIIXY",
+   "plus": {
+    "measure": "+IZZIIZZII",
+    "plus": {
+     "measure": "+IIZZXIZXZ",
+     "plus": {
+      "leaf": [
+       "+IIZYIIZIX",
+       "-XIZIIIIZX",
+       "-ZZIIIXXZZ",
+       "+IIZZXIZXZ",
+       "+ZIYZIIXYY",
+       "-IYIIIIYXY",
+       "+IZZIIZZII",
+       "+IZZIZIIZI"
+      ]
+     },
+     "minus": {
+      "leaf": [
+       "-XZIIZIIIX",
+       "+XIIYZZIII",
+       "-ZXXZIZIZI",
+       "+ZZIIZXXIZ",
+       "+YXIZXYIIZ",
+       "-YYIIIXIXI",
+       "+IZZIZIIZI",
+       "+IIIIZZZZI"
+      ]
+     }
+    },
+    "minus": {
+     "measure": "+IIZZXIZXZ",
+     "plus": {
+      "leaf": [
+       "-XZIIZIIIX",
+       "+XIIYZZIII",
+       "-ZXYZIZIZI",
+       "+ZZIIZXXIZ",
+       "+YXIZXYIIZ",
+       "-YYIIIXIXI",
+       "-IZZIZIIZI",
+       "+IIIIZZZZI"
+      ]
+     },
+     "minus": {
+      "leaf": [
+       "-XIIYIIZZI",
+       "+XIZIIIIZX",
+       "+ZIZIZXXIZ",
+       "-ZYXZIIZZI",
+       "+YIYZIIXXZ",
+       "-YIXIXIYII",
+       "+IIIIZZZZI",
+       "-IZZIZIIZI"
+      ]
+     }
+    }
+   },
+   "minus": {
+    "measure": "+IZIZIIZZI",
+    "plus": {
+     "measure": "+IIZZXYZIZ",
+     "plus": {
+      "leaf": [
+       "+XIXIIZZII",
+       "-XIIZIZIIX",
+       "+ZIIZZIXYZ",
+       "-ZYZXIZZII",
+       "-YIZYIYXIZ",
+       "-YIIXXIYII",
+       "+IIIIZZZZI",
+       "+IZIZZZIII"
+      ]
+     },
+     "minus": {
+      "leaf": [
+       "+XIYIIZZII",
+       "-XIIZIZIIX",
+       "+ZIIZZIXYZ",
+       "+ZYZXIZZII",
+       "+YIZYIYXIZ",
+       "-YIIXXIYII",
+       "+IIIIZZZZI",
+       "+IZIZZZIII"
+      ]
+     }
+    },
+    "minus": {
+     "measure": "+IIZZXXZIZ",
+     "plus": {
+      "leaf": [
+       "-XZIIZIIIX",
+       "+XIYIZIIZI",
+       "-ZXZYIZIZI",
+       "+ZZIIZIXXZ",
+       "+YXZIXIIYZ",
+       "-YYIIIXIXI",
+       "-IZIZZZIII",
+       "+IIIIZZZZI"
+      ]
+     },
+     "minus": {
+      "leaf": [
+       "-XZIIZIIIX",
+       "+XIXIZIIZI",
+       "+ZXZYIZIZI",
+       "+ZZIIZIXXZ",
+       "-YXZIXIIYZ",
+       "-YYIIIXIXI",
+       "-IZIZZZIII",
+       "+IIIIZZZZI"
+      ]
+     }
+    }
+   }
+  },
+  "minus": {
+   "measure": "+IIIXXIIXY",
+   "plus": {
+    "measure": "+IZZIIZZII",
+    "plus": {
+     "measure": "+IIZZXIZXZ",
+     "plus": {
+      "leaf": [
+       "+IZIYIZIIX",
+       "-XZIIZIIIX",
+       "+ZIZIZXYIZ",
+       "+IZIZXZIXZ",
+       "+ZYIZYXIIY",
+       "-IIXIXYIIY",
+       "+IZZIIZZII",
+       "-IZZIZIIZI"
+      ]
+     },
+     "minus": {
+      "leaf": [
+       "-XIIYIIZZI",
+       "+XIZIIIIZX",
+       "+ZIZIZYXIZ",
+       "-ZYXZIIZZI",
+       "+YIYZIIXXZ",
+       "-YIXIXIYII",
+       "-IIIIZZZZI",
+       "-IZZIZIIZI"
+      ]
+     }
+    },
+    "minus": {
+     "measure": "+IIZZXIZXZ",
+     "plus": {
+      "leaf": [
+       "-XZIIZIIIX",
+       "+XIIYZZIII",
+       "-ZXXZIZIZI",
+       "+ZZIIZXYIZ",
+       "+YXIZXYIIZ",
+       "-YYIIIXIXI",
+       "+IZZIZIIZI",
+       "-IIIIZZZZI"
+      ]
+     },
+     "minus": {
+      "leaf": [
+       "-XIZIIIIZX",
+       "+XIIYIIZZI",
+       "-ZXXZZIZII",
+       "+ZIZIIYXZZ",
+       "+YIXZIIYXZ",
+       "-YIYIXIXII",
+       "+IZZIZIIZI",
+       "-IIIIZZZZI"
+      ]
+     }
+    }
+   },
+   "minus": {
+    "measure": "+IZIZIIZZI",
+    "plus": {
+     "measure": "+IIZZXXZIZ",
+     "plus": {
+      "leaf": [
+       "-XZIIZIIIX",
+       "+XIXIZIIZI",
+       "+ZXZYIZIZI",
+       "+ZZIIZIYXZ",
+       "-YXZIXIIYZ",
+       "-YYIIIXIXI",
+       "-IZIZZZIII",
+       "-IIIIZZZZI"
+      ]
+     },
+     "minus": {
+      "leaf": [
+       "-XIYIIZZII",
+       "+XIIZIZIIX",
+       "+ZIIZZIXYZ",
+       "-ZYZXIZZII",
+       "+YIZYIXXIZ",
+       "-YIIXXIYII",
+       "-IIIIZZZZI",
+       "-IZIZZZIII"
+      ]
+     }
+    },
+    "minus": {
+     "measure": "+IIZZXYZIZ",
+     "plus": {
+      "leaf": [
+       "-XZIIZIIIX",
+       "+XIYIZIIZI",
+       "+ZXZYIZIZI",
+       "+ZZIIZIXXZ",
+       "+YXZIXIIYZ",
+       "-YYIIIYIXI",
+       "+IZIZZZIII",
+       "-IIIIZZZZI"
+      ]
+     },
+     "minus": {
+      "leaf": [
+       "-IZXIIIIZX",
+       "+XIXIZIIZI",
+       "+ZXZYZIZII",
+       "+IZZIXYIZZ",
+       "-ZXYIYIIXZ",
+       "-IYYIXIXII",
+       "-IZIZIIZZI",
+       "-IIIIZZZZI"
+      ]
+     }
+    }
+   }
+  }
+ },
+ "minus": {
+  "measure": "+IIIIZZZZI",
+  "plus": {
+   "measure": "+IIIXXIIXY",
+   "plus": {
+    "measure": "+IZZIIZZII",
+    "plus": {
+     "measure": "+IIZZXIZXZ",
+     "plus": {
+      "leaf": [
+       "+XIIYZZIII",
+       "+XZIIZIIIX",
+       "+ZZIIIYYZZ",
+       "+ZXXZZZIII",
+       "+YYIZXYIIZ",
+       "-YXIIIXIXI",
+       "+IIIIZZZZI",
+       "+IZZIZIIZI"
+      ]
+     },
+     "minus": {
+      "leaf": [
+       "-XIIYZZIII",
+       "+XZIIZIIIX",
+       "+ZZIIIXXZZ",
+       "-ZXXZZZIII",
+       "+YYIZXXIIZ",
+       "-YXIIIYIXI",
+       "+IIIIZZZZI",
+       "+IZZIZIIZI"
+      ]
+     }
+    },
+    "minus": {
+     "measure": "+IIZZXIZXZ",
+     "plus": {
+      "leaf": [
+       "-XIIYZZIII",
+       "+XZIIZIIIX",
+       "+ZZIIIXXZZ",
+       "-ZXYZZZIII",
+       "+YYIZXXIIZ",
+       "-YXIIIYIXI",
+       "+IIIIZZZZI",
+       "-IZZIZIIZI"
+      ]
+     },
+     "minus": {
+      "leaf": [
+       "-XIZIIIIZX",
+       "+XIIYIIZZI",
+       "-ZYXZZIZII",
+       "+ZIZIIXXZZ",
+       "+YIXZIIYXZ",
+       "-YIYIXIXII",
+       "-IZZIZIIZI",
+       "+IIIIZZZZI"
+      ]
+     }
+    }
+   },
+   "minus": {
+    "measure": "+IZIZIIZZI",
+    "plus": {
+     "measure": "+IIZZXXZIZ",
+     "plus": {
+      "leaf": [
+       "+XIYIZIIZI",
+       "+XZIIZIIIX",
+       "+ZZIIIZYYZ",
+       "+ZXZXZIIZI",
+       "+YYZIXIIYZ",
+       "-YXIIIXIXI",
+       "+IIIIZZZZI",
+       "+IZIZZZIII"
+      ]
+     },
+     "minus": {
+      "leaf": [
+       "+XZIIZIIIX",
+       "+XIXIZIIZI",
+       "+ZYZYIZIZI",
+       "-ZZIIZIXXZ",
+       "-YYZIXIIYZ",
+       "-YXIIIXIXI",
+       "+IZIZZZIII",
+       "+IIIIZZZZI"
+      ]
+     }
+    },
+    "minus": {
+     "measure": "+IIZZXYZIZ",
+     "plus": {
+      "leaf": [
+       "+XIXIIZZII",
+       "-XIIZIZIIX",
+       "+ZIIZZIXYZ",
+       "-ZXZXIZZII",
+       "-YIZYIYXIZ",
+       "-YIIXXIYII",
+       "+IIIIZZZZI",
+       "-IZIZZZIII"
+      ]
+     },
+     "minus": {
+      "leaf": [
+       "+XIYIIZZII",
+       "-XIIZIZIIX",
+       "+ZIIZZIXYZ",
+       "+ZXZXIZZII",
+       "+YIZYIYXIZ",
+       "-YIIXXIYII",
+       "+IIIIZZZZI",
+       "-IZIZZZIII"
+      ]
+     }
+    }
+   }
+  },
+  "minus": {
+   "measure": "+IIIXXIIXY",
+   "plus": {
+    "measure": "+IZZIIZZII",
+    "plus": {
+     "measure": "+IIZZXIZXZ",
+     "plus": {
+      "leaf": [
+       "+IIZYIIZIX",
+       "-XIZIIIIZX",
+       "+ZZIIIYXZZ",
+       "+IIZZXIZXZ",
+       "+ZIYZIIXYY",
+       "-IXIIIIYXY",
+       "+IZZIIZZII",
+       "-IZZIZIIZI"
+      ]
+     },
+     "minus": {
+      "leaf": [
+       "-XIIYZZIII",
+       "+XZIIZIIIX",
+       "+ZZIIIXYZZ",
+       "-ZXYZZZIII",
+       "+YYIZXXIIZ",
+       "-YXIIIYIXI",
+       "-IIIIZZZZI",
+       "-IZZIZIIZI"
+      ]
+     }
+    },
+    "minus": {
+     "measure": "+IIZZXIZXZ",
+     "plus": {
+      "leaf": [
+       "-XIIYZZIII",
+       "+XZIIZIIIX",
+       "+ZZIIIXYZZ",
+       "-ZXXZZZIII",
+       "+YYIZXXIIZ",
+       "-YXIIIYIXI",
+       "-IIIIZZZZI",
+       "+IZZIZIIZI"
+      ]
+     },
+     "minus": {
+      "leaf": [
+       "-XIIYIIZZI",
+       "+XIZIIIIZX",
+       "+ZIZIZYXIZ",
+       "-ZXXZIIZZI",
+       "+YIYZIIXXZ",
+       "-YIXIXIYII",
+       "-IIIIZZZZI",
+       "+IZZIZIIZI"
+      ]
+     }
+    }
+   },
+   "minus": {
+    "measure": "+IZIZIIZZI",
+    "plus": {
+     "measure": "+IIZZXYZIZ",
+     "plus": {
+      "leaf": [
+       "-XIIZIZIIX",
+       "+IIYZIIZIX",
+       "-IZZIYXZIZ",
+       "+ZIIZIZXXZ",
+       "+ZIZXIXYIY",
+       "-IXIIIYXIY",
+       "-IZIZZZIII",
+       "+IZIZIIZZI"
+      ]
+     },
+     "minus": {
+      "leaf": [
+       "-XIIZIZIIX",
+       "+IIXZIIZIX",
+       "+IZZIYXZIZ",
+       "+ZIIZIZXXZ",
+       "-ZIZXIXYIY",
+       "-IXIIIYXIY",
+       "-IZIZZZIII",
+       "+IZIZIIZZI"
+      ]
+     }
+    },
+    "minus": {
+     "measure": "+IIZZXXZIZ",
+     "plus": {
+      "leaf": [
+       "-XIXIIZZII",
+       "+XIIZIZIIX",
+       "+ZIIZZIXYZ",
+       "+ZXZXIZZII",
+       "-YIZYIXXIZ",
+       "-YIIXXIYII",
+       "-IIIIZZZZI",
+       "+IZIZZZIII"
+      ]
+     },
+     "minus": {
+      "leaf": [
+       "-XIYIIZZII",
+       "+XIIZIZIIX",
+       "+ZIIZZIXYZ",
+       "-ZXZXIZZII",
+       "+YIZYIXXIZ",
+       "-YIIXXIYII",
+       "-IIIIZZZZI",
+       "+IZIZZZIII"
+      ]
+     }
+    }
+   }
+  }
+ }
+}

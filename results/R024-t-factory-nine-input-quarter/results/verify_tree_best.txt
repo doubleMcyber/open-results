@@ -1,0 +1,37 @@
+  leaf 0: path ['-XZIIZIIIX', '+IIIIZZZZI', '+IIIXXIIXY', '+IZZIIZZII', '+IIZZXIZXZ'] ok, ideal acceptance 0.0078125
+  leaf 1: path ['-XZIIZIIIX', '+IIIIZZZZI', '+IIIXXIIXY', '+IZZIIZZII', '-IIZZXIZXZ'] ok, ideal acceptance 0.0078125
+  leaf 2: path ['-XZIIZIIIX', '+IIIIZZZZI', '+IIIXXIIXY', '-IZZIIZZII', '+IIZZXIZXZ'] ok, ideal acceptance 0.0078125
+  leaf 3: path ['-XZIIZIIIX', '+IIIIZZZZI', '+IIIXXIIXY', '-IZZIIZZII', '-IIZZXIZXZ'] ok, ideal acceptance 0.0078125
+  leaf 4: path ['-XZIIZIIIX', '+IIIIZZZZI', '-IIIXXIIXY', '+IZIZIIZZI', '+IIZZXYZIZ'] ok, ideal acceptance 0.0078125
+  leaf 5: path ['-XZIIZIIIX', '+IIIIZZZZI', '-IIIXXIIXY', '+IZIZIIZZI', '-IIZZXYZIZ'] ok, ideal acceptance 0.0078125
+  leaf 6: path ['-XZIIZIIIX', '+IIIIZZZZI', '-IIIXXIIXY', '-IZIZIIZZI', '+IIZZXXZIZ'] ok, ideal acceptance 0.0078125
+  leaf 7: path ['-XZIIZIIIX', '+IIIIZZZZI', '-IIIXXIIXY', '-IZIZIIZZI', '-IIZZXXZIZ'] ok, ideal acceptance 0.0078125
+  leaf 8: path ['-XZIIZIIIX', '-IIIIZZZZI', '+IIIXXIIXY', '+IZZIIZZII', '+IIZZXIZXZ'] ok, ideal acceptance 0.0078125
+  leaf 9: path ['-XZIIZIIIX', '-IIIIZZZZI', '+IIIXXIIXY', '+IZZIIZZII', '-IIZZXIZXZ'] ok, ideal acceptance 0.0078125
+  leaf 10: path ['-XZIIZIIIX', '-IIIIZZZZI', '+IIIXXIIXY', '-IZZIIZZII', '+IIZZXIZXZ'] ok, ideal acceptance 0.0078125
+  leaf 11: path ['-XZIIZIIIX', '-IIIIZZZZI', '+IIIXXIIXY', '-IZZIIZZII', '-IIZZXIZXZ'] ok, ideal acceptance 0.0078125
+  leaf 12: path ['-XZIIZIIIX', '-IIIIZZZZI', '-IIIXXIIXY', '+IZIZIIZZI', '+IIZZXXZIZ'] ok, ideal acceptance 0.0078125
+  leaf 13: path ['-XZIIZIIIX', '-IIIIZZZZI', '-IIIXXIIXY', '+IZIZIIZZI', '-IIZZXXZIZ'] ok, ideal acceptance 0.0078125
+  leaf 14: path ['-XZIIZIIIX', '-IIIIZZZZI', '-IIIXXIIXY', '-IZIZIIZZI', '+IIZZXYZIZ'] ok, ideal acceptance 0.0078125
+  leaf 15: path ['-XZIIZIIIX', '-IIIIZZZZI', '-IIIXXIIXY', '-IZIZIIZZI', '-IIZZXYZIZ'] ok, ideal acceptance 0.0078125
+  leaf 16: path ['+XZIIZIIIX', '+IIIIZZZZI', '+IIIXXIIXY', '+IZZIIZZII', '+IIZZXIZXZ'] ok, ideal acceptance 0.0078125
+  leaf 17: path ['+XZIIZIIIX', '+IIIIZZZZI', '+IIIXXIIXY', '+IZZIIZZII', '-IIZZXIZXZ'] ok, ideal acceptance 0.0078125
+  leaf 18: path ['+XZIIZIIIX', '+IIIIZZZZI', '+IIIXXIIXY', '-IZZIIZZII', '+IIZZXIZXZ'] ok, ideal acceptance 0.0078125
+  leaf 19: path ['+XZIIZIIIX', '+IIIIZZZZI', '+IIIXXIIXY', '-IZZIIZZII', '-IIZZXIZXZ'] ok, ideal acceptance 0.0078125
+  leaf 20: path ['+XZIIZIIIX', '+IIIIZZZZI', '-IIIXXIIXY', '+IZIZIIZZI', '+IIZZXXZIZ'] ok, ideal acceptance 0.0078125
+  leaf 21: path ['+XZIIZIIIX', '+IIIIZZZZI', '-IIIXXIIXY', '+IZIZIIZZI', '-IIZZXXZIZ'] ok, ideal acceptance 0.0078125
+  leaf 22: path ['+XZIIZIIIX', '+IIIIZZZZI', '-IIIXXIIXY', '-IZIZIIZZI', '+IIZZXYZIZ'] ok, ideal acceptance 0.0078125
+  leaf 23: path ['+XZIIZIIIX', '+IIIIZZZZI', '-IIIXXIIXY', '-IZIZIIZZI', '-IIZZXYZIZ'] ok, ideal acceptance 0.0078125
+  leaf 24: path ['+XZIIZIIIX', '-IIIIZZZZI', '+IIIXXIIXY', '+IZZIIZZII', '+IIZZXIZXZ'] ok, ideal acceptance 0.0078125
+  leaf 25: path ['+XZIIZIIIX', '-IIIIZZZZI', '+IIIXXIIXY', '+IZZIIZZII', '-IIZZXIZXZ'] ok, ideal acceptance 0.0078125
+  leaf 26: path ['+XZIIZIIIX', '-IIIIZZZZI', '+IIIXXIIXY', '-IZZIIZZII', '+IIZZXIZXZ'] ok, ideal acceptance 0.0078125
+  leaf 27: path ['+XZIIZIIIX', '-IIIIZZZZI', '+IIIXXIIXY', '-IZZIIZZII', '-IIZZXIZXZ'] ok, ideal acceptance 0.0078125
+  leaf 28: path ['+XZIIZIIIX', '-IIIIZZZZI', '-IIIXXIIXY', '+IZIZIIZZI', '+IIZZXYZIZ'] ok, ideal acceptance 0.0078125
+  leaf 29: path ['+XZIIZIIIX', '-IIIIZZZZI', '-IIIXXIIXY', '+IZIZIIZZI', '-IIZZXYZIZ'] ok, ideal acceptance 0.0078125
+  leaf 30: path ['+XZIIZIIIX', '-IIIIZZZZI', '-IIIXXIIXY', '-IZIZIIZZI', '+IIZZXXZIZ'] ok, ideal acceptance 0.0078125
+  leaf 31: path ['+XZIIZIIIX', '-IIIIZZZZI', '-IIIXXIIXY', '-IZIZIIZZI', '-IIZZXXZIZ'] ok, ideal acceptance 0.0078125
+leaves = 32; A(0) = 1/4
+A / (D/256) = 32; H / (N/256) = 32
+eps/p^2 at 0 = 27/2; harmful by weight [0, 0, 36, 68, 105, 109, 82, 20, 7, 1]
+criterion E: gap(0) = 13/8, roots in [0,1/100] = 0, gap(1/100) = 1.44336783688000
+eps(0.01) = 0.00137867820859

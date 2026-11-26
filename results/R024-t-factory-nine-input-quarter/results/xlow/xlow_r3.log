@@ -1,0 +1,8 @@
+r=3: 4 graph classes, sum 1/|Aut| = 1.3333 (expected 2^3/3! = 1.3333) t=0s
+w=1 done: codes 71072 valid 0 A0>=1/128 0 max A0*2^20 0 t=1s
+w=2 done: codes 303824 valid 0 A0>=1/128 0 max A0*2^20 0 t=3s
+w=3 done: codes 683264 valid 0 A0>=1/128 0 max A0*2^20 0 t=6s
+w=4 done: codes 1062704 valid 0 A0>=1/128 0 max A0*2^20 0 t=9s
+w=5 done: codes 1295456 valid 0 A0>=1/128 0 max A0*2^20 0 t=11s
+w=6 done: codes 1366528 valid 0 A0>=1/128 0 max A0*2^20 0 t=12s
+DONE r=3 graphs 0-4: codes tested 1366528, valid codes 0, A0>=1/128 0, max A0*2^20 0

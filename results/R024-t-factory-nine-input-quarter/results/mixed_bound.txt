@@ -1,0 +1,15 @@
+max A0*2^20 outside the orbit, X-rank 8, a != 0: 181
+max A0*2^20 outside the orbit, X-rank 8, a = 0: 372
+max A0*2^20 outside the orbit, X-rank 7: 1144
+max A0*2^20 outside the orbit, X-rank 0: 0
+max A0*2^20 outside the orbit, X-rank 1: 0
+max A0*2^20 outside the orbit, X-rank 2: 0
+max A0*2^20 outside the orbit, X-rank 3: 0
+max A0*2^20 outside the orbit, X-rank 4: 482
+max A0*2^20 outside the orbit, X-rank 5: 482
+max A0*2^20 outside the orbit, X-rank 6, runs without orbit codes: 482
+max A0*2^20 outside the orbit, X-rank 6, runs with orbit codes (second best): 151
+orbit codes with A0 >= 1/128 checked: 48, outside the orbit: 0
+max orbit leaves per tree: 4 * max V(G2) = 32
+m <= 2289/2^21 = 0.00109148 (< 1/128: True)
+A(0) <= 32/128 + 224 m = 32407/65536 = 0.494492; below 1/2: True; margin 0.005508

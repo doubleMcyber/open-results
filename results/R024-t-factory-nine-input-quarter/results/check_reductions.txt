@@ -1,0 +1,30 @@
+# src/check_reductions.py 40 2, 2026-11-24 14:16 PST, commit 257c99c+uncommitted (script in this commit)
+B: 40 random protocols (m = 1, 2 ancillas, depth 7), 2615 records x 512 patterns, 1396 coin nodes, 1179 genuine nodes; max |Pr - 2^-k Pr_tree|, |Bloch diff| = 2.70e-14; coin-free best >= original everywhere (largest gain 0.454)
+B: coin-free trees complete: max |sum of leaf probabilities - 1| = 8.88e-16 over 40 trees
+S: scrambled 1/4 tree (m = 1): A(0) = 0.250000000000000 (want 0.25), all 32 leaf groups recovered by the tracker: True
+S: scrambled 1/4 tree (m = 2): A(0) = 0.250000000000000 (want 0.25), all 32 leaf groups recovered by the tracker: True
+S: scrambled 1/4 tree (m = 1): A(0) = 0.250000000000000 (want 0.25), all 32 leaf groups recovered by the tracker: True
+A: rank-7 subgroups of the 32 leaves (drop one generator, keep the leaf's logicals): 256 tested, 0 valid as parents; none to split, so this real-input part is vacuous (the constructed cases below test the split)
+A: constructed rank 7 parent (product): children sum to parent True; max child-parent Bloch diff 6.33e-15; parent purity defect 4.66e-15
+A: constructed rank 7 parent (entangled, negative control): children sum to parent True; max child-parent Bloch diff 9.21e-01; parent purity defect 9.98e-01
+A: constructed rank 6 parent (product): children sum to parent True; max child-parent Bloch diff 5.44e-15; parent purity defect 3.44e-15
+A: constructed rank 6 parent (entangled, negative control): children sum to parent True; max child-parent Bloch diff 7.81e-01; parent purity defect 9.74e-01
+ALL CHECKS PASSED
+      152.01 real       140.19 user         2.53 sys
+           579256320  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+              330277  page reclaims
+                  76  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                 156  voluntary context switches
+              261197  involuntary context switches
+       1467312965846  instructions retired
+        457065094597  cycles elapsed
+           629523392  peak memory footprint

@@ -1,0 +1,1637 @@
+seeded 3039 classes from logs/scan_up3.txt
+seeded 122 classes from logs/rec_dim2_old.txt
+loaded 996 split dim-4 classes from logs/scan_g4.txt
+V(G2)=8 rows (128, 64) gens ['+IIZZZZIII', '+IZIZZIZII'] t=25s
+V(G2)=8 rows (128, 65) gens ['+IIZZZZIII', '-XIIZIIZIX'] t=26s
+V(G2)=8 rows (128, 66) gens ['+IIZZZZIII', '+XZZZIIZXI'] t=26s
+  V=8 at ['+IIZZZZIII', '-ZYZIZIYZI'] codes=768 splits=8400 pairs=47 memo=3163 t=33s
+V(G2)=8 rows (128, 68) gens ['+IIZZZZIII', '-ZYZIZIYZI'] t=33s
+V(G2)=8 rows (128, 69) gens ['+IIZZZZIII', '-YXZIIIYZX'] t=34s
+V(G2)=8 rows (128, 70) gens ['+IIZZZZIII', '+YYIIIIYYI'] t=36s
+V(G2)=8 rows (128, 72) gens ['+IIZZZZIII', '+ZIXZIXZIZ'] t=37s
+V(G2)=8 rows (128, 73) gens ['+IIZZZZIII', '+YZXZZXZIY'] t=37s
+V(G2)=8 rows (128, 74) gens ['+IIZZZZIII', '+YIYZZXZXZ'] t=38s
+V(G2)=8 rows (128, 75) gens ['+IIZZZZIII', '-ZZYZIXZXY'] t=39s
+V(G2)=8 rows (128, 76) gens ['+IIZZZZIII', '+IXYIIXYZZ'] t=39s
+V(G2)=5 rows (128, 77) gens ['+IIZZZZIII', '-XYYIZXYZY'] t=40s
+V(G2)=5 rows (128, 78) gens ['+IIZZZZIII', '-XXXIZXYYZ'] t=40s
+V(G2)=8 rows (128, 79) gens ['+IIZZZZIII', '+IYXIIXYYY'] t=41s
+V(G2)=8 rows (128, 80) gens ['+IIZZZZIII', '+YYYZYIZZZ'] t=41s
+V(G2)=8 rows (128, 81) gens ['+IIZZZZIII', '+ZXYZXIZZY'] t=42s
+V(G2)=5 rows (128, 83) gens ['+IIZZZZIII', '-YXXZYIZYY'] t=42s
+V(G2)=8 rows (128, 84) gens ['+IIZZZZIII', '-XZXIYIYIZ'] t=43s
+V(G2)=8 rows (128, 85) gens ['+IIZZZZIII', '-IIXIXIYIY'] t=44s
+  V=8 at ['+IIZZZZIII', '+XIYIYIYXY'] codes=960 splits=9584 pairs=145 memo=3164 t=49s
+V(G2)=8 rows (128, 87) gens ['+IIZZZZIII', '+XIYIYIYXY'] t=49s
+V(G2)=8 rows (128, 88) gens ['+IIZZZZIII', '-XXZZXXZZI'] t=49s
+V(G2)=8 rows (128, 89) gens ['+IIZZZZIII', '-IYZZYXZZX'] t=50s
+V(G2)=8 rows (128, 90) gens ['+IIZZZZIII', '-IXIZYXZYI'] t=51s
+V(G2)=5 rows (128, 91) gens ['+IIZZZZIII', '+XYIZXXZYX'] t=52s
+V(G2)=8 rows (128, 92) gens ['+IIZZZZIII', '-YIIIXXYII'] t=53s
+  V=8 at ['+IIZZZZIII', '+ZIZIYXYXI'] codes=640 splits=8660 pairs=266 memo=3165 t=58s
+V(G2)=8 rows (128, 94) gens ['+IIZZZZIII', '+ZIZIYXYXI'] t=58s
+V(G2)=8 rows (128, 105) gens ['+IIZZZZIII', '-IXIYZXZIY'] t=58s
+V(G2)=5 rows (128, 107) gens ['+IIZZZZIII', '-XXZYIXZXY'] t=59s
+V(G2)=8 rows (128, 109) gens ['+IIZZZZIII', '+ZIZXZXYZY'] t=60s
+V(G2)=4 rows (128, 111) gens ['+IIZZZZIII', '-YIIXIXYYY'] t=60s
+V(G2)=8 rows (128, 120) gens ['+IIZZZZIII', '+ZZYYXXZZI'] t=63s
+V(G2)=8 rows (128, 121) gens ['+IIZZZZIII', '-YIYYYXZZX'] t=63s
+V(G2)=4 rows (128, 122) gens ['+IIZZZZIII', '-YZXYYXZYI'] t=64s
+  V=8 at ['+IIZZZZIII', '+IYXXXXYII'] codes=3456 splits=10540 pairs=70 memo=3166 t=72s
+V(G2)=8 rows (128, 124) gens ['+IIZZZZIII', '+IYXXXXYII'] t=72s
+V(G2)=6 rows (128, 125) gens ['+IIZZZZIII', '-XXXXYXYIX'] t=74s
+V(G2)=4 rows (128, 126) gens ['+IIZZZZIII', '-XYYXYXYXI'] t=75s
+V(G2)=4 rows (129, 66) gens ['-XZZZIZIIX', '+XZZZIIZXI'] t=75s
+V(G2)=4 rows (129, 67) gens ['-XZZZIZIIX', '-IIZZZIZXX'] t=75s
+V(G2)=4 rows (129, 68) gens ['-XZZZIZIIX', '-ZYZIZIYZI'] t=75s
+V(G2)=4 rows (129, 69) gens ['-XZZZIZIIX', '-YXZIIIYZX'] t=75s
+V(G2)=8 rows (129, 70) gens ['-XZZZIZIIX', '+YYIIIIYYI'] t=76s
+  V=4 at ['-XZZZIZIIX', '-ZXIIZIYYX'] codes=144 splits=3224 pairs=61 memo=3167 t=77s
+V(G2)=4 rows (129, 71) gens ['-XZZZIZIIX', '-ZXIIZIYYX'] t=77s
+V(G2)=4 rows (129, 72) gens ['-XZZZIZIIX', '+ZIXZIXZIZ'] t=77s
+V(G2)=4 rows (129, 73) gens ['-XZZZIZIIX', '+YZXZZXZIY'] t=77s
+V(G2)=4 rows (129, 74) gens ['-XZZZIZIIX', '+YIYZZXZXZ'] t=78s
+  V=4 at ['-XZZZIZIIX', '-ZZYZIXZXY'] codes=128 splits=3392 pairs=221 memo=3168 t=79s
+V(G2)=4 rows (129, 75) gens ['-XZZZIZIIX', '-ZZYZIXZXY'] t=79s
+V(G2)=4 rows (129, 76) gens ['-XZZZIZIIX', '+IXYIIXYZZ'] t=79s
+  V=4 at ['-XZZZIZIIX', '-XYYIZXYZY'] codes=168 splits=3904 pairs=134 memo=3169 t=81s
+V(G2)=4 rows (129, 77) gens ['-XZZZIZIIX', '-XYYIZXYZY'] t=81s
+V(G2)=4 rows (129, 78) gens ['-XZZZIZIIX', '-XXXIZXYYZ'] t=81s
+  V=6 at ['-XZZZIZIIX', '+IYXIIXYYY'] codes=120 splits=3068 pairs=114 memo=3170 t=83s
+V(G2)=6 rows (129, 79) gens ['-XZZZIZIIX', '+IYXIIXYYY'] t=83s
+V(G2)=4 rows (129, 80) gens ['-XZZZIZIIX', '+YYYZYIZZZ'] t=83s
+V(G2)=4 rows (129, 81) gens ['-XZZZIZIIX', '+ZXYZXIZZY'] t=84s
+  V=4 at ['-XZZZIZIIX', '-ZYXZXIZYZ'] codes=96 splits=2448 pairs=95 memo=3171 t=85s
+V(G2)=4 rows (129, 82) gens ['-XZZZIZIIX', '-ZYXZXIZYZ'] t=85s
+  V=4 at ['-XZZZIZIIX', '-YXXZYIZYY'] codes=96 splits=2448 pairs=69 memo=3172 t=86s
+V(G2)=4 rows (129, 83) gens ['-XZZZIZIIX', '-YXXZYIZYY'] t=86s
+  V=8 at ['-XZZZIZIIX', '-XZXIYIYIZ'] codes=160 splits=4200 pairs=222 memo=3173 t=88s
+V(G2)=8 rows (129, 84) gens ['-XZZZIZIIX', '-XZXIYIYIZ'] t=88s
+V(G2)=8 rows (129, 85) gens ['-XZZZIZIIX', '-IIXIXIYIY'] t=88s
+V(G2)=4 rows (129, 86) gens ['-XZZZIZIIX', '-IZYIXIYXZ'] t=88s
+V(G2)=4 rows (129, 87) gens ['-XZZZIZIIX', '+XIYIYIYXY'] t=88s
+V(G2)=4 rows (129, 88) gens ['-XZZZIZIIX', '-XXZZXXZZI'] t=88s
+  V=4 at ['-XZZZIZIIX', '-IYZZYXZZX'] codes=144 splits=2728 pairs=100 memo=3175 t=90s
+V(G2)=4 rows (129, 89) gens ['-XZZZIZIIX', '-IYZZYXZZX'] t=90s
+V(G2)=4 rows (129, 90) gens ['-XZZZIZIIX', '-IXIZYXZYI'] t=90s
+  V=4 at ['-XZZZIZIIX', '+XYIZXXZYX'] codes=96 splits=2992 pairs=120 memo=3176 t=91s
+V(G2)=4 rows (129, 91) gens ['-XZZZIZIIX', '+XYIZXXZYX'] t=91s
+  V=8 at ['-XZZZIZIIX', '-ZZIIYXYIX'] codes=160 splits=4200 pairs=220 memo=3177 t=93s
+V(G2)=8 rows (129, 93) gens ['-XZZZIZIIX', '-ZZIIYXYIX'] t=93s
+V(G2)=4 rows (129, 94) gens ['-XZZZIZIIX', '+ZIZIYXYXI'] t=93s
+  V=4 at ['-XZZZIZIIX', '-YXXYZIZII'] codes=192 splits=4740 pairs=120 memo=3178 t=96s
+V(G2)=4 rows (129, 96) gens ['-XZZZIZIIX', '-YXXYZIZII'] t=96s
+  V=4 at ['-XZZZIZIIX', '-ZYXYIIZIX'] codes=240 splits=5308 pairs=165 memo=3179 t=101s
+V(G2)=4 rows (129, 97) gens ['-XZZZIZIIX', '-ZYXYIIZIX'] t=101s
+V(G2)=4 rows (129, 98) gens ['-XZZZIZIIX', '+ZXYYIIZXI'] t=101s
+  V=4 at ['-XZZZIZIIX', '-YYYYZIZXX'] codes=168 splits=3904 pairs=103 memo=3180 t=104s
+V(G2)=4 rows (129, 99) gens ['-XZZZIZIIX', '-YYYYZIZXX'] t=104s
+  V=4 at ['-XZZZIZIIX', '-IZYXIIYZX'] codes=112 splits=3188 pairs=205 memo=3182 t=106s
+V(G2)=4 rows (129, 101) gens ['-XZZZIZIIX', '-IZYXIIYZX'] t=106s
+V(G2)=4 rows (129, 102) gens ['-XZZZIZIIX', '-IIXXIIYYI'] t=106s
+V(G2)=4 rows (129, 104) gens ['-XZZZIZIIX', '-XYIYIXZIZ'] t=107s
+V(G2)=4 rows (129, 107) gens ['-XZZZIZIIX', '-XXZYIXZXY'] t=107s
+  V=4 at ['-XZZZIZIIX', '-YZZXIXYZZ'] codes=128 splits=3392 pairs=179 memo=3183 t=108s
+V(G2)=4 rows (129, 108) gens ['-XZZZIZIIX', '-YZZXIXYZZ'] t=108s
+V(G2)=4 rows (129, 111) gens ['-XZZZIZIIX', '-YIIXIXYYY'] t=109s
+V(G2)=4 rows (129, 112) gens ['-XZZZIZIIX', '-IIZYYIZZZ'] t=109s
+  V=8 at ['-XZZZIZIIX', '-IZIYYIZYY'] codes=112 splits=2588 pairs=115 memo=3184 t=110s
+V(G2)=8 rows (129, 115) gens ['-XZZZIZIIX', '-IZIYYIZYY'] t=110s
+V(G2)=2 rows (129, 116) gens ['-XZZZIZIIX', '+ZXIXYIYIZ'] t=110s
+  V=4 at ['-XZZZIZIIX', '+YYIXXIYIY'] codes=320 splits=5160 pairs=176 memo=3185 t=112s
+V(G2)=4 rows (129, 117) gens ['-XZZZIZIIX', '+YYIXXIYIY'] t=112s
+  V=4 at ['-XZZZIZIIX', '-YXZXXIYXZ'] codes=96 splits=2148 pairs=50 memo=3187 t=114s
+V(G2)=4 rows (129, 118) gens ['-XZZZIZIIX', '-YXZXXIYXZ'] t=114s
+  V=4 at ['-XZZZIZIIX', '-ZYZXYIYXY'] codes=96 splits=2148 pairs=45 memo=3188 t=115s
+V(G2)=4 rows (129, 119) gens ['-XZZZIZIIX', '-ZYZXYIYXY'] t=115s
+V(G2)=4 rows (129, 121) gens ['-XZZZIZIIX', '-YIYYYXZZX'] t=115s
+V(G2)=4 rows (129, 122) gens ['-XZZZIZIIX', '-YZXYYXZYI'] t=115s
+  V=4 at ['-XZZZIZIIX', '+IYXXXXYII'] codes=384 splits=5408 pairs=62 memo=3217 t=120s
+V(G2)=4 rows (129, 124) gens ['-XZZZIZIIX', '+IYXXXXYII'] t=120s
+V(G2)=4 rows (129, 125) gens ['-XZZZIZIIX', '-XXXXYXYIX'] t=120s
+V(G2)=3 rows (129, 126) gens ['-XZZZIZIIX', '-XYYXYXYXI'] t=120s
+V(G2)=3 rows (129, 127) gens ['-XZZZIZIIX', '-IXYXXXYXX'] t=120s
+V(G2)=4 rows (130, 65) gens ['+XIIZIZIXI', '-XIIZIIZIX'] t=120s
+V(G2)=4 rows (130, 68) gens ['+XIIZIZIXI', '-ZYZIZIYZI'] t=121s
+V(G2)=4 rows (130, 69) gens ['+XIIZIZIXI', '-YXZIIIYZX'] t=121s
+V(G2)=8 rows (130, 70) gens ['+XIIZIZIXI', '+YYIIIIYYI'] t=121s
+V(G2)=4 rows (130, 72) gens ['+XIIZIZIXI', '+ZIXZIXZIZ'] t=121s
+V(G2)=4 rows (130, 73) gens ['+XIIZIZIXI', '+YZXZZXZIY'] t=121s
+V(G2)=4 rows (130, 74) gens ['+XIIZIZIXI', '+YIYZZXZXZ'] t=121s
+  V=8 at ['+XIIZIZIXI', '-ZZYZIXZXY'] codes=48 splits=1492 pairs=73 memo=3218 t=122s
+V(G2)=8 rows (130, 75) gens ['+XIIZIZIXI', '-ZZYZIXZXY'] t=122s
+  V=4 at ['+XIIZIZIXI', '+IXYIIXYZZ'] codes=72 splits=1836 pairs=118 memo=3220 t=123s
+V(G2)=4 rows (130, 76) gens ['+XIIZIZIXI', '+IXYIIXYZZ'] t=123s
+V(G2)=2 rows (130, 77) gens ['+XIIZIZIXI', '-XYYIZXYZY'] t=123s
+V(G2)=4 rows (130, 78) gens ['+XIIZIZIXI', '-XXXIZXYYZ'] t=123s
+V(G2)=4 rows (130, 79) gens ['+XIIZIZIXI', '+IYXIIXYYY'] t=123s
+  V=4 at ['+XIIZIZIXI', '+YYYZYIZZZ'] codes=144 splits=3828 pairs=31 memo=3221 t=126s
+V(G2)=4 rows (130, 80) gens ['+XIIZIZIXI', '+YYYZYIZZZ'] t=126s
+V(G2)=3 rows (130, 81) gens ['+XIIZIZIXI', '+ZXYZXIZZY'] t=126s
+V(G2)=4 rows (130, 82) gens ['+XIIZIZIXI', '-ZYXZXIZYZ'] t=126s
+V(G2)=4 rows (130, 84) gens ['+XIIZIZIXI', '-XZXIYIYIZ'] t=126s
+V(G2)=8 rows (130, 85) gens ['+XIIZIZIXI', '-IIXIXIYIY'] t=126s
+V(G2)=8 rows (130, 87) gens ['+XIIZIZIXI', '+XIYIYIYXY'] t=126s
+V(G2)=8 rows (130, 88) gens ['+XIIZIZIXI', '-XXZZXXZZI'] t=127s
+  V=4 at ['+XIIZIZIXI', '-IYZZYXZZX'] codes=96 splits=1908 pairs=58 memo=3222 t=128s
+V(G2)=4 rows (130, 89) gens ['+XIIZIZIXI', '-IYZZYXZZX'] t=128s
+  V=8 at ['+XIIZIZIXI', '-IXIZYXZYI'] codes=80 splits=2652 pairs=153 memo=3223 t=130s
+V(G2)=8 rows (130, 90) gens ['+XIIZIZIXI', '-IXIZYXZYI'] t=130s
+  V=4 at ['+XIIZIZIXI', '+XYIZXXZYX'] codes=72 splits=1836 pairs=112 memo=3224 t=131s
+V(G2)=4 rows (130, 91) gens ['+XIIZIZIXI', '+XYIZXXZYX'] t=131s
+V(G2)=8 rows (130, 92) gens ['+XIIZIZIXI', '-YIIIXXYII'] t=131s
+V(G2)=4 rows (130, 93) gens ['+XIIZIZIXI', '-ZZIIYXYIX'] t=131s
+  V=8 at ['+XIIZIZIXI', '+ZIZIYXYXI'] codes=80 splits=2652 pairs=136 memo=3225 t=133s
+V(G2)=8 rows (130, 94) gens ['+XIIZIZIXI', '+ZIZIYXYXI'] t=133s
+V(G2)=4 rows (130, 95) gens ['+XIIZIZIXI', '+YZZIXXYXX'] t=133s
+V(G2)=4 rows (130, 104) gens ['+XIIZIZIXI', '-XYIYIXZIZ'] t=133s
+V(G2)=4 rows (130, 105) gens ['+XIIZIZIXI', '-IXIYZXZIY'] t=133s
+V(G2)=4 rows (130, 106) gens ['+XIIZIZIXI', '-IYZYZXZXZ'] t=133s
+V(G2)=4 rows (130, 108) gens ['+XIIZIZIXI', '-YZZXIXYZZ'] t=133s
+V(G2)=4 rows (130, 109) gens ['+XIIZIZIXI', '+ZIZXZXYZY'] t=133s
+V(G2)=8 rows (130, 111) gens ['+XIIZIZIXI', '-YIIXIXYYY'] t=134s
+  V=6 at ['+XIIZIZIXI', '+ZZYYXXZZI'] codes=128 splits=2888 pairs=66 memo=3226 t=135s
+V(G2)=6 rows (130, 120) gens ['+XIIZIZIXI', '+ZZYYXXZZI'] t=135s
+V(G2)=2 rows (130, 121) gens ['+XIIZIZIXI', '-YIYYYXZZX'] t=135s
+V(G2)=2 rows (130, 123) gens ['+XIIZIZIXI', '+ZIXYXXZYX'] t=135s
+V(G2)=4 rows (130, 124) gens ['+XIIZIZIXI', '+IYXXXXYII'] t=135s
+  V=3 at ['+XIIZIZIXI', '-XXXXYXYIX'] codes=240 splits=3040 pairs=14 memo=3233 t=137s
+V(G2)=3 rows (130, 125) gens ['+XIIZIZIXI', '-XXXXYXYIX'] t=137s
+  V=4 at ['+XIIZIZIXI', '-XYYXYXYXI'] codes=192 splits=2784 pairs=19 memo=3246 t=139s
+V(G2)=4 rows (130, 126) gens ['+XIIZIZIXI', '-XYYXYXYXI'] t=139s
+V(G2)=4 rows (132, 69) gens ['+ZXIIZZXZI', '-YXZIIIYZX'] t=140s
+  V=8 at ['+ZXIIZZXZI', '+YYIIIIYYI'] codes=768 splits=7068 pairs=27 memo=3247 t=143s
+V(G2)=8 rows (132, 70) gens ['+ZXIIZZXZI', '+YYIIIIYYI'] t=143s
+V(G2)=4 rows (132, 71) gens ['+ZXIIZZXZI', '-ZXIIZIYYX'] t=143s
+  V=4 at ['+ZXIIZZXZI', '+ZIXZIXZIZ'] codes=256 splits=3968 pairs=82 memo=3249 t=146s
+V(G2)=4 rows (132, 72) gens ['+ZXIIZZXZI', '+ZIXZIXZIZ'] t=146s
+V(G2)=4 rows (132, 73) gens ['+ZXIIZZXZI', '+YZXZZXZIY'] t=146s
+V(G2)=4 rows (132, 74) gens ['+ZXIIZZXZI', '+YIYZZXZXZ'] t=146s
+V(G2)=4 rows (132, 75) gens ['+ZXIIZZXZI', '-ZZYZIXZXY'] t=147s
+  V=4 at ['+ZXIIZZXZI', '+IXYIIXYZZ'] codes=128 splits=3144 pairs=124 memo=3250 t=149s
+V(G2)=4 rows (132, 76) gens ['+ZXIIZZXZI', '+IXYIIXYZZ'] t=149s
+  V=4 at ['+ZXIIZZXZI', '-XYYIZXYZY'] codes=192 splits=4672 pairs=87 memo=3251 t=151s
+V(G2)=4 rows (132, 77) gens ['+ZXIIZZXZI', '-XYYIZXYZY'] t=151s
+V(G2)=4 rows (132, 78) gens ['+ZXIIZZXZI', '-XXXIZXYYZ'] t=152s
+  V=4 at ['+ZXIIZZXZI', '+IYXIIXYYY'] codes=320 splits=5160 pairs=149 memo=3252 t=155s
+V(G2)=4 rows (132, 79) gens ['+ZXIIZZXZI', '+IYXIIXYYY'] t=155s
+V(G2)=4 rows (132, 80) gens ['+ZXIIZZXZI', '+YYYZYIZZZ'] t=156s
+V(G2)=8 rows (132, 81) gens ['+ZXIIZZXZI', '+ZXYZXIZZY'] t=156s
+V(G2)=4 rows (132, 82) gens ['+ZXIIZZXZI', '-ZYXZXIZYZ'] t=156s
+  V=4 at ['+ZXIIZZXZI', '-YXXZYIZYY'] codes=72 splits=1340 pairs=45 memo=3254 t=157s
+V(G2)=4 rows (132, 83) gens ['+ZXIIZZXZI', '-YXXZYIZYY'] t=157s
+V(G2)=4 rows (132, 84) gens ['+ZXIIZZXZI', '-XZXIYIYIZ'] t=157s
+V(G2)=8 rows (132, 85) gens ['+ZXIIZZXZI', '-IIXIXIYIY'] t=158s
+V(G2)=4 rows (132, 86) gens ['+ZXIIZZXZI', '-IZYIXIYXZ'] t=158s
+V(G2)=6 rows (132, 87) gens ['+ZXIIZZXZI', '+XIYIYIYXY'] t=158s
+  V=4 at ['+ZXIIZZXZI', '-XXZZXXZZI'] codes=192 splits=4740 pairs=119 memo=3255 t=161s
+V(G2)=4 rows (132, 88) gens ['+ZXIIZZXZI', '-XXZZXXZZI'] t=161s
+V(G2)=4 rows (132, 89) gens ['+ZXIIZZXZI', '-IYZZYXZZX'] t=161s
+  V=4 at ['+ZXIIZZXZI', '-IXIZYXZYI'] codes=240 splits=5308 pairs=191 memo=3256 t=164s
+V(G2)=4 rows (132, 90) gens ['+ZXIIZZXZI', '-IXIZYXZYI'] t=164s
+  V=4 at ['+ZXIIZZXZI', '+XYIZXXZYX'] codes=96 splits=2168 pairs=27 memo=3257 t=165s
+V(G2)=4 rows (132, 91) gens ['+ZXIIZZXZI', '+XYIZXXZYX'] t=165s
+  V=8 at ['+ZXIIZZXZI', '-YIIIXXYII'] codes=576 splits=7152 pairs=101 memo=3258 t=168s
+V(G2)=8 rows (132, 92) gens ['+ZXIIZZXZI', '-YIIIXXYII'] t=168s
+  V=4 at ['+ZXIIZZXZI', '-ZZIIYXYIX'] codes=96 splits=2708 pairs=98 memo=3259 t=170s
+V(G2)=4 rows (132, 93) gens ['+ZXIIZZXZI', '-ZZIIYXYIX'] t=170s
+  V=4 at ['+ZXIIZZXZI', '+ZIZIYXYXI'] codes=240 splits=5308 pairs=190 memo=3260 t=172s
+V(G2)=4 rows (132, 94) gens ['+ZXIIZZXZI', '+ZIZIYXYXI'] t=172s
+  V=8 at ['+ZXIIZZXZI', '-YXXYZIZII'] codes=160 splits=4200 pairs=255 memo=3261 t=174s
+V(G2)=8 rows (132, 96) gens ['+ZXIIZZXZI', '-YXXYZIZII'] t=174s
+  V=4 at ['+ZXIIZZXZI', '-ZYXYIIZIX'] codes=288 splits=4296 pairs=51 memo=3262 t=176s
+V(G2)=4 rows (132, 97) gens ['+ZXIIZZXZI', '-ZYXYIIZIX'] t=176s
+V(G2)=8 rows (132, 98) gens ['+ZXIIZZXZI', '+ZXYYIIZXI'] t=176s
+V(G2)=4 rows (132, 99) gens ['+ZXIIZZXZI', '-YYYYZIZXX'] t=176s
+V(G2)=8 rows (132, 100) gens ['+ZXIIZZXZI', '+XIYXZIYZI'] t=177s
+  V=8 at ['+ZXIIZZXZI', '-IIXXIIYYI'] codes=288 splits=5632 pairs=105 memo=3263 t=179s
+V(G2)=8 rows (132, 102) gens ['+ZXIIZZXZI', '-IIXXIIYYI'] t=179s
+V(G2)=4 rows (132, 103) gens ['+ZXIIZZXZI', '+XZXXZIYYX'] t=179s
+V(G2)=8 rows (132, 105) gens ['+ZXIIZZXZI', '-IXIYZXZIY'] t=180s
+V(G2)=4 rows (132, 107) gens ['+ZXIIZZXZI', '-XXZYIXZXY'] t=180s
+V(G2)=4 rows (132, 109) gens ['+ZXIIZZXZI', '+ZIZXZXYZY'] t=180s
+  V=2 at ['+ZXIIZZXZI', '-YIIXIXYYY'] codes=24 splits=504 pairs=16 memo=3278 t=181s
+V(G2)=2 rows (132, 111) gens ['+ZXIIZZXZI', '-YIIXIXYYY'] t=181s
+V(G2)=4 rows (132, 112) gens ['+ZXIIZZXZI', '-IIZYYIZZZ'] t=182s
+V(G2)=4 rows (132, 114) gens ['+ZXIIZZXZI', '+XIIYXIZYZ'] t=182s
+V(G2)=4 rows (132, 116) gens ['+ZXIIZZXZI', '+ZXIXYIYIZ'] t=182s
+V(G2)=4 rows (132, 118) gens ['+ZXIIZZXZI', '-YXZXXIYXZ'] t=182s
+V(G2)=4 rows (132, 120) gens ['+ZXIIZZXZI', '+ZZYYXXZZI'] t=182s
+  V=3 at ['+ZXIIZZXZI', '-YIYYYXZZX'] codes=144 splits=1476 pairs=36 memo=3281 t=183s
+V(G2)=3 rows (132, 121) gens ['+ZXIIZZXZI', '-YIYYYXZZX'] t=183s
+  V=2 at ['+ZXIIZZXZI', '-YZXYYXZYI'] codes=192 splits=3200 pairs=26 memo=3292 t=185s
+V(G2)=2 rows (132, 122) gens ['+ZXIIZZXZI', '-YZXYYXZYI'] t=185s
+  V=3 at ['+ZXIIZZXZI', '+ZIXYXXZYX'] codes=144 splits=1476 pairs=35 memo=3294 t=186s
+V(G2)=3 rows (132, 123) gens ['+ZXIIZZXZI', '+ZIXYXXZYX'] t=186s
+V(G2)=4 rows (132, 124) gens ['+ZXIIZZXZI', '+IYXXXXYII'] t=187s
+  V=4 at ['+ZXIIZZXZI', '-XXXXYXYIX'] codes=144 splits=3348 pairs=43 memo=3295 t=188s
+V(G2)=4 rows (132, 125) gens ['+ZXIIZZXZI', '-XXXXYXYIX'] t=188s
+  V=4 at ['+ZXIIZZXZI', '-IXYXXXYXX'] codes=144 splits=3348 pairs=42 memo=3296 t=189s
+V(G2)=4 rows (132, 127) gens ['+ZXIIZZXZI', '-IXYXXXYXX'] t=189s
+V(G2)=8 rows (133, 69) gens ['-YYIIIZXZX', '-YXZIIIYZX'] t=190s
+  V=8 at ['-YYIIIZXZX', '+YYIIIIYYI'] codes=96 splits=2380 pairs=37 memo=3297 t=191s
+V(G2)=8 rows (133, 70) gens ['-YYIIIZXZX', '+YYIIIIYYI'] t=191s
+V(G2)=4 rows (133, 71) gens ['-YYIIIZXZX', '-ZXIIZIYYX'] t=191s
+V(G2)=4 rows (133, 72) gens ['-YYIIIZXZX', '+ZIXZIXZIZ'] t=191s
+  V=5 at ['-YYIIIZXZX', '+YZXZZXZIY'] codes=216 splits=5584 pairs=473 memo=3299 t=193s
+V(G2)=5 rows (133, 73) gens ['-YYIIIZXZX', '+YZXZZXZIY'] t=193s
+  V=4 at ['-YYIIIZXZX', '+YIYZZXZXZ'] codes=176 splits=5196 pairs=179 memo=3301 t=195s
+V(G2)=4 rows (133, 74) gens ['-YYIIIZXZX', '+YIYZZXZXZ'] t=195s
+  V=4 at ['-YYIIIZXZX', '-ZZYZIXZXY'] codes=120 splits=2632 pairs=102 memo=3304 t=196s
+V(G2)=4 rows (133, 75) gens ['-YYIIIZXZX', '-ZZYZIXZXY'] t=196s
+  V=4 at ['-YYIIIZXZX', '+IXYIIXYZZ'] codes=32 splits=1308 pairs=31 memo=3305 t=197s
+V(G2)=4 rows (133, 76) gens ['-YYIIIZXZX', '+IXYIIXYZZ'] t=197s
+  V=4 at ['-YYIIIZXZX', '-XXXIZXYYZ'] codes=192 splits=5024 pairs=241 memo=3307 t=199s
+V(G2)=4 rows (133, 78) gens ['-YYIIIZXZX', '-XXXIZXYYZ'] t=199s
+  V=4 at ['-YYIIIZXZX', '+IYXIIXYYY'] codes=304 splits=6512 pairs=181 memo=3308 t=202s
+V(G2)=4 rows (133, 79) gens ['-YYIIIZXZX', '+IYXIIXYYY'] t=202s
+  V=4 at ['-YYIIIZXZX', '+YYYZYIZZZ'] codes=192 splits=5032 pairs=114 memo=3309 t=204s
+V(G2)=4 rows (133, 80) gens ['-YYIIIZXZX', '+YYYZYIZZZ'] t=204s
+  V=4 at ['-YYIIIZXZX', '+ZXYZXIZZY'] codes=288 splits=6320 pairs=277 memo=3310 t=207s
+V(G2)=4 rows (133, 81) gens ['-YYIIIZXZX', '+ZXYZXIZZY'] t=207s
+  V=4 at ['-YYIIIZXZX', '-ZYXZXIZYZ'] codes=132 splits=2736 pairs=126 memo=3314 t=208s
+V(G2)=4 rows (133, 82) gens ['-YYIIIZXZX', '-ZYXZXIZYZ'] t=208s
+  V=4 at ['-YYIIIZXZX', '-YXXZYIZYY'] codes=128 splits=3700 pairs=434 memo=3316 t=210s
+V(G2)=4 rows (133, 83) gens ['-YYIIIZXZX', '-YXXZYIZYY'] t=210s
+  V=4 at ['-YYIIIZXZX', '-XZXIYIYIZ'] codes=224 splits=4384 pairs=133 memo=3317 t=212s
+V(G2)=4 rows (133, 84) gens ['-YYIIIZXZX', '-XZXIYIYIZ'] t=212s
+  V=4 at ['-YYIIIZXZX', '-IIXIXIYIY'] codes=288 splits=6400 pairs=116 memo=3318 t=215s
+V(G2)=4 rows (133, 85) gens ['-YYIIIZXZX', '-IIXIXIYIY'] t=215s
+  V=4 at ['-YYIIIZXZX', '-IZYIXIYXZ'] codes=112 splits=3880 pairs=341 memo=3319 t=217s
+V(G2)=4 rows (133, 86) gens ['-YYIIIZXZX', '-IZYIXIYXZ'] t=217s
+  V=4 at ['-YYIIIZXZX', '+XIYIYIYXY'] codes=240 splits=5468 pairs=246 memo=3320 t=219s
+V(G2)=4 rows (133, 87) gens ['-YYIIIZXZX', '+XIYIYIYXY'] t=219s
+  V=5 at ['-YYIIIZXZX', '-XXZZXXZZI'] codes=216 splits=5584 pairs=371 memo=3321 t=221s
+V(G2)=5 rows (133, 88) gens ['-YYIIIZXZX', '-XXZZXXZZI'] t=221s
+  V=4 at ['-YYIIIZXZX', '-IYZZYXZZX'] codes=184 splits=5208 pairs=420 memo=3323 t=224s
+V(G2)=4 rows (133, 89) gens ['-YYIIIZXZX', '-IYZZYXZZX'] t=224s
+  V=4 at ['-YYIIIZXZX', '-IXIZYXZYI'] codes=112 splits=3880 pairs=342 memo=3325 t=226s
+V(G2)=4 rows (133, 90) gens ['-YYIIIZXZX', '-IXIZYXZYI'] t=226s
+  V=4 at ['-YYIIIZXZX', '+XYIZXXZYX'] codes=112 splits=3880 pairs=334 memo=3326 t=228s
+V(G2)=4 rows (133, 91) gens ['-YYIIIZXZX', '+XYIZXXZYX'] t=228s
+  V=8 at ['-YYIIIZXZX', '-YIIIXXYII'] codes=192 splits=5232 pairs=227 memo=3327 t=230s
+V(G2)=8 rows (133, 92) gens ['-YYIIIZXZX', '-YIIIXXYII'] t=230s
+  V=6 at ['-YYIIIZXZX', '-ZZIIYXYIX'] codes=192 splits=5256 pairs=199 memo=3328 t=232s
+V(G2)=6 rows (133, 93) gens ['-YYIIIZXZX', '-ZZIIYXYIX'] t=232s
+  V=4 at ['-YYIIIZXZX', '+ZIZIYXYXI'] codes=112 splits=3792 pairs=282 memo=3330 t=233s
+V(G2)=4 rows (133, 94) gens ['-YYIIIZXZX', '+ZIZIYXYXI'] t=233s
+  V=4 at ['-YYIIIZXZX', '+YZZIXXYXX'] codes=112 splits=3792 pairs=276 memo=3332 t=235s
+V(G2)=4 rows (133, 95) gens ['-YYIIIZXZX', '+YZZIXXYXX'] t=235s
+  V=4 at ['-YYIIIZXZX', '-YXXYZIZII'] codes=184 splits=5208 pairs=405 memo=3333 t=237s
+V(G2)=4 rows (133, 96) gens ['-YYIIIZXZX', '-YXXYZIZII'] t=237s
+  V=4 at ['-YYIIIZXZX', '-ZYXYIIZIX'] codes=192 splits=4688 pairs=59 memo=3334 t=239s
+V(G2)=4 rows (133, 97) gens ['-YYIIIZXZX', '-ZYXYIIZIX'] t=239s
+  V=4 at ['-YYIIIZXZX', '+ZXYYIIZXI'] codes=112 splits=3792 pairs=289 memo=3335 t=240s
+V(G2)=4 rows (133, 98) gens ['-YYIIIZXZX', '+ZXYYIIZXI'] t=240s
+  V=4 at ['-YYIIIZXZX', '-YYYYZIZXX'] codes=84 splits=1744 pairs=62 memo=3341 t=242s
+V(G2)=4 rows (133, 99) gens ['-YYIIIZXZX', '-YYYYZIZXX'] t=242s
+  V=4 at ['-YYIIIZXZX', '+XIYXZIYZI'] codes=192 splits=5032 pairs=167 memo=3342 t=244s
+V(G2)=4 rows (133, 100) gens ['-YYIIIZXZX', '+XIYXZIYZI'] t=244s
+  V=6 at ['-YYIIIZXZX', '-IZYXIIYZX'] codes=144 splits=4840 pairs=498 memo=3343 t=246s
+V(G2)=6 rows (133, 101) gens ['-YYIIIZXZX', '-IZYXIIYZX'] t=246s
+  V=6 at ['-YYIIIZXZX', '-IIXXIIYYI'] codes=168 splits=3956 pairs=151 memo=3344 t=247s
+V(G2)=6 rows (133, 102) gens ['-YYIIIZXZX', '-IIXXIIYYI'] t=247s
+  V=4 at ['-YYIIIZXZX', '+XZXXZIYYX'] codes=128 splits=3700 pairs=357 memo=3346 t=249s
+V(G2)=4 rows (133, 103) gens ['-YYIIIZXZX', '+XZXXZIYYX'] t=249s
+  V=6 at ['-YYIIIZXZX', '-XYIYIXZIZ'] codes=192 splits=5256 pairs=195 memo=3347 t=251s
+V(G2)=6 rows (133, 104) gens ['-YYIIIZXZX', '-XYIYIXZIZ'] t=251s
+  V=4 at ['-YYIIIZXZX', '-IXIYZXZIY'] codes=176 splits=5880 pairs=475 memo=3348 t=254s
+V(G2)=4 rows (133, 105) gens ['-YYIIIZXZX', '-IXIYZXZIY'] t=254s
+V(G2)=4 rows (133, 106) gens ['-YYIIIZXZX', '-IYZYZXZXZ'] t=254s
+V(G2)=4 rows (133, 107) gens ['-YYIIIZXZX', '-XXZYIXZXY'] t=255s
+  V=4 at ['-YYIIIZXZX', '-YZZXIXYZZ'] codes=176 splits=5880 pairs=627 memo=3349 t=257s
+V(G2)=4 rows (133, 108) gens ['-YYIIIZXZX', '-YZZXIXYZZ'] t=257s
+  V=5 at ['-YYIIIZXZX', '+ZIZXZXYZY'] codes=216 splits=5584 pairs=331 memo=3350 t=260s
+V(G2)=5 rows (133, 109) gens ['-YYIIIZXZX', '+ZIZXZXYZY'] t=260s
+  V=4 at ['-YYIIIZXZX', '-ZZIXZXYYZ'] codes=192 splits=5024 pairs=241 memo=3351 t=262s
+V(G2)=4 rows (133, 110) gens ['-YYIIIZXZX', '-ZZIXZXYYZ'] t=262s
+  V=4 at ['-YYIIIZXZX', '-YIIXIXYYY'] codes=32 splits=1072 pairs=28 memo=3352 t=263s
+V(G2)=4 rows (133, 111) gens ['-YYIIIZXZX', '-YIIXIXYYY'] t=263s
+V(G2)=4 rows (133, 112) gens ['-YYIIIZXZX', '-IIZYYIZZZ'] t=263s
+V(G2)=4 rows (133, 113) gens ['-YYIIIZXZX', '-XZZYXIZZY'] t=263s
+  V=4 at ['-YYIIIZXZX', '+XIIYXIZYZ'] codes=112 splits=3880 pairs=309 memo=3353 t=265s
+V(G2)=4 rows (133, 114) gens ['-YYIIIZXZX', '+XIIYXIZYZ'] t=265s
+  V=4 at ['-YYIIIZXZX', '-IZIYYIZYY'] codes=112 splits=3880 pairs=309 memo=3355 t=267s
+V(G2)=4 rows (133, 115) gens ['-YYIIIZXZX', '-IZIYYIZYY'] t=267s
+  V=4 at ['-YYIIIZXZX', '+ZXIXYIYIZ'] codes=64 splits=1808 pairs=26 memo=3356 t=268s
+V(G2)=4 rows (133, 116) gens ['-YYIIIZXZX', '+ZXIXYIYIZ'] t=268s
+  V=4 at ['-YYIIIZXZX', '+YYIXXIYIY'] codes=320 splits=5536 pairs=130 memo=3357 t=270s
+V(G2)=4 rows (133, 117) gens ['-YYIIIZXZX', '+YYIXXIYIY'] t=270s
+  V=4 at ['-YYIIIZXZX', '-YXZXXIYXZ'] codes=128 splits=3700 pairs=360 memo=3361 t=272s
+V(G2)=4 rows (133, 118) gens ['-YYIIIZXZX', '-YXZXXIYXZ'] t=272s
+  V=4 at ['-YYIIIZXZX', '-ZYZXYIYXY'] codes=128 splits=3700 pairs=358 memo=3364 t=274s
+V(G2)=4 rows (133, 119) gens ['-YYIIIZXZX', '-ZYZXYIYXY'] t=274s
+  V=3 at ['-YYIIIZXZX', '+ZZYYXXZZI'] codes=144 splits=1476 pairs=38 memo=3398 t=278s
+V(G2)=3 rows (133, 120) gens ['-YYIIIZXZX', '+ZZYYXXZZI'] t=278s
+  V=4 at ['-YYIIIZXZX', '-YIYYYXZZX'] codes=168 splits=4300 pairs=189 memo=3401 t=280s
+V(G2)=4 rows (133, 121) gens ['-YYIIIZXZX', '-YIYYYXZZX'] t=280s
+  V=4 at ['-YYIIIZXZX', '-YZXYYXZYI'] codes=144 splits=2760 pairs=89 memo=3403 t=282s
+V(G2)=4 rows (133, 122) gens ['-YYIIIZXZX', '-YZXYYXZYI'] t=282s
+  V=3 at ['-YYIIIZXZX', '+ZIXYXXZYX'] codes=156 splits=3772 pairs=112 memo=3407 t=284s
+V(G2)=3 rows (133, 123) gens ['-YYIIIZXZX', '+ZIXYXXZYX'] t=284s
+V(G2)=4 rows (133, 124) gens ['-YYIIIZXZX', '+IYXXXXYII'] t=284s
+  V=4 at ['-YYIIIZXZX', '-XXXXYXYIX'] codes=216 splits=4572 pairs=131 memo=3409 t=286s
+V(G2)=4 rows (133, 125) gens ['-YYIIIZXZX', '-XXXXYXYIX'] t=286s
+  V=4 at ['-YYIIIZXZX', '-XYYXYXYXI'] codes=156 splits=4416 pairs=116 memo=3411 t=288s
+V(G2)=4 rows (133, 126) gens ['-YYIIIZXZX', '-XYYXYXYXI'] t=288s
+V(G2)=4 rows (133, 127) gens ['-YYIIIZXZX', '-IXYXXXYXX'] t=289s
+  V=8 at ['-YXZIIZXYI', '-YXZIIIYZX'] codes=80 splits=2652 pairs=160 memo=3412 t=290s
+V(G2)=8 rows (134, 69) gens ['-YXZIIZXYI', '-YXZIIIYZX'] t=290s
+  V=8 at ['-YXZIIZXYI', '+YYIIIIYYI'] codes=384 splits=5044 pairs=28 memo=3413 t=293s
+V(G2)=8 rows (134, 70) gens ['-YXZIIZXYI', '+YYIIIIYYI'] t=293s
+  V=8 at ['-YXZIIZXYI', '-ZXIIZIYYX'] codes=160 splits=4200 pairs=267 memo=3414 t=294s
+V(G2)=8 rows (134, 71) gens ['-YXZIIZXYI', '-ZXIIZIYYX'] t=294s
+V(G2)=4 rows (134, 72) gens ['-YXZIIZXYI', '+ZIXZIXZIZ'] t=295s
+  V=4 at ['-YXZIIZXYI', '+YZXZZXZIY'] codes=176 splits=5196 pairs=178 memo=3415 t=297s
+V(G2)=4 rows (134, 73) gens ['-YXZIIZXYI', '+YZXZZXZIY'] t=297s
+  V=4 at ['-YXZIIZXYI', '+YIYZZXZXZ'] codes=96 splits=1388 pairs=22 memo=3416 t=298s
+V(G2)=4 rows (134, 74) gens ['-YXZIIZXYI', '+YIYZZXZXZ'] t=298s
+  V=4 at ['-YXZIIZXYI', '-ZZYZIXZXY'] codes=192 splits=5024 pairs=230 memo=3420 t=300s
+V(G2)=4 rows (134, 75) gens ['-YXZIIZXYI', '-ZZYZIXZXY'] t=300s
+  V=4 at ['-YXZIIZXYI', '+IYXIIXYYY'] codes=208 splits=4984 pairs=89 memo=3421 t=304s
+V(G2)=4 rows (134, 79) gens ['-YXZIIZXYI', '+IYXIIXYYY'] t=304s
+  V=5 at ['-YXZIIZXYI', '+YYYZYIZZZ'] codes=216 splits=5584 pairs=465 memo=3422 t=307s
+V(G2)=5 rows (134, 80) gens ['-YXZIIZXYI', '+YYYZYIZZZ'] t=307s
+  V=4 at ['-YXZIIZXYI', '+ZXYZXIZZY'] codes=132 splits=2736 pairs=137 memo=3424 t=309s
+V(G2)=4 rows (134, 81) gens ['-YXZIIZXYI', '+ZXYZXIZZY'] t=309s
+  V=5 at ['-YXZIIZXYI', '-ZYXZXIZYZ'] codes=216 splits=5584 pairs=463 memo=3425 t=311s
+V(G2)=5 rows (134, 82) gens ['-YXZIIZXYI', '-ZYXZXIZYZ'] t=311s
+  V=4 at ['-YXZIIZXYI', '-YXXZYIZYY'] codes=84 splits=1744 pairs=62 memo=3426 t=312s
+V(G2)=4 rows (134, 83) gens ['-YXZIIZXYI', '-YXXZYIZYY'] t=312s
+  V=4 at ['-YXZIIZXYI', '-XZXIYIYIZ'] codes=176 splits=5880 pairs=476 memo=3428 t=315s
+V(G2)=4 rows (134, 84) gens ['-YXZIIZXYI', '-XZXIYIYIZ'] t=315s
+  V=6 at ['-YXZIIZXYI', '-IIXIXIYIY'] codes=168 splits=3956 pairs=196 memo=3429 t=316s
+V(G2)=6 rows (134, 85) gens ['-YXZIIZXYI', '-IIXIXIYIY'] t=316s
+  V=4 at ['-YXZIIZXYI', '-IZYIXIYXZ'] codes=176 splits=5880 pairs=627 memo=3432 t=319s
+V(G2)=4 rows (134, 86) gens ['-YXZIIZXYI', '-IZYIXIYXZ'] t=319s
+  V=4 at ['-YXZIIZXYI', '+XIYIYIYXY'] codes=240 splits=5468 pairs=250 memo=3433 t=321s
+V(G2)=4 rows (134, 87) gens ['-YXZIIZXYI', '+XIYIYIYXY'] t=321s
+  V=4 at ['-YXZIIZXYI', '-XXZZXXZZI'] codes=176 splits=5880 pairs=633 memo=3434 t=324s
+V(G2)=4 rows (134, 88) gens ['-YXZIIZXYI', '-XXZZXXZZI'] t=324s
+V(G2)=4 rows (134, 89) gens ['-YXZIIZXYI', '-IYZZYXZZX'] t=324s
+  V=6 at ['-YXZIIZXYI', '-IXIZYXZYI'] codes=144 splits=4840 pairs=372 memo=3435 t=326s
+V(G2)=6 rows (134, 90) gens ['-YXZIIZXYI', '-IXIZYXZYI'] t=326s
+V(G2)=4 rows (134, 91) gens ['-YXZIIZXYI', '+XYIZXXZYX'] t=326s
+  V=8 at ['-YXZIIZXYI', '-YIIIXXYII'] codes=192 splits=5232 pairs=228 memo=3436 t=328s
+V(G2)=8 rows (134, 92) gens ['-YXZIIZXYI', '-YIIIXXYII'] t=328s
+  V=4 at ['-YXZIIZXYI', '-ZZIIYXYIX'] codes=112 splits=3880 pairs=340 memo=3438 t=329s
+V(G2)=4 rows (134, 93) gens ['-YXZIIZXYI', '-ZZIIYXYIX'] t=329s
+  V=6 at ['-YXZIIZXYI', '+ZIZIYXYXI'] codes=192 splits=5256 pairs=236 memo=3439 t=331s
+V(G2)=6 rows (134, 94) gens ['-YXZIIZXYI', '+ZIZIYXYXI'] t=331s
+V(G2)=4 rows (134, 95) gens ['-YXZIIZXYI', '+YZZIXXYXX'] t=332s
+  V=6 at ['-YXZIIZXYI', '-YXXYZIZII'] codes=144 splits=4840 pairs=372 memo=3440 t=334s
+V(G2)=6 rows (134, 96) gens ['-YXZIIZXYI', '-YXXYZIZII'] t=334s
+  V=6 at ['-YXZIIZXYI', '+ZXYYIIZXI'] codes=192 splits=5256 pairs=236 memo=3441 t=336s
+V(G2)=6 rows (134, 98) gens ['-YXZIIZXYI', '+ZXYYIIZXI'] t=336s
+V(G2)=4 rows (134, 100) gens ['-YXZIIZXYI', '+XIYXZIYZI'] t=337s
+V(G2)=8 rows (134, 102) gens ['-YXZIIZXYI', '-IIXXIIYYI'] t=337s
+  V=4 at ['-YXZIIZXYI', '-IXIYZXZIY'] codes=120 splits=3240 pairs=135 memo=3445 t=338s
+V(G2)=4 rows (134, 105) gens ['-YXZIIZXYI', '-IXIYZXZIY'] t=338s
+  V=4 at ['-YXZIIZXYI', '-XXZYIXZXY'] codes=112 splits=3792 pairs=236 memo=3446 t=340s
+V(G2)=4 rows (134, 107) gens ['-YXZIIZXYI', '-XXZYIXZXY'] t=340s
+  V=4 at ['-YXZIIZXYI', '+ZIZXZXYZY'] codes=128 splits=3700 pairs=351 memo=3448 t=341s
+V(G2)=4 rows (134, 109) gens ['-YXZIIZXYI', '+ZIZXZXYZY'] t=341s
+  V=4 at ['-YXZIIZXYI', '-YIIXIXYYY'] codes=32 splits=1096 pairs=43 memo=3449 t=342s
+V(G2)=4 rows (134, 111) gens ['-YXZIIZXYI', '-YIIXIXYYY'] t=342s
+V(G2)=4 rows (134, 112) gens ['-YXZIIZXYI', '-IIZYYIZZZ'] t=342s
+  V=5 at ['-YXZIIZXYI', '-XZZYXIZZY'] codes=144 splits=2616 pairs=52 memo=3451 t=343s
+V(G2)=5 rows (134, 113) gens ['-YXZIIZXYI', '-XZZYXIZZY'] t=343s
+  V=4 at ['-YXZIIZXYI', '+XIIYXIZYZ'] codes=184 splits=5208 pairs=407 memo=3452 t=345s
+V(G2)=4 rows (134, 114) gens ['-YXZIIZXYI', '+XIIYXIZYZ'] t=345s
+  V=4 at ['-YXZIIZXYI', '-IZIYYIZYY'] codes=168 splits=4164 pairs=55 memo=3453 t=347s
+V(G2)=4 rows (134, 115) gens ['-YXZIIZXYI', '-IZIYYIZYY'] t=347s
+  V=4 at ['-YXZIIZXYI', '+ZXIXYIYIZ'] codes=184 splits=5208 pairs=412 memo=3454 t=350s
+V(G2)=4 rows (134, 116) gens ['-YXZIIZXYI', '+ZXIXYIYIZ'] t=350s
+  V=4 at ['-YXZIIZXYI', '+YYIXXIYIY'] codes=240 splits=4752 pairs=115 memo=3456 t=352s
+V(G2)=4 rows (134, 117) gens ['-YXZIIZXYI', '+YYIXXIYIY'] t=352s
+V(G2)=4 rows (134, 118) gens ['-YXZIIZXYI', '-YXZXXIYXZ'] t=352s
+  V=4 at ['-YXZIIZXYI', '+ZZYYXXZZI'] codes=288 splits=4768 pairs=58 memo=3490 t=357s
+V(G2)=4 rows (134, 120) gens ['-YXZIIZXYI', '+ZZYYXXZZI'] t=357s
+  V=4 at ['-YXZIIZXYI', '-YIYYYXZZX'] codes=144 splits=2760 pairs=90 memo=3491 t=359s
+V(G2)=4 rows (134, 121) gens ['-YXZIIZXYI', '-YIYYYXZZX'] t=359s
+  V=4 at ['-YXZIIZXYI', '-YZXYYXZYI'] codes=144 splits=4336 pairs=97 memo=3493 t=361s
+V(G2)=4 rows (134, 122) gens ['-YXZIIZXYI', '-YZXYYXZYI'] t=361s
+  V=3 at ['-YXZIIZXYI', '+ZIXYXXZYX'] codes=144 splits=2760 pairs=81 memo=3495 t=363s
+V(G2)=3 rows (134, 123) gens ['-YXZIIZXYI', '+ZIXYXXZYX'] t=363s
+  V=4 at ['-YXZIIZXYI', '+IYXXXXYII'] codes=144 splits=4336 pairs=95 memo=3496 t=365s
+V(G2)=4 rows (134, 124) gens ['-YXZIIZXYI', '+IYXXXXYII'] t=365s
+  V=3 at ['-YXZIIZXYI', '-XXXXYXYIX'] codes=156 splits=4416 pairs=124 memo=3510 t=369s
+V(G2)=3 rows (134, 125) gens ['-YXZIIZXYI', '-XXXXYXYIX'] t=369s
+  V=3 at ['-YXZIIZXYI', '-IXYXXXYXX'] codes=156 splits=3772 pairs=94 memo=3535 t=374s
+V(G2)=3 rows (134, 127) gens ['-YXZIIZXYI', '-IXYXXXYXX'] t=374s
+V(G2)=4 rows (135, 68) gens ['-ZYZIZZXYX', '-ZYZIZIYZI'] t=374s
+V(G2)=4 rows (135, 72) gens ['-ZYZIZZXYX', '+ZIXZIXZIZ'] t=374s
+  V=4 at ['-ZYZIZZXYX', '+YZXZZXZIY'] codes=156 splits=3916 pairs=208 memo=3537 t=376s
+V(G2)=4 rows (135, 73) gens ['-ZYZIZZXYX', '+YZXZZXZIY'] t=376s
+  V=4 at ['-ZYZIZZXYX', '+YIYZZXZXZ'] codes=156 splits=3916 pairs=170 memo=3538 t=378s
+V(G2)=4 rows (135, 74) gens ['-ZYZIZZXYX', '+YIYZZXZXZ'] t=378s
+  V=4 at ['-ZYZIZZXYX', '-ZZYZIXZXY'] codes=256 splits=5496 pairs=86 memo=3539 t=381s
+V(G2)=4 rows (135, 75) gens ['-ZYZIZZXYX', '-ZZYZIXZXY'] t=381s
+  V=4 at ['-ZYZIZZXYX', '+IXYIIXYZZ'] codes=64 splits=1808 pairs=15 memo=3540 t=382s
+V(G2)=4 rows (135, 76) gens ['-ZYZIZZXYX', '+IXYIIXYZZ'] t=382s
+  V=2 at ['-ZYZIZZXYX', '+YYYZYIZZZ'] codes=144 splits=3024 pairs=29 memo=3551 t=384s
+V(G2)=2 rows (135, 80) gens ['-ZYZIZZXYX', '+YYYZYIZZZ'] t=384s
+V(G2)=4 rows (135, 81) gens ['-ZYZIZZXYX', '+ZXYZXIZZY'] t=385s
+V(G2)=4 rows (135, 82) gens ['-ZYZIZZXYX', '-ZYXZXIZYZ'] t=385s
+  V=4 at ['-ZYZIZZXYX', '-YXXZYIZYY'] codes=156 splits=3916 pairs=209 memo=3554 t=387s
+V(G2)=4 rows (135, 83) gens ['-ZYZIZZXYX', '-YXXZYIZYY'] t=387s
+V(G2)=4 rows (135, 84) gens ['-ZYZIZZXYX', '-XZXIYIYIZ'] t=387s
+  V=8 at ['-ZYZIZZXYX', '-IIXIXIYIY'] codes=256 splits=4848 pairs=66 memo=3555 t=389s
+V(G2)=8 rows (135, 85) gens ['-ZYZIZZXYX', '-IIXIXIYIY'] t=389s
+  V=4 at ['-ZYZIZZXYX', '-IZYIXIYXZ'] codes=384 splits=7088 pairs=159 memo=3556 t=392s
+V(G2)=4 rows (135, 86) gens ['-ZYZIZZXYX', '-IZYIXIYXZ'] t=392s
+  V=4 at ['-ZYZIZZXYX', '+XIYIYIYXY'] codes=288 splits=5208 pairs=47 memo=3557 t=394s
+V(G2)=4 rows (135, 87) gens ['-ZYZIZZXYX', '+XIYIYIYXY'] t=394s
+  V=4 at ['-ZYZIZZXYX', '-XXZZXXZZI'] codes=156 splits=3916 pairs=157 memo=3560 t=397s
+V(G2)=4 rows (135, 88) gens ['-ZYZIZZXYX', '-XXZZXXZZI'] t=397s
+  V=4 at ['-ZYZIZZXYX', '-IYZZYXZZX'] codes=288 splits=6320 pairs=246 memo=3561 t=399s
+V(G2)=4 rows (135, 89) gens ['-ZYZIZZXYX', '-IYZZYXZZX'] t=399s
+  V=5 at ['-ZYZIZZXYX', '-IXIZYXZYI'] codes=216 splits=5584 pairs=465 memo=3562 t=402s
+V(G2)=5 rows (135, 90) gens ['-ZYZIZZXYX', '-IXIZYXZYI'] t=402s
+  V=5 at ['-ZYZIZZXYX', '+XYIZXXZYX'] codes=144 splits=2616 pairs=42 memo=3563 t=404s
+V(G2)=5 rows (135, 91) gens ['-ZYZIZZXYX', '+XYIZXXZYX'] t=404s
+  V=6 at ['-ZYZIZZXYX', '-YIIIXXYII'] codes=144 splits=3168 pairs=57 memo=3564 t=405s
+V(G2)=6 rows (135, 92) gens ['-ZYZIZZXYX', '-YIIIXXYII'] t=405s
+  V=4 at ['-ZYZIZZXYX', '-ZZIIYXYIX'] codes=176 splits=5880 pairs=628 memo=3565 t=408s
+V(G2)=4 rows (135, 93) gens ['-ZYZIZZXYX', '-ZZIIYXYIX'] t=408s
+  V=4 at ['-ZYZIZZXYX', '+ZIZIYXYXI'] codes=224 splits=4384 pairs=136 memo=3566 t=409s
+V(G2)=4 rows (135, 94) gens ['-ZYZIZZXYX', '+ZIZIYXYXI'] t=409s
+  V=4 at ['-ZYZIZZXYX', '+YZZIXXYXX'] codes=120 splits=2632 pairs=103 memo=3567 t=412s
+V(G2)=4 rows (135, 95) gens ['-ZYZIZZXYX', '+YZZIXXYXX'] t=412s
+V(G2)=4 rows (135, 96) gens ['-ZYZIZZXYX', '-YXXYZIZII'] t=412s
+  V=4 at ['-ZYZIZZXYX', '-ZYXYIIZIX'] codes=184 splits=5208 pairs=415 memo=3568 t=414s
+V(G2)=4 rows (135, 97) gens ['-ZYZIZZXYX', '-ZYXYIIZIX'] t=414s
+  V=5 at ['-ZYZIZZXYX', '+ZXYYIIZXI'] codes=216 splits=5584 pairs=343 memo=3569 t=416s
+V(G2)=5 rows (135, 98) gens ['-ZYZIZZXYX', '+ZXYYIIZXI'] t=416s
+  V=4 at ['-ZYZIZZXYX', '-YYYYZIZXX'] codes=128 splits=3700 pairs=379 memo=3570 t=418s
+V(G2)=4 rows (135, 99) gens ['-ZYZIZZXYX', '-YYYYZIZXX'] t=418s
+V(G2)=4 rows (135, 100) gens ['-ZYZIZZXYX', '+XIYXZIYZI'] t=419s
+  V=4 at ['-ZYZIZZXYX', '-IZYXIIYZX'] codes=288 splits=5464 pairs=86 memo=3571 t=421s
+V(G2)=4 rows (135, 101) gens ['-ZYZIZZXYX', '-IZYXIIYZX'] t=421s
+  V=8 at ['-ZYZIZZXYX', '-IIXXIIYYI'] codes=288 splits=5208 pairs=100 memo=3572 t=423s
+V(G2)=8 rows (135, 102) gens ['-ZYZIZZXYX', '-IIXXIIYYI'] t=423s
+  V=4 at ['-ZYZIZZXYX', '+XZXXZIYYX'] codes=128 splits=3700 pairs=340 memo=3574 t=425s
+V(G2)=4 rows (135, 103) gens ['-ZYZIZZXYX', '+XZXXZIYYX'] t=425s
+V(G2)=4 rows (135, 104) gens ['-ZYZIZZXYX', '-XYIYIXZIZ'] t=425s
+  V=5 at ['-ZYZIZZXYX', '-IXIYZXZIY'] codes=216 splits=5584 pairs=473 memo=3575 t=428s
+V(G2)=5 rows (135, 105) gens ['-ZYZIZZXYX', '-IXIYZXZIY'] t=428s
+  V=5 at ['-ZYZIZZXYX', '-IYZYZXZXZ'] codes=216 splits=5584 pairs=367 memo=3576 t=430s
+V(G2)=5 rows (135, 106) gens ['-ZYZIZZXYX', '-IYZYZXZXZ'] t=430s
+  V=4 at ['-ZYZIZZXYX', '-XXZYIXZXY'] codes=156 splits=3916 pairs=176 memo=3579 t=432s
+V(G2)=4 rows (135, 107) gens ['-ZYZIZZXYX', '-XXZYIXZXY'] t=432s
+  V=4 at ['-ZYZIZZXYX', '-YZZXIXYZZ'] codes=156 splits=3916 pairs=205 memo=3581 t=434s
+V(G2)=4 rows (135, 108) gens ['-ZYZIZZXYX', '-YZZXIXYZZ'] t=434s
+  V=4 at ['-ZYZIZZXYX', '+ZIZXZXYZY'] codes=288 splits=5464 pairs=78 memo=3582 t=436s
+V(G2)=4 rows (135, 109) gens ['-ZYZIZZXYX', '+ZIZXZXYZY'] t=436s
+  V=5 at ['-ZYZIZZXYX', '-ZZIXZXYYZ'] codes=216 splits=5584 pairs=473 memo=3583 t=439s
+V(G2)=5 rows (135, 110) gens ['-ZYZIZZXYX', '-ZZIXZXYYZ'] t=439s
+  V=4 at ['-ZYZIZZXYX', '-YIIXIXYYY'] codes=32 splits=848 pairs=13 memo=3584 t=439s
+V(G2)=4 rows (135, 111) gens ['-ZYZIZZXYX', '-YIIXIXYYY'] t=439s
+V(G2)=4 rows (135, 113) gens ['-ZYZIZZXYX', '-XZZYXIZZY'] t=440s
+  V=4 at ['-ZYZIZZXYX', '+XIIYXIZYZ'] codes=128 splits=3248 pairs=113 memo=3585 t=441s
+V(G2)=4 rows (135, 114) gens ['-ZYZIZZXYX', '+XIIYXIZYZ'] t=441s
+  V=5 at ['-ZYZIZZXYX', '+ZXIXYIYIZ'] codes=216 splits=5584 pairs=509 memo=3586 t=444s
+V(G2)=5 rows (135, 116) gens ['-ZYZIZZXYX', '+ZXIXYIYIZ'] t=444s
+  V=4 at ['-ZYZIZZXYX', '+YYIXXIYIY'] codes=288 splits=6336 pairs=237 memo=3587 t=446s
+V(G2)=4 rows (135, 117) gens ['-ZYZIZZXYX', '+YYIXXIYIY'] t=446s
+V(G2)=4 rows (135, 119) gens ['-ZYZIZZXYX', '-ZYZXYIYXY'] t=447s
+  V=3 at ['-ZYZIZZXYX', '+ZZYYXXZZI'] codes=288 splits=3624 pairs=69 memo=3590 t=449s
+V(G2)=3 rows (135, 120) gens ['-ZYZIZZXYX', '+ZZYYXXZZI'] t=449s
+  V=4 at ['-ZYZIZZXYX', '-YIYYYXZZX'] codes=168 splits=2808 pairs=44 memo=3591 t=450s
+V(G2)=4 rows (135, 121) gens ['-ZYZIZZXYX', '-YIYYYXZZX'] t=450s
+  V=4 at ['-ZYZIZZXYX', '-YZXYYXZYI'] codes=288 splits=4768 pairs=130 memo=3592 t=453s
+V(G2)=4 rows (135, 122) gens ['-ZYZIZZXYX', '-YZXYYXZYI'] t=453s
+  V=4 at ['-ZYZIZZXYX', '+ZIXYXXZYX'] codes=216 splits=5512 pairs=252 memo=3594 t=456s
+V(G2)=4 rows (135, 123) gens ['-ZYZIZZXYX', '+ZIXYXXZYX'] t=456s
+  V=4 at ['-ZYZIZZXYX', '+IYXXXXYII'] codes=216 splits=5512 pairs=249 memo=3595 t=459s
+V(G2)=4 rows (135, 124) gens ['-ZYZIZZXYX', '+IYXXXXYII'] t=459s
+  V=4 at ['-ZYZIZZXYX', '-XXXXYXYIX'] codes=168 splits=2808 pairs=44 memo=3598 t=461s
+V(G2)=4 rows (135, 125) gens ['-ZYZIZZXYX', '-XXXXYXYIX'] t=461s
+  V=4 at ['-ZYZIZZXYX', '-XYYXYXYXI'] codes=192 splits=3976 pairs=75 memo=3600 t=463s
+V(G2)=4 rows (135, 126) gens ['-ZYZIZZXYX', '-XYYXYXYXI'] t=463s
+  V=4 at ['-ZYZIZZXYX', '-IXYXXXYXX'] codes=216 splits=4368 pairs=67 memo=3601 t=466s
+V(G2)=4 rows (135, 127) gens ['-ZYZIZZXYX', '-IXYXXXYXX'] t=466s
+V(G2)=8 rows (136, 64) gens ['-ZZYZIYIIZ', '+IZIZZIZII'] t=466s
+  V=4 at ['-ZZYZIYIIZ', '-XIIZIIZIX'] codes=64 splits=1680 pairs=38 memo=3602 t=467s
+V(G2)=4 rows (136, 65) gens ['-ZZYZIYIIZ', '-XIIZIIZIX'] t=467s
+  V=4 at ['-ZZYZIYIIZ', '+YYIIIIYYI'] codes=128 splits=2232 pairs=39 memo=3603 t=468s
+V(G2)=4 rows (136, 70) gens ['-ZZYZIYIIZ', '+YYIIIIYYI'] t=468s
+  V=4 at ['-ZZYZIYIIZ', '+YYYZYIZZZ'] codes=144 splits=2728 pairs=71 memo=3604 t=469s
+V(G2)=4 rows (136, 80) gens ['-ZZYZIYIIZ', '+YYYZYIZZZ'] t=469s
+V(G2)=4 rows (136, 81) gens ['-ZZYZIYIIZ', '+ZXYZXIZZY'] t=469s
+  V=4 at ['-ZZYZIYIIZ', '-IZYIXIYXZ'] codes=288 splits=3168 pairs=39 memo=3605 t=471s
+V(G2)=4 rows (136, 86) gens ['-ZZYZIYIIZ', '-IZYIXIYXZ'] t=471s
+  V=6 at ['-ZZYZIYIIZ', '+XIYIYIYXY'] codes=72 splits=1116 pairs=26 memo=3606 t=471s
+V(G2)=6 rows (136, 87) gens ['-ZZYZIYIIZ', '+XIYIYIYXY'] t=471s
+  V=4 at ['-ZZYZIYIIZ', '+ZXYYIIZXI'] codes=112 splits=3188 pairs=193 memo=3607 t=472s
+V(G2)=4 rows (136, 98) gens ['-ZZYZIYIIZ', '+ZXYYIIZXI'] t=472s
+  V=4 at ['-ZZYZIYIIZ', '-YYYYZIZXX'] codes=96 splits=1824 pairs=10 memo=3608 t=473s
+V(G2)=4 rows (136, 99) gens ['-ZZYZIYIIZ', '-YYYYZIZXX'] t=473s
+  V=4 at ['-ZZYZIYIIZ', '-IZYXIIYZX'] codes=112 splits=3188 pairs=176 memo=3609 t=475s
+V(G2)=4 rows (136, 101) gens ['-ZZYZIYIIZ', '-IZYXIIYZX'] t=475s
+  V=4 at ['-ZZYZIYIIZ', '+ZXIXYIYIZ'] codes=320 splits=5536 pairs=126 memo=3610 t=477s
+V(G2)=4 rows (136, 116) gens ['-ZZYZIYIIZ', '+ZXIXYIYIZ'] t=477s
+  V=4 at ['-ZZYZIYIIZ', '+YYIXXIYIY'] codes=384 splits=5408 pairs=57 memo=3615 t=480s
+V(G2)=4 rows (136, 117) gens ['-ZZYZIYIIZ', '+YYIXXIYIY'] t=480s
+  V=4 at ['-YIYZZYIIY', '+IZIZZIZII'] codes=384 splits=6248 pairs=12 memo=3616 t=483s
+V(G2)=4 rows (137, 64) gens ['-YIYZZYIIY', '+IZIZZIZII'] t=483s
+  V=4 at ['-YIYZZYIIY', '+YYIIIIYYI'] codes=144 splits=2532 pairs=19 memo=3617 t=484s
+V(G2)=4 rows (137, 70) gens ['-YIYZZYIIY', '+YYIIIIYYI'] t=484s
+  V=4 at ['-YIYZZYIIY', '-ZXIIZIYYX'] codes=84 splits=1744 pairs=67 memo=3618 t=485s
+V(G2)=4 rows (137, 71) gens ['-YIYZZYIIY', '-ZXIIZIYYX'] t=485s
+  V=4 at ['-YIYZZYIIY', '+YYYZYIZZZ'] codes=184 splits=5208 pairs=326 memo=3619 t=487s
+V(G2)=4 rows (137, 80) gens ['-YIYZZYIIY', '+YYYZYIZZZ'] t=487s
+  V=4 at ['-YIYZZYIIY', '+ZXYZXIZZY'] codes=184 splits=5208 pairs=329 memo=3620 t=489s
+V(G2)=4 rows (137, 81) gens ['-YIYZZYIIY', '+ZXYZXIZZY'] t=489s
+  V=4 at ['-YIYZZYIIY', '-IZYIXIYXZ'] codes=120 splits=3240 pairs=245 memo=3622 t=491s
+V(G2)=4 rows (137, 86) gens ['-YIYZZYIIY', '-IZYIXIYXZ'] t=491s
+  V=4 at ['-YIYZZYIIY', '+XIYIYIYXY'] codes=208 splits=5616 pairs=341 memo=3623 t=493s
+V(G2)=4 rows (137, 87) gens ['-YIYZZYIIY', '+XIYIYIYXY'] t=493s
+  V=4 at ['-YIYZZYIIY', '+ZXYYIIZXI'] codes=120 splits=3240 pairs=186 memo=3624 t=495s
+V(G2)=4 rows (137, 98) gens ['-YIYZZYIIY', '+ZXYYIIZXI'] t=495s
+  V=6 at ['-YIYZZYIIY', '+XIYXZIYZI'] codes=144 splits=4840 pairs=298 memo=3625 t=497s
+V(G2)=6 rows (137, 100) gens ['-YIYZZYIIY', '+XIYXZIYZI'] t=497s
+  V=4 at ['-YIYZZYIIY', '+ZXIXYIYIZ'] codes=256 splits=5256 pairs=120 memo=3626 t=500s
+V(G2)=4 rows (137, 116) gens ['-YIYZZYIIY', '+ZXIXYIYIZ'] t=500s
+  V=4 at ['-YIYZZYIIY', '+YYIXXIYIY'] codes=256 splits=5920 pairs=119 memo=3627 t=503s
+V(G2)=4 rows (137, 117) gens ['-YIYZZYIIY', '+YYIXXIYIY'] t=503s
+V(G2)=4 rows (138, 65) gens ['+YZXZZYIXZ', '-XIIZIIZIX'] t=503s
+  V=4 at ['+YZXZZYIXZ', '-ZYZIZIYZI'] codes=168 splits=3904 pairs=122 memo=3628 t=505s
+V(G2)=4 rows (138, 68) gens ['+YZXZZYIXZ', '-ZYZIZIYZI'] t=505s
+  V=4 at ['+YZXZZYIXZ', '+YYIIIIYYI'] codes=192 splits=3052 pairs=44 memo=3629 t=506s
+V(G2)=4 rows (138, 70) gens ['+YZXZZYIXZ', '+YYIIIIYYI'] t=506s
+  V=5 at ['+YZXZZYIXZ', '+YYYZYIZZZ'] codes=216 splits=5584 pairs=352 memo=3630 t=509s
+V(G2)=5 rows (138, 80) gens ['+YZXZZYIXZ', '+YYYZYIZZZ'] t=509s
+V(G2)=4 rows (138, 81) gens ['+YZXZZYIXZ', '+ZXYZXIZZY'] t=509s
+  V=5 at ['+YZXZZYIXZ', '-ZYXZXIZYZ'] codes=216 splits=5584 pairs=509 memo=3631 t=512s
+V(G2)=5 rows (138, 82) gens ['+YZXZZYIXZ', '-ZYXZXIZYZ'] t=512s
+  V=4 at ['+YZXZZYIXZ', '-YXXZYIZYY'] codes=132 splits=2736 pairs=150 memo=3634 t=513s
+V(G2)=4 rows (138, 83) gens ['+YZXZZYIXZ', '-YXXZYIZYY'] t=513s
+  V=4 at ['+YZXZZYIXZ', '-XZXIYIYIZ'] codes=184 splits=5208 pairs=409 memo=3636 t=516s
+V(G2)=4 rows (138, 84) gens ['+YZXZZYIXZ', '-XZXIYIYIZ'] t=516s
+  V=6 at ['+YZXZZYIXZ', '-IIXIXIYIY'] codes=216 splits=4576 pairs=107 memo=3637 t=518s
+V(G2)=6 rows (138, 85) gens ['+YZXZZYIXZ', '-IIXIXIYIY'] t=518s
+V(G2)=4 rows (138, 86) gens ['+YZXZZYIXZ', '-IZYIXIYXZ'] t=518s
+V(G2)=4 rows (138, 87) gens ['+YZXZZYIXZ', '+XIYIYIYXY'] t=519s
+V(G2)=4 rows (138, 96) gens ['+YZXZZYIXZ', '-YXXYZIZII'] t=519s
+  V=4 at ['+YZXZZYIXZ', '-ZYXYIIZIX'] codes=132 splits=2736 pairs=137 memo=3638 t=521s
+V(G2)=4 rows (138, 97) gens ['+YZXZZYIXZ', '-ZYXYIIZIX'] t=521s
+V(G2)=5 rows (138, 98) gens ['+YZXZZYIXZ', '+ZXYYIIZXI'] t=521s
+  V=4 at ['+YZXZZYIXZ', '-YYYYZIZXX'] codes=132 splits=2736 pairs=150 memo=3639 t=522s
+V(G2)=4 rows (138, 99) gens ['+YZXZZYIXZ', '-YYYYZIZXX'] t=522s
+  V=5 at ['+YZXZZYIXZ', '+XIYXZIYZI'] codes=216 splits=5584 pairs=494 memo=3640 t=525s
+V(G2)=5 rows (138, 100) gens ['+YZXZZYIXZ', '+XIYXZIYZI'] t=525s
+  V=4 at ['+YZXZZYIXZ', '-IZYXIIYZX'] codes=128 splits=3700 pairs=297 memo=3643 t=527s
+V(G2)=4 rows (138, 101) gens ['+YZXZZYIXZ', '-IZYXIIYZX'] t=527s
+  V=8 at ['+YZXZZYIXZ', '-IIXXIIYYI'] codes=288 splits=5208 pairs=80 memo=3644 t=529s
+V(G2)=8 rows (138, 102) gens ['+YZXZZYIXZ', '-IIXXIIYYI'] t=529s
+  V=4 at ['+YZXZZYIXZ', '+XZXXZIYYX'] codes=128 splits=3248 pairs=147 memo=3645 t=531s
+V(G2)=4 rows (138, 103) gens ['+YZXZZYIXZ', '+XZXXZIYYX'] t=531s
+  V=4 at ['+YZXZZYIXZ', '+ZXIXYIYIZ'] codes=216 splits=4572 pairs=116 memo=3646 t=533s
+V(G2)=4 rows (138, 116) gens ['+YZXZZYIXZ', '+ZXIXYIYIZ'] t=533s
+  V=3 at ['+YZXZZYIXZ', '+YYIXXIYIY'] codes=144 splits=2016 pairs=10 memo=3659 t=535s
+V(G2)=3 rows (138, 117) gens ['+YZXZZYIXZ', '+YYIXXIYIY'] t=535s
+  V=4 at ['+YZXZZYIXZ', '-YXZXXIYXZ'] codes=216 splits=5512 pairs=263 memo=3661 t=538s
+V(G2)=4 rows (138, 118) gens ['+YZXZZYIXZ', '-YXZXXIYXZ'] t=538s
+  V=4 at ['+YZXZZYIXZ', '-ZYZXYIYXY'] codes=288 splits=4768 pairs=116 memo=3662 t=540s
+V(G2)=4 rows (138, 119) gens ['+YZXZZYIXZ', '-ZYZXYIYXY'] t=540s
+  V=4 at ['-ZIXZIYIXY', '-XIIZIIZIX'] codes=48 splits=1312 pairs=18 memo=3663 t=541s
+V(G2)=4 rows (139, 65) gens ['-ZIXZIYIXY', '-XIIZIIZIX'] t=541s
+  V=4 at ['-ZIXZIYIXY', '-ZYZIZIYZI'] codes=96 splits=2992 pairs=88 memo=3664 t=542s
+V(G2)=4 rows (139, 68) gens ['-ZIXZIYIXY', '-ZYZIZIYZI'] t=542s
+V(G2)=4 rows (139, 69) gens ['-ZIXZIYIXY', '-YXZIIIYZX'] t=542s
+  V=4 at ['-ZIXZIYIXY', '+YYIIIIYYI'] codes=96 splits=2200 pairs=89 memo=3666 t=543s
+V(G2)=4 rows (139, 70) gens ['-ZIXZIYIXY', '+YYIIIIYYI'] t=543s
+  V=4 at ['-ZIXZIYIXY', '-ZXIIZIYYX'] codes=192 splits=5032 pairs=156 memo=3667 t=546s
+V(G2)=4 rows (139, 71) gens ['-ZIXZIYIXY', '-ZXIIZIYYX'] t=546s
+  V=4 at ['-ZIXZIYIXY', '+YYYZYIZZZ'] codes=128 splits=3700 pairs=367 memo=3669 t=548s
+V(G2)=4 rows (139, 80) gens ['-ZIXZIYIXY', '+YYYZYIZZZ'] t=548s
+  V=4 at ['-ZIXZIYIXY', '+ZXYZXIZZY'] codes=184 splits=5208 pairs=304 memo=3670 t=551s
+V(G2)=4 rows (139, 81) gens ['-ZIXZIYIXY', '+ZXYZXIZZY'] t=551s
+  V=4 at ['-ZIXZIYIXY', '-ZYXZXIZYZ'] codes=184 splits=5208 pairs=404 memo=3671 t=553s
+V(G2)=4 rows (139, 82) gens ['-ZIXZIYIXY', '-ZYXZXIZYZ'] t=553s
+  V=4 at ['-ZIXZIYIXY', '-YXXZYIZYY'] codes=120 splits=3240 pairs=288 memo=3673 t=555s
+V(G2)=4 rows (139, 83) gens ['-ZIXZIYIXY', '-YXXZYIZYY'] t=555s
+  V=4 at ['-ZIXZIYIXY', '-XZXIYIYIZ'] codes=120 splits=3240 pairs=250 memo=3674 t=557s
+V(G2)=4 rows (139, 84) gens ['-ZIXZIYIXY', '-XZXIYIYIZ'] t=557s
+  V=8 at ['-ZIXZIYIXY', '-IIXIXIYIY'] codes=192 splits=4752 pairs=61 memo=3675 t=559s
+V(G2)=8 rows (139, 85) gens ['-ZIXZIYIXY', '-IIXIXIYIY'] t=559s
+  V=4 at ['-ZIXZIYIXY', '-IZYIXIYXZ'] codes=184 splits=5208 pairs=413 memo=3676 t=561s
+V(G2)=4 rows (139, 86) gens ['-ZIXZIYIXY', '-IZYIXIYXZ'] t=561s
+  V=4 at ['-ZIXZIYIXY', '+XIYIYIYXY'] codes=208 splits=5616 pairs=376 memo=3677 t=564s
+V(G2)=4 rows (139, 87) gens ['-ZIXZIYIXY', '+XIYIYIYXY'] t=564s
+  V=4 at ['-ZIXZIYIXY', '-YXXYZIZII'] codes=168 splits=4164 pairs=69 memo=3678 t=566s
+V(G2)=4 rows (139, 96) gens ['-ZIXZIYIXY', '-YXXYZIZII'] t=566s
+  V=6 at ['-ZIXZIYIXY', '-ZYXYIIZIX'] codes=144 splits=4840 pairs=498 memo=3679 t=569s
+V(G2)=6 rows (139, 97) gens ['-ZIXZIYIXY', '-ZYXYIIZIX'] t=569s
+  V=6 at ['-ZIXZIYIXY', '+ZXYYIIZXI'] codes=144 splits=4840 pairs=282 memo=3680 t=572s
+V(G2)=6 rows (139, 98) gens ['-ZIXZIYIXY', '+ZXYYIIZXI'] t=572s
+V(G2)=4 rows (139, 99) gens ['-ZIXZIYIXY', '-YYYYZIZXX'] t=573s
+  V=4 at ['-ZIXZIYIXY', '+XIYXZIYZI'] codes=112 splits=3792 pairs=257 memo=3681 t=575s
+V(G2)=4 rows (139, 100) gens ['-ZIXZIYIXY', '+XIYXZIYZI'] t=575s
+V(G2)=4 rows (139, 101) gens ['-ZIXZIYIXY', '-IZYXIIYZX'] t=575s
+  V=8 at ['-ZIXZIYIXY', '-IIXXIIYYI'] codes=192 splits=5232 pairs=180 memo=3682 t=578s
+V(G2)=8 rows (139, 102) gens ['-ZIXZIYIXY', '-IIXXIIYYI'] t=578s
+  V=4 at ['-ZIXZIYIXY', '+XZXXZIYYX'] codes=176 splits=5196 pairs=224 memo=3683 t=581s
+V(G2)=4 rows (139, 103) gens ['-ZIXZIYIXY', '+XZXXZIYYX'] t=581s
+  V=3 at ['-ZIXZIYIXY', '+ZXIXYIYIZ'] codes=288 splits=4224 pairs=83 memo=3689 t=584s
+V(G2)=3 rows (139, 116) gens ['-ZIXZIYIXY', '+ZXIXYIYIZ'] t=584s
+  V=4 at ['-ZIXZIYIXY', '+YYIXXIYIY'] codes=180 splits=3576 pairs=38 memo=3690 t=587s
+V(G2)=4 rows (139, 117) gens ['-ZIXZIYIXY', '+YYIXXIYIY'] t=587s
+  V=4 at ['-ZIXZIYIXY', '-YXZXXIYXZ'] codes=144 splits=2760 pairs=93 memo=3691 t=588s
+V(G2)=4 rows (139, 118) gens ['-ZIXZIYIXY', '-YXZXXIYXZ'] t=588s
+  V=4 at ['-ZIXZIYIXY', '-ZYZXYIYXY'] codes=168 splits=4300 pairs=191 memo=3692 t=591s
+V(G2)=4 rows (139, 119) gens ['-ZIXZIYIXY', '-ZYZXYIYXY'] t=591s
+V(G2)=4 rows (140, 65) gens ['+IYXIIYXZZ', '-XIIZIIZIX'] t=591s
+  V=4 at ['+IYXIIYXZZ', '+XZZZIIZXI'] codes=96 splits=2484 pairs=170 memo=3693 t=592s
+V(G2)=4 rows (140, 66) gens ['+IYXIIYXZZ', '+XZZZIIZXI'] t=592s
+  V=4 at ['+IYXIIYXZZ', '+YYIIIIYYI'] codes=128 splits=3396 pairs=128 memo=3694 t=593s
+V(G2)=4 rows (140, 70) gens ['+IYXIIYXZZ', '+YYIIIIYYI'] t=593s
+V(G2)=4 rows (140, 72) gens ['+IYXIIYXZZ', '+ZIXZIXZIZ'] t=594s
+  V=8 at ['+IYXIIYXZZ', '+IXYIIXYZZ'] codes=2304 splits=9740 pairs=22 memo=3695 t=600s
+V(G2)=8 rows (140, 76) gens ['+IYXIIYXZZ', '+IXYIIXYZZ'] t=600s
+  V=8 at ['+IYXIIYXZZ', '+IYXIIXYYY'] codes=384 splits=4144 pairs=79 memo=3696 t=602s
+V(G2)=8 rows (140, 79) gens ['+IYXIIYXZZ', '+IYXIIXYYY'] t=602s
+  V=4 at ['+IYXIIYXZZ', '+YYYZYIZZZ'] codes=184 splits=5208 pairs=330 memo=3697 t=604s
+V(G2)=4 rows (140, 80) gens ['+IYXIIYXZZ', '+YYYZYIZZZ'] t=604s
+V(G2)=5 rows (140, 81) gens ['+IYXIIYXZZ', '+ZXYZXIZZY'] t=605s
+  V=4 at ['+IYXIIYXZZ', '-ZYXZXIZYZ'] codes=184 splits=5208 pairs=406 memo=3698 t=607s
+V(G2)=4 rows (140, 82) gens ['+IYXIIYXZZ', '-ZYXZXIZYZ'] t=607s
+  V=4 at ['+IYXIIYXZZ', '-YXXZYIZYY'] codes=96 splits=2720 pairs=146 memo=3706 t=608s
+V(G2)=4 rows (140, 83) gens ['+IYXIIYXZZ', '-YXXZYIZYY'] t=608s
+V(G2)=6 rows (140, 84) gens ['+IYXIIYXZZ', '-XZXIYIYIZ'] t=608s
+V(G2)=8 rows (140, 85) gens ['+IYXIIYXZZ', '-IIXIXIYIY'] t=609s
+V(G2)=6 rows (140, 86) gens ['+IYXIIYXZZ', '-IZYIXIYXZ'] t=609s
+V(G2)=4 rows (140, 87) gens ['+IYXIIYXZZ', '+XIYIYIYXY'] t=609s
+  V=4 at ['+IYXIIYXZZ', '-XXZZXXZZI'] codes=288 splits=6320 pairs=176 memo=3707 t=612s
+V(G2)=4 rows (140, 88) gens ['+IYXIIYXZZ', '-XXZZXXZZI'] t=612s
+V(G2)=4 rows (140, 89) gens ['+IYXIIYXZZ', '-IYZZYXZZX'] t=612s
+  V=3 at ['+IYXIIYXZZ', '+XYIZXXZYX'] codes=96 splits=2712 pairs=155 memo=3709 t=614s
+V(G2)=3 rows (140, 91) gens ['+IYXIIYXZZ', '+XYIZXXZYX'] t=614s
+V(G2)=4 rows (140, 92) gens ['+IYXIIYXZZ', '-YIIIXXYII'] t=614s
+V(G2)=4 rows (140, 93) gens ['+IYXIIYXZZ', '-ZZIIYXYIX'] t=614s
+  V=4 at ['+IYXIIYXZZ', '+YZZIXXYXX'] codes=112 splits=2656 pairs=93 memo=3711 t=616s
+V(G2)=4 rows (140, 95) gens ['+IYXIIYXZZ', '+YZZIXXYXX'] t=616s
+V(G2)=4 rows (140, 96) gens ['+IYXIIYXZZ', '-YXXYZIZII'] t=616s
+V(G2)=6 rows (140, 97) gens ['+IYXIIYXZZ', '-ZYXYIIZIX'] t=616s
+  V=4 at ['+IYXIIYXZZ', '+ZXYYIIZXI'] codes=176 splits=5880 pairs=510 memo=3712 t=619s
+V(G2)=4 rows (140, 98) gens ['+IYXIIYXZZ', '+ZXYYIIZXI'] t=619s
+  V=4 at ['+IYXIIYXZZ', '-YYYYZIZXX'] codes=96 splits=2720 pairs=143 memo=3715 t=620s
+V(G2)=4 rows (140, 99) gens ['+IYXIIYXZZ', '-YYYYZIZXX'] t=620s
+  V=4 at ['+IYXIIYXZZ', '+XIYXZIYZI'] codes=192 splits=5032 pairs=107 memo=3718 t=622s
+V(G2)=4 rows (140, 100) gens ['+IYXIIYXZZ', '+XIYXZIYZI'] t=622s
+V(G2)=6 rows (140, 101) gens ['+IYXIIYXZZ', '-IZYXIIYZX'] t=623s
+V(G2)=8 rows (140, 102) gens ['+IYXIIYXZZ', '-IIXXIIYYI'] t=623s
+  V=4 at ['+IYXIIYXZZ', '+XZXXZIYYX'] codes=96 splits=2712 pairs=156 memo=3722 t=625s
+V(G2)=4 rows (140, 103) gens ['+IYXIIYXZZ', '+XZXXZIYYX'] t=625s
+  V=6 at ['+IYXIIYXZZ', '-XYIYIXZIZ'] codes=144 splits=4840 pairs=495 memo=3723 t=628s
+V(G2)=6 rows (140, 104) gens ['+IYXIIYXZZ', '-XYIYIXZIZ'] t=628s
+V(G2)=4 rows (140, 105) gens ['+IYXIIYXZZ', '-IXIYZXZIY'] t=628s
+  V=4 at ['+IYXIIYXZZ', '-XXZYIXZXY'] codes=96 splits=2016 pairs=37 memo=3724 t=630s
+V(G2)=4 rows (140, 107) gens ['+IYXIIYXZZ', '-XXZYIXZXY'] t=630s
+  V=4 at ['+IYXIIYXZZ', '-YZZXIXYZZ'] codes=224 splits=4384 pairs=135 memo=3725 t=631s
+V(G2)=4 rows (140, 108) gens ['+IYXIIYXZZ', '-YZZXIXYZZ'] t=631s
+V(G2)=5 rows (140, 109) gens ['+IYXIIYXZZ', '+ZIZXZXYZY'] t=632s
+  V=4 at ['+IYXIIYXZZ', '-YIIXIXYYY'] codes=48 splits=1264 pairs=33 memo=3743 t=634s
+V(G2)=4 rows (140, 111) gens ['+IYXIIYXZZ', '-YIIXIXYYY'] t=634s
+  V=3 at ['+IYXIIYXZZ', '-XZZYXIZZY'] codes=144 splits=1476 pairs=37 memo=3747 t=635s
+V(G2)=3 rows (140, 113) gens ['+IYXIIYXZZ', '-XZZYXIZZY'] t=635s
+  V=4 at ['+IYXIIYXZZ', '+XIIYXIZYZ'] codes=216 splits=4872 pairs=68 memo=3748 t=638s
+V(G2)=4 rows (140, 114) gens ['+IYXIIYXZZ', '+XIIYXIZYZ'] t=638s
+V(G2)=4 rows (140, 116) gens ['+IYXIIYXZZ', '+ZXIXYIYIZ'] t=638s
+V(G2)=4 rows (140, 117) gens ['+IYXIIYXZZ', '+YYIXXIYIY'] t=638s
+  V=4 at ['+IYXIIYXZZ', '-YXZXXIYXZ'] codes=84 splits=1896 pairs=89 memo=3749 t=640s
+V(G2)=4 rows (140, 118) gens ['+IYXIIYXZZ', '-YXZXXIYXZ'] t=640s
+V(G2)=3 rows (140, 119) gens ['+IYXIIYXZZ', '-ZYZXYIYXY'] t=640s
+  V=4 at ['+IYXIIYXZZ', '+ZZYYXXZZI'] codes=288 splits=6320 pairs=260 memo=3750 t=643s
+V(G2)=4 rows (140, 120) gens ['+IYXIIYXZZ', '+ZZYYXXZZI'] t=643s
+  V=4 at ['+IYXIIYXZZ', '-YIYYYXZZX'] codes=84 splits=1896 pairs=77 memo=3751 t=644s
+V(G2)=4 rows (140, 121) gens ['+IYXIIYXZZ', '-YIYYYXZZX'] t=644s
+V(G2)=3 rows (140, 123) gens ['+IYXIIYXZZ', '+ZIXYXXZYX'] t=644s
+V(G2)=4 rows (140, 124) gens ['+IYXIIYXZZ', '+IYXXXXYII'] t=645s
+V(G2)=4 rows (140, 127) gens ['+IYXIIYXZZ', '-IXYXXXYXX'] t=645s
+V(G2)=4 rows (141, 65) gens ['+XXXIZYXZY', '-XIIZIIZIX'] t=646s
+V(G2)=4 rows (141, 67) gens ['+XXXIZYXZY', '-IIZZZIZXX'] t=646s
+  V=4 at ['+XXXIZYXZY', '+YYIIIIYYI'] codes=144 splits=3732 pairs=54 memo=3752 t=647s
+V(G2)=4 rows (141, 70) gens ['+XXXIZYXZY', '+YYIIIIYYI'] t=647s
+V(G2)=4 rows (141, 73) gens ['+XXXIZYXZY', '+YZXZZXZIY'] t=647s
+  V=2 at ['+XXXIZYXZY', '-XXXIZXYYZ'] codes=48 splits=1000 pairs=22 memo=3755 t=648s
+V(G2)=2 rows (141, 78) gens ['+XXXIZYXZY', '-XXXIZXYYZ'] t=648s
+  V=4 at ['+XXXIZYXZY', '+YYYZYIZZZ'] codes=156 splits=3916 pairs=153 memo=3757 t=650s
+V(G2)=4 rows (141, 80) gens ['+XXXIZYXZY', '+YYYZYIZZZ'] t=650s
+V(G2)=4 rows (141, 81) gens ['+XXXIZYXZY', '+ZXYZXIZZY'] t=650s
+  V=3 at ['+XXXIZYXZY', '-ZYXZXIZYZ'] codes=108 splits=2024 pairs=100 memo=3759 t=651s
+V(G2)=3 rows (141, 82) gens ['+XXXIZYXZY', '-ZYXZXIZYZ'] t=651s
+  V=4 at ['+XXXIZYXZY', '-YXXZYIZYY'] codes=84 splits=1896 pairs=76 memo=3760 t=653s
+V(G2)=4 rows (141, 83) gens ['+XXXIZYXZY', '-YXXZYIZYY'] t=653s
+V(G2)=4 rows (141, 84) gens ['+XXXIZYXZY', '-XZXIYIYIZ'] t=654s
+V(G2)=6 rows (141, 85) gens ['+XXXIZYXZY', '-IIXIXIYIY'] t=654s
+V(G2)=4 rows (141, 86) gens ['+XXXIZYXZY', '-IZYIXIYXZ'] t=655s
+  V=4 at ['+XXXIZYXZY', '+XIYIYIYXY'] codes=144 splits=4336 pairs=145 memo=3761 t=657s
+V(G2)=4 rows (141, 87) gens ['+XXXIZYXZY', '+XIYIYIYXY'] t=657s
+  V=4 at ['+XXXIZYXZY', '-XXZZXXZZI'] codes=128 splits=3700 pairs=292 memo=3762 t=660s
+V(G2)=4 rows (141, 88) gens ['+XXXIZYXZY', '-XXZZXXZZI'] t=660s
+V(G2)=4 rows (141, 89) gens ['+XXXIZYXZY', '-IYZZYXZZX'] t=660s
+V(G2)=4 rows (141, 90) gens ['+XXXIZYXZY', '-IXIZYXZYI'] t=660s
+  V=2 at ['+XXXIZYXZY', '+XYIZXXZYX'] codes=108 splits=2024 pairs=98 memo=3772 t=663s
+V(G2)=2 rows (141, 91) gens ['+XXXIZYXZY', '+XYIZXXZYX'] t=663s
+  V=6 at ['+XXXIZYXZY', '-YIIIXXYII'] codes=144 splits=3168 pairs=58 memo=3773 t=665s
+V(G2)=6 rows (141, 92) gens ['+XXXIZYXZY', '-YIIIXXYII'] t=665s
+  V=4 at ['+XXXIZYXZY', '-ZZIIYXYIX'] codes=120 splits=2632 pairs=99 memo=3774 t=666s
+V(G2)=4 rows (141, 93) gens ['+XXXIZYXZY', '-ZZIIYXYIX'] t=666s
+  V=4 at ['+XXXIZYXZY', '+ZIZIYXYXI'] codes=112 splits=2656 pairs=93 memo=3776 t=668s
+V(G2)=4 rows (141, 94) gens ['+XXXIZYXZY', '+ZIZIYXYXI'] t=668s
+  V=4 at ['+XXXIZYXZY', '+YZZIXXYXX'] codes=384 splits=4960 pairs=26 memo=3778 t=670s
+V(G2)=4 rows (141, 95) gens ['+XXXIZYXZY', '+YZZIXXYXX'] t=670s
+  V=4 at ['+XXXIZYXZY', '-YXXYZIZII'] codes=120 splits=3240 pairs=174 memo=3780 t=672s
+V(G2)=4 rows (141, 96) gens ['+XXXIZYXZY', '-YXXYZIZII'] t=672s
+  V=4 at ['+XXXIZYXZY', '-ZYXYIIZIX'] codes=176 splits=5196 pairs=224 memo=3781 t=675s
+V(G2)=4 rows (141, 97) gens ['+XXXIZYXZY', '-ZYXYIIZIX'] t=675s
+  V=4 at ['+XXXIZYXZY', '+ZXYYIIZXI'] codes=96 splits=2720 pairs=140 memo=3782 t=677s
+V(G2)=4 rows (141, 98) gens ['+XXXIZYXZY', '+ZXYYIIZXI'] t=677s
+  V=3 at ['+XXXIZYXZY', '-YYYYZIZXX'] codes=144 splits=2048 pairs=26 memo=3792 t=679s
+V(G2)=3 rows (141, 99) gens ['+XXXIZYXZY', '-YYYYZIZXX'] t=679s
+V(G2)=4 rows (141, 100) gens ['+XXXIZYXZY', '+XIYXZIYZI'] t=679s
+V(G2)=4 rows (141, 101) gens ['+XXXIZYXZY', '-IZYXIIYZX'] t=680s
+  V=4 at ['+XXXIZYXZY', '-IIXXIIYYI'] codes=144 splits=2384 pairs=45 memo=3794 t=681s
+V(G2)=4 rows (141, 102) gens ['+XXXIZYXZY', '-IIXXIIYYI'] t=681s
+  V=4 at ['+XXXIZYXZY', '+XZXXZIYYX'] codes=96 splits=2720 pairs=167 memo=3795 t=683s
+V(G2)=4 rows (141, 103) gens ['+XXXIZYXZY', '+XZXXZIYYX'] t=683s
+  V=4 at ['+XXXIZYXZY', '-XYIYIXZIZ'] codes=128 splits=3248 pairs=157 memo=3796 t=685s
+V(G2)=4 rows (141, 104) gens ['+XXXIZYXZY', '-XYIYIXZIZ'] t=685s
+  V=4 at ['+XXXIZYXZY', '-IXIYZXZIY'] codes=120 splits=3240 pairs=218 memo=3797 t=687s
+V(G2)=4 rows (141, 105) gens ['+XXXIZYXZY', '-IXIYZXZIY'] t=687s
+  V=4 at ['+XXXIZYXZY', '-IYZYZXZXZ'] codes=132 splits=2736 pairs=167 memo=3798 t=688s
+V(G2)=4 rows (141, 106) gens ['+XXXIZYXZY', '-IYZYZXZXZ'] t=688s
+  V=4 at ['+XXXIZYXZY', '-XXZYIXZXY'] codes=108 splits=2588 pairs=98 memo=3799 t=690s
+V(G2)=4 rows (141, 107) gens ['+XXXIZYXZY', '-XXZYIXZXY'] t=690s
+V(G2)=2 rows (141, 108) gens ['+XXXIZYXZY', '-YZZXIXYZZ'] t=690s
+  V=4 at ['+XXXIZYXZY', '+ZIZXZXYZY'] codes=128 splits=3248 pairs=124 memo=3800 t=693s
+V(G2)=4 rows (141, 109) gens ['+XXXIZYXZY', '+ZIZXZXYZY'] t=693s
+  V=3 at ['+XXXIZYXZY', '-ZZIXZXYYZ'] codes=108 splits=2024 pairs=97 memo=3830 t=697s
+V(G2)=3 rows (141, 110) gens ['+XXXIZYXZY', '-ZZIXZXYYZ'] t=697s
+  V=2 at ['+XXXIZYXZY', '-YIIXIXYYY'] codes=24 splits=264 pairs=10 memo=3845 t=701s
+V(G2)=2 rows (141, 111) gens ['+XXXIZYXZY', '-YIIXIXYYY'] t=701s
+  V=4 at ['+XXXIZYXZY', '-XZZYXIZZY'] codes=216 splits=5512 pairs=251 memo=3847 t=704s
+V(G2)=4 rows (141, 113) gens ['+XXXIZYXZY', '-XZZYXIZZY'] t=704s
+  V=4 at ['+XXXIZYXZY', '+XIIYXIZYZ'] codes=144 splits=2760 pairs=93 memo=3848 t=706s
+V(G2)=4 rows (141, 114) gens ['+XXXIZYXZY', '+XIIYXIZYZ'] t=706s
+  V=4 at ['+XXXIZYXZY', '+YYIXXIYIY'] codes=216 splits=5512 pairs=250 memo=3849 t=709s
+V(G2)=4 rows (141, 117) gens ['+XXXIZYXZY', '+YYIXXIYIY'] t=709s
+  V=4 at ['+XXXIZYXZY', '-YXZXXIYXZ'] codes=48 splits=576 pairs=19 memo=3851 t=710s
+V(G2)=4 rows (141, 118) gens ['+XXXIZYXZY', '-YXZXXIYXZ'] t=710s
+  V=4 at ['+XXXIZYXZY', '-ZYZXYIYXY'] codes=88 splits=2008 pairs=24 memo=3853 t=711s
+V(G2)=4 rows (141, 119) gens ['+XXXIZYXZY', '-ZYZXYIYXY'] t=711s
+  V=4 at ['+XXXIZYXZY', '+ZZYYXXZZI'] codes=132 splits=2736 pairs=113 memo=3855 t=712s
+V(G2)=4 rows (141, 120) gens ['+XXXIZYXZY', '+ZZYYXXZZI'] t=712s
+  V=2 at ['+XXXIZYXZY', '-YIYYYXZZX'] codes=96 splits=1152 pairs=26 memo=3862 t=714s
+V(G2)=2 rows (141, 121) gens ['+XXXIZYXZY', '-YIYYYXZZX'] t=714s
+  V=4 at ['+XXXIZYXZY', '-YZXYYXZYI'] codes=48 splits=576 pairs=18 memo=3863 t=715s
+V(G2)=4 rows (141, 122) gens ['+XXXIZYXZY', '-YZXYYXZYI'] t=715s
+  V=4 at ['+XXXIZYXZY', '-XXXXYXYIX'] codes=144 splits=3348 pairs=43 memo=3865 t=718s
+V(G2)=4 rows (141, 125) gens ['+XXXIZYXZY', '-XXXXYXYIX'] t=718s
+V(G2)=4 rows (141, 126) gens ['+XXXIZYXZY', '-XYYXYXYXI'] t=719s
+V(G2)=5 rows (142, 64) gens ['+XYYIZYXYZ', '+IZIZZIZII'] t=720s
+  V=2 at ['+XYYIZYXYZ', '-XIIZIIZIX'] codes=48 splits=272 pairs=8 memo=3878 t=721s
+V(G2)=2 rows (142, 65) gens ['+XYYIZYXYZ', '-XIIZIIZIX'] t=721s
+  V=4 at ['+XYYIZYXYZ', '-ZYZIZIYZI'] codes=96 splits=2484 pairs=159 memo=3879 t=722s
+V(G2)=4 rows (142, 68) gens ['+XYYIZYXYZ', '-ZYZIZIYZI'] t=722s
+  V=4 at ['+XYYIZYXYZ', '+YYYZYIZZZ'] codes=128 splits=3700 pairs=360 memo=3880 t=724s
+V(G2)=4 rows (142, 80) gens ['+XYYIZYXYZ', '+YYYZYIZZZ'] t=724s
+V(G2)=3 rows (142, 81) gens ['+XYYIZYXYZ', '+ZXYZXIZZY'] t=725s
+V(G2)=4 rows (142, 82) gens ['+XYYIZYXYZ', '-ZYXZXIZYZ'] t=725s
+  V=4 at ['+XYYIZYXYZ', '-YXXZYIZYY'] codes=132 splits=2736 pairs=116 memo=3881 t=728s
+V(G2)=4 rows (142, 83) gens ['+XYYIZYXYZ', '-YXXZYIZYY'] t=728s
+V(G2)=4 rows (142, 84) gens ['+XYYIZYXYZ', '-XZXIYIYIZ'] t=728s
+  V=4 at ['+XYYIZYXYZ', '-IIXIXIYIY'] codes=192 splits=4384 pairs=33 memo=3882 t=731s
+V(G2)=4 rows (142, 85) gens ['+XYYIZYXYZ', '-IIXIXIYIY'] t=731s
+V(G2)=4 rows (142, 86) gens ['+XYYIZYXYZ', '-IZYIXIYXZ'] t=731s
+  V=4 at ['+XYYIZYXYZ', '+XIYIYIYXY'] codes=160 splits=4064 pairs=117 memo=3883 t=734s
+V(G2)=4 rows (142, 87) gens ['+XYYIZYXYZ', '+XIYIYIYXY'] t=734s
+  V=4 at ['+XYYIZYXYZ', '-YXXYZIZII'] codes=132 splits=2736 pairs=116 memo=3884 t=735s
+V(G2)=4 rows (142, 96) gens ['+XYYIZYXYZ', '-YXXYZIZII'] t=735s
+  V=4 at ['+XYYIZYXYZ', '-ZYXYIIZIX'] codes=96 splits=2712 pairs=140 memo=3885 t=736s
+V(G2)=4 rows (142, 97) gens ['+XYYIZYXYZ', '-ZYXYIIZIX'] t=736s
+V(G2)=4 rows (142, 98) gens ['+XYYIZYXYZ', '+ZXYYIIZXI'] t=737s
+  V=4 at ['+XYYIZYXYZ', '-YYYYZIZXX'] codes=96 splits=2720 pairs=156 memo=3886 t=738s
+V(G2)=4 rows (142, 99) gens ['+XYYIZYXYZ', '-YYYYZIZXX'] t=738s
+V(G2)=4 rows (142, 100) gens ['+XYYIZYXYZ', '+XIYXZIYZI'] t=739s
+V(G2)=3 rows (142, 101) gens ['+XYYIZYXYZ', '-IZYXIIYZX'] t=739s
+  V=6 at ['+XYYIZYXYZ', '-IIXXIIYYI'] codes=216 splits=4576 pairs=104 memo=3887 t=742s
+V(G2)=6 rows (142, 102) gens ['+XYYIZYXYZ', '-IIXXIIYYI'] t=742s
+  V=4 at ['+XYYIZYXYZ', '+XZXXZIYYX'] codes=96 splits=2720 pairs=181 memo=3888 t=744s
+V(G2)=4 rows (142, 103) gens ['+XYYIZYXYZ', '+XZXXZIYYX'] t=744s
+  V=2 at ['+XYYIZYXYZ', '-XZZYXIZZY'] codes=96 splits=928 pairs=11 memo=3909 t=747s
+V(G2)=2 rows (142, 113) gens ['+XYYIZYXYZ', '-XZZYXIZZY'] t=747s
+V(G2)=4 rows (142, 114) gens ['+XYYIZYXYZ', '+XIIYXIZYZ'] t=747s
+  V=3 at ['+XYYIZYXYZ', '+YYIXXIYIY'] codes=132 splits=2808 pairs=38 memo=3912 t=749s
+V(G2)=3 rows (142, 117) gens ['+XYYIZYXYZ', '+YYIXXIYIY'] t=749s
+V(G2)=2 rows (142, 118) gens ['+XYYIZYXYZ', '-YXZXXIYXZ'] t=749s
+V(G2)=4 rows (142, 119) gens ['+XYYIZYXYZ', '-ZYZXYIYXY'] t=750s
+V(G2)=8 rows (143, 64) gens ['+IXYIIYXYY', '+IZIZZIZII'] t=750s
+V(G2)=4 rows (143, 65) gens ['+IXYIIYXYY', '-XIIZIIZIX'] t=750s
+V(G2)=6 rows (143, 66) gens ['+IXYIIYXYY', '+XZZZIIZXI'] t=751s
+V(G2)=4 rows (143, 67) gens ['+IXYIIYXYY', '-IIZZZIZXX'] t=751s
+V(G2)=4 rows (143, 68) gens ['+IXYIIYXYY', '-ZYZIZIYZI'] t=751s
+  V=4 at ['+IXYIIYXYY', '-YXZIIIYZX'] codes=208 splits=4984 pairs=126 memo=3913 t=753s
+V(G2)=4 rows (143, 69) gens ['+IXYIIYXYY', '-YXZIIIYZX'] t=753s
+  V=8 at ['+IXYIIYXYY', '+YYIIIIYYI'] codes=192 splits=3820 pairs=53 memo=3914 t=756s
+V(G2)=8 rows (143, 70) gens ['+IXYIIYXYY', '+YYIIIIYYI'] t=756s
+  V=4 at ['+IXYIIYXYY', '-ZXIIZIYYX'] codes=320 splits=5536 pairs=179 memo=3915 t=759s
+V(G2)=4 rows (143, 71) gens ['+IXYIIYXYY', '-ZXIIZIYYX'] t=759s
+  V=4 at ['+IXYIIYXYY', '+YZXZZXZIY'] codes=288 splits=6336 pairs=224 memo=3916 t=762s
+V(G2)=4 rows (143, 73) gens ['+IXYIIYXYY', '+YZXZZXZIY'] t=762s
+  V=4 at ['+IXYIIYXYY', '+YIYZZXZXZ'] codes=288 splits=6336 pairs=241 memo=3917 t=765s
+V(G2)=4 rows (143, 74) gens ['+IXYIIYXYY', '+YIYZZXZXZ'] t=765s
+  V=8 at ['+IXYIIYXYY', '+IXYIIXYZZ'] codes=384 splits=4144 pairs=80 memo=3918 t=767s
+V(G2)=8 rows (143, 76) gens ['+IXYIIYXYY', '+IXYIIXYZZ'] t=767s
+  V=8 at ['+IXYIIYXYY', '+IYXIIXYYY'] codes=3456 splits=10540 pairs=57 memo=3919 t=776s
+V(G2)=8 rows (143, 79) gens ['+IXYIIYXYY', '+IYXIIXYYY'] t=776s
+  V=4 at ['+IXYIIYXYY', '+YYYZYIZZZ'] codes=216 splits=5512 pairs=249 memo=3920 t=779s
+V(G2)=4 rows (143, 80) gens ['+IXYIIYXYY', '+YYYZYIZZZ'] t=779s
+V(G2)=4 rows (143, 81) gens ['+IXYIIYXYY', '+ZXYZXIZZY'] t=779s
+  V=4 at ['+IXYIIYXYY', '-ZYXZXIZYZ'] codes=288 splits=6336 pairs=234 memo=3923 t=783s
+V(G2)=4 rows (143, 82) gens ['+IXYIIYXYY', '-ZYXZXIZYZ'] t=783s
+  V=4 at ['+IXYIIYXYY', '-YXXZYIZYY'] codes=168 splits=4300 pairs=210 memo=3924 t=786s
+V(G2)=4 rows (143, 83) gens ['+IXYIIYXYY', '-YXXZYIZYY'] t=786s
+  V=4 at ['+IXYIIYXYY', '-XZXIYIYIZ'] codes=160 splits=4064 pairs=153 memo=3925 t=789s
+V(G2)=4 rows (143, 84) gens ['+IXYIIYXYY', '-XZXIYIYIZ'] t=789s
+  V=4 at ['+IXYIIYXYY', '-IIXIXIYIY'] codes=336 splits=5880 pairs=135 memo=3926 t=792s
+V(G2)=4 rows (143, 85) gens ['+IXYIIYXYY', '-IIXIXIYIY'] t=792s
+  V=4 at ['+IXYIIYXYY', '-IZYIXIYXZ'] codes=304 splits=6512 pairs=181 memo=3927 t=795s
+V(G2)=4 rows (143, 86) gens ['+IXYIIYXYY', '-IZYIXIYXZ'] t=795s
+  V=4 at ['+IXYIIYXYY', '+XIYIYIYXY'] codes=256 splits=5920 pairs=141 memo=3928 t=799s
+V(G2)=4 rows (143, 87) gens ['+IXYIIYXYY', '+XIYIYIYXY'] t=799s
+V(G2)=4 rows (143, 88) gens ['+IXYIIYXYY', '-XXZZXXZZI'] t=799s
+  V=4 at ['+IXYIIYXYY', '-IYZZYXZZX'] codes=288 splits=5208 pairs=47 memo=3930 t=802s
+V(G2)=4 rows (143, 89) gens ['+IXYIIYXYY', '-IYZZYXZZX'] t=802s
+  V=4 at ['+IXYIIYXYY', '-IXIZYXZYI'] codes=208 splits=5616 pairs=373 memo=3931 t=804s
+V(G2)=4 rows (143, 90) gens ['+IXYIIYXYY', '-IXIZYXZYI'] t=804s
+  V=4 at ['+IXYIIYXYY', '-YIIIXXYII'] codes=288 splits=5216 pairs=55 memo=3933 t=806s
+V(G2)=4 rows (143, 92) gens ['+IXYIIYXYY', '-YIIIXXYII'] t=806s
+  V=4 at ['+IXYIIYXYY', '-ZZIIYXYIX'] codes=240 splits=5468 pairs=241 memo=3934 t=809s
+V(G2)=4 rows (143, 93) gens ['+IXYIIYXYY', '-ZZIIYXYIX'] t=809s
+  V=4 at ['+IXYIIYXYY', '+YZZIXXYXX'] codes=384 splits=6016 pairs=65 memo=3936 t=813s
+V(G2)=4 rows (143, 95) gens ['+IXYIIYXYY', '+YZZIXXYXX'] t=813s
+  V=4 at ['+IXYIIYXYY', '+ZXYYIIZXI'] codes=208 splits=5616 pairs=336 memo=3937 t=816s
+V(G2)=4 rows (143, 98) gens ['+IXYIIYXYY', '+ZXYYIIZXI'] t=816s
+  V=4 at ['+IXYIIYXYY', '+XIYXZIYZI'] codes=168 splits=4300 pairs=211 memo=3938 t=818s
+V(G2)=4 rows (143, 100) gens ['+IXYIIYXYY', '+XIYXZIYZI'] t=818s
+V(G2)=4 rows (143, 105) gens ['+IXYIIYXYY', '-IXIYZXZIY'] t=818s
+  V=4 at ['+IXYIIYXYY', '-YIIXIXYYY'] codes=32 splits=1248 pairs=27 memo=3951 t=820s
+V(G2)=4 rows (143, 111) gens ['+IXYIIYXYY', '-YIIXIXYYY'] t=820s
+  V=4 at ['+IXYIIYXYY', '-IIZYYIZZZ'] codes=384 splits=5408 pairs=57 memo=3952 t=823s
+V(G2)=4 rows (143, 112) gens ['+IXYIIYXYY', '-IIZYYIZZZ'] t=823s
+  V=4 at ['+IXYIIYXYY', '-XZZYXIZZY'] codes=288 splits=4896 pairs=42 memo=3967 t=828s
+V(G2)=4 rows (143, 113) gens ['+IXYIIYXYY', '-XZZYXIZZY'] t=828s
+  V=4 at ['+IXYIIYXYY', '+XIIYXIZYZ'] codes=288 splits=4968 pairs=88 memo=3968 t=831s
+V(G2)=4 rows (143, 114) gens ['+IXYIIYXYY', '+XIIYXIZYZ'] t=831s
+  V=4 at ['+IXYIIYXYY', '-IZIYYIZYY'] codes=256 splits=5920 pairs=116 memo=3969 t=834s
+V(G2)=4 rows (143, 115) gens ['+IXYIIYXYY', '-IZIYYIZYY'] t=834s
+  V=4 at ['+IXYIIYXYY', '+ZXIXYIYIZ'] codes=168 splits=4300 pairs=198 memo=3970 t=836s
+V(G2)=4 rows (143, 116) gens ['+IXYIIYXYY', '+ZXIXYIYIZ'] t=836s
+  V=4 at ['+IXYIIYXYY', '+YYIXXIYIY'] codes=288 splits=5904 pairs=48 memo=3971 t=839s
+V(G2)=4 rows (143, 117) gens ['+IXYIIYXYY', '+YYIXXIYIY'] t=839s
+  V=3 at ['+IXYIIYXYY', '-YXZXXIYXZ'] codes=132 splits=2808 pairs=45 memo=3989 t=842s
+V(G2)=3 rows (143, 118) gens ['+IXYIIYXYY', '-YXZXXIYXZ'] t=842s
+  V=4 at ['+IXYIIYXYY', '-ZYZXYIYXY'] codes=216 splits=5512 pairs=331 memo=3990 t=845s
+V(G2)=4 rows (143, 119) gens ['+IXYIIYXYY', '-ZYZXYIYXY'] t=845s
+  V=3 at ['+IXYIIYXYY', '-YIYYYXZZX'] codes=132 splits=3816 pairs=50 memo=3993 t=847s
+V(G2)=3 rows (143, 121) gens ['+IXYIIYXYY', '-YIYYYXZZX'] t=847s
+  V=4 at ['+IXYIIYXYY', '-YZXYYXZYI'] codes=132 splits=2808 pairs=30 memo=3994 t=849s
+V(G2)=4 rows (143, 122) gens ['+IXYIIYXYY', '-YZXYYXZYI'] t=849s
+  V=4 at ['+IXYIIYXYY', '+IYXXXXYII'] codes=384 splits=5856 pairs=58 memo=3996 t=853s
+V(G2)=4 rows (143, 124) gens ['+IXYIIYXYY', '+IYXXXXYII'] t=853s
+V(G2)=4 rows (143, 127) gens ['+IXYIIYXYY', '-IXYXXXYXX'] t=853s
+  V=4 at ['-YXXZYZIZZ', '-ZYZIZIYZI'] codes=144 splits=2388 pairs=21 memo=3997 t=854s
+V(G2)=4 rows (144, 68) gens ['-YXXZYZIZZ', '-ZYZIZIYZI'] t=854s
+  V=4 at ['-YXXZYZIZZ', '-YXZIIIYZX'] codes=184 splits=5208 pairs=418 memo=3998 t=857s
+V(G2)=4 rows (144, 69) gens ['-YXXZYZIZZ', '-YXZIIIYZX'] t=857s
+  V=4 at ['-YXXZYZIZZ', '+YYIIIIYYI'] codes=192 splits=3052 pairs=41 memo=3999 t=858s
+V(G2)=4 rows (144, 70) gens ['-YXXZYZIZZ', '+YYIIIIYYI'] t=858s
+V(G2)=8 rows (144, 72) gens ['-YXXZYZIZZ', '+ZIXZIXZIZ'] t=858s
+V(G2)=4 rows (144, 73) gens ['-YXXZYZIZZ', '+YZXZZXZIY'] t=858s
+  V=4 at ['-YXXZYZIZZ', '-XYYIZXYZY'] codes=156 splits=3916 pairs=209 memo=4000 t=860s
+V(G2)=4 rows (144, 77) gens ['-YXXZYZIZZ', '-XYYIZXYZY'] t=860s
+  V=4 at ['-YXXZYZIZZ', '-XXXIZXYYZ'] codes=128 splits=3700 pairs=370 memo=4001 t=863s
+V(G2)=4 rows (144, 78) gens ['-YXXZYZIZZ', '-XXXIZXYYZ'] t=863s
+  V=4 at ['-YXXZYZIZZ', '+IYXIIXYYY'] codes=216 splits=5512 pairs=281 memo=4002 t=865s
+V(G2)=4 rows (144, 79) gens ['-YXXZYZIZZ', '+IYXIIXYYY'] t=865s
+V(G2)=4 rows (144, 84) gens ['-YXXZYZIZZ', '-XZXIYIYIZ'] t=866s
+  V=5 at ['-YXXZYZIZZ', '-IZYIXIYXZ'] codes=216 splits=5584 pairs=464 memo=4003 t=868s
+V(G2)=5 rows (144, 86) gens ['-YXXZYZIZZ', '-IZYIXIYXZ'] t=868s
+  V=4 at ['-YXXZYZIZZ', '+XIYIYIYXY'] codes=288 splits=6336 pairs=233 memo=4004 t=871s
+V(G2)=4 rows (144, 87) gens ['-YXXZYZIZZ', '+XIYIYIYXY'] t=871s
+V(G2)=8 rows (144, 92) gens ['-YXXZYZIZZ', '-YIIIXXYII'] t=872s
+V(G2)=4 rows (144, 93) gens ['-YXXZYZIZZ', '-ZZIIYXYIX'] t=872s
+  V=4 at ['-YXXZYZIZZ', '+YZZIXXYXX'] codes=132 splits=2736 pairs=82 memo=4005 t=874s
+V(G2)=4 rows (144, 95) gens ['-YXXZYZIZZ', '+YZZIXXYXX'] t=874s
+V(G2)=4 rows (144, 96) gens ['-YXXZYZIZZ', '-YXXYZIZII'] t=874s
+  V=5 at ['-YXXZYZIZZ', '+ZXYYIIZXI'] codes=216 splits=5584 pairs=484 memo=4006 t=877s
+V(G2)=5 rows (144, 98) gens ['-YXXZYZIZZ', '+ZXYYIIZXI'] t=877s
+  V=4 at ['-YXXZYZIZZ', '-YYYYZIZXX'] codes=156 splits=3916 pairs=170 memo=4007 t=880s
+V(G2)=4 rows (144, 99) gens ['-YXXZYZIZZ', '-YYYYZIZXX'] t=880s
+V(G2)=5 rows (144, 100) gens ['-YXXZYZIZZ', '+XIYXZIYZI'] t=880s
+V(G2)=4 rows (144, 101) gens ['-YXXZYZIZZ', '-IZYXIIYZX'] t=880s
+V(G2)=6 rows (144, 102) gens ['-YXXZYZIZZ', '-IIXXIIYYI'] t=880s
+  V=3 at ['-YXXZYZIZZ', '+XZXXZIYYX'] codes=108 splits=2024 pairs=101 memo=4024 t=883s
+V(G2)=3 rows (144, 103) gens ['-YXXZYZIZZ', '+XZXXZIYYX'] t=883s
+V(G2)=4 rows (144, 104) gens ['-YXXZYZIZZ', '-XYIYIXZIZ'] t=884s
+V(G2)=4 rows (144, 105) gens ['-YXXZYZIZZ', '-IXIYZXZIY'] t=884s
+V(G2)=4 rows (144, 106) gens ['-YXXZYZIZZ', '-IYZYZXZXZ'] t=884s
+  V=4 at ['-YXXZYZIZZ', '-YZZXIXYZZ'] codes=288 splits=6336 pairs=150 memo=4025 t=887s
+V(G2)=4 rows (144, 108) gens ['-YXXZYZIZZ', '-YZZXIXYZZ'] t=887s
+V(G2)=3 rows (144, 109) gens ['-YXXZYZIZZ', '+ZIZXZXYZY'] t=888s
+  V=4 at ['-YXXZYZIZZ', '-ZZIXZXYYZ'] codes=216 splits=4368 pairs=62 memo=4026 t=890s
+V(G2)=4 rows (144, 110) gens ['-YXXZYZIZZ', '-ZZIXZXYYZ'] t=890s
+  V=4 at ['-YXXZYZIZZ', '-YIIXIXYYY'] codes=144 splits=2304 pairs=13 memo=4027 t=891s
+V(G2)=4 rows (144, 111) gens ['-YXXZYZIZZ', '-YIIXIXYYY'] t=891s
+V(G2)=4 rows (144, 116) gens ['-YXXZYZIZZ', '+ZXIXYIYIZ'] t=891s
+  V=4 at ['-YXXZYZIZZ', '+YYIXXIYIY'] codes=288 splits=6336 pairs=230 memo=4028 t=895s
+V(G2)=4 rows (144, 117) gens ['-YXXZYZIZZ', '+YYIXXIYIY'] t=895s
+V(G2)=4 rows (144, 118) gens ['-YXXZYZIZZ', '-YXZXXIYXZ'] t=896s
+  V=4 at ['-YXXZYZIZZ', '-ZYZXYIYXY'] codes=132 splits=2736 pairs=177 memo=4029 t=897s
+V(G2)=4 rows (144, 119) gens ['-YXXZYZIZZ', '-ZYZXYIYXY'] t=897s
+V(G2)=4 rows (144, 120) gens ['-YXXZYZIZZ', '+ZZYYXXZZI'] t=898s
+  V=5 at ['-YXXZYZIZZ', '-YZXYYXZYI'] codes=144 splits=2616 pairs=52 memo=4030 t=899s
+V(G2)=5 rows (144, 122) gens ['-YXXZYZIZZ', '-YZXYYXZYI'] t=899s
+  V=4 at ['-YXXZYZIZZ', '+ZIXYXXZYX'] codes=144 splits=2048 pairs=30 memo=4035 t=901s
+V(G2)=4 rows (144, 123) gens ['-YXXZYZIZZ', '+ZIXYXXZYX'] t=901s
+V(G2)=4 rows (144, 124) gens ['-YXXZYZIZZ', '+IYXXXXYII'] t=902s
+  V=4 at ['-YXXZYZIZZ', '-XXXXYXYIX'] codes=216 splits=4572 pairs=84 memo=4036 t=905s
+V(G2)=4 rows (144, 125) gens ['-YXXZYZIZZ', '-XXXXYXYIX'] t=905s
+V(G2)=4 rows (144, 126) gens ['-YXXZYZIZZ', '-XYYXYXYXI'] t=906s
+  V=4 at ['-YXXZYZIZZ', '-IXYXXXYXX'] codes=192 splits=3976 pairs=60 memo=4037 t=908s
+V(G2)=4 rows (144, 127) gens ['-YXXZYZIZZ', '-IXYXXXYXX'] t=908s
+V(G2)=4 rows (145, 68) gens ['+ZYXZXZIZY', '-ZYZIZIYZI'] t=908s
+  V=2 at ['+ZYXZXZIZY', '+YYIIIIYYI'] codes=96 splits=1512 pairs=29 memo=4057 t=911s
+V(G2)=2 rows (145, 70) gens ['+ZYXZXZIZY', '+YYIIIIYYI'] t=911s
+V(G2)=8 rows (145, 72) gens ['+ZYXZXZIZY', '+ZIXZIXZIZ'] t=911s
+V(G2)=4 rows (145, 73) gens ['+ZYXZXZIZY', '+YZXZZXZIY'] t=911s
+  V=4 at ['+ZYXZXZIZY', '-XYYIZXYZY'] codes=128 splits=3700 pairs=292 memo=4059 t=913s
+V(G2)=4 rows (145, 77) gens ['+ZYXZXZIZY', '-XYYIZXYZY'] t=913s
+V(G2)=4 rows (145, 78) gens ['+ZYXZXZIZY', '-XXXIZXYYZ'] t=914s
+V(G2)=4 rows (145, 79) gens ['+ZYXZXZIZY', '+IYXIIXYYY'] t=914s
+  V=8 at ['+ZYXZXZIZY', '-IIXIXIYIY'] codes=576 splits=4824 pairs=18 memo=4060 t=916s
+V(G2)=8 rows (145, 85) gens ['+ZYXZXZIZY', '-IIXIXIYIY'] t=916s
+V(G2)=4 rows (145, 87) gens ['+ZYXZXZIZY', '+XIYIYIYXY'] t=917s
+V(G2)=6 rows (145, 92) gens ['+ZYXZXZIZY', '-YIIIXXYII'] t=917s
+  V=5 at ['+ZYXZXZIZY', '-ZZIIYXYIX'] codes=216 splits=5584 pairs=475 memo=4061 t=919s
+V(G2)=5 rows (145, 93) gens ['+ZYXZXZIZY', '-ZZIIYXYIX'] t=919s
+  V=4 at ['+ZYXZXZIZY', '+ZIZIYXYXI'] codes=128 splits=3700 pairs=296 memo=4062 t=921s
+V(G2)=4 rows (145, 94) gens ['+ZYXZXZIZY', '+ZIZIYXYXI'] t=921s
+V(G2)=4 rows (145, 104) gens ['+ZYXZXZIZY', '-XYIYIXZIZ'] t=922s
+V(G2)=5 rows (145, 105) gens ['+ZYXZXZIZY', '-IXIYZXZIY'] t=922s
+  V=2 at ['+ZYXZXZIZY', '-XXZYIXZXY'] codes=144 splits=2048 pairs=36 memo=4073 t=924s
+V(G2)=2 rows (145, 107) gens ['+ZYXZXZIZY', '-XXZYIXZXY'] t=924s
+  V=3 at ['+ZYXZXZIZY', '-YZZXIXYZZ'] codes=288 splits=3624 pairs=74 memo=4081 t=928s
+V(G2)=3 rows (145, 108) gens ['+ZYXZXZIZY', '-YZZXIXYZZ'] t=928s
+  V=4 at ['+ZYXZXZIZY', '+ZIZXZXYZY'] codes=288 splits=6336 pairs=157 memo=4082 t=932s
+V(G2)=4 rows (145, 109) gens ['+ZYXZXZIZY', '+ZIZXZXYZY'] t=932s
+  V=3 at ['+ZYXZXZIZY', '-YIIXIXYYY'] codes=72 splits=1368 pairs=5 memo=4086 t=934s
+V(G2)=3 rows (145, 111) gens ['+ZYXZXZIZY', '-YIIXIXYYY'] t=934s
+  V=4 at ['+ZYXZXZIZY', '+IYXXXXYII'] codes=240 splits=4752 pairs=104 memo=4087 t=938s
+V(G2)=4 rows (145, 124) gens ['+ZYXZXZIZY', '+IYXXXXYII'] t=938s
+  V=4 at ['+ZYXZXZIZY', '-XYYXYXYXI'] codes=168 splits=2808 pairs=33 memo=4088 t=940s
+V(G2)=4 rows (145, 126) gens ['+ZYXZXZIZY', '-XYYXYXYXI'] t=940s
+  V=4 at ['+YYYZYZIYY', '-ZYZIZIYZI'] codes=96 splits=1848 pairs=10 memo=4089 t=941s
+V(G2)=4 rows (147, 68) gens ['+YYYZYZIYY', '-ZYZIZIYZI'] t=941s
+  V=4 at ['+YYYZYZIYY', '+YYIIIIYYI'] codes=144 splits=2532 pairs=19 memo=4090 t=942s
+V(G2)=4 rows (147, 70) gens ['+YYYZYZIYY', '+YYIIIIYYI'] t=942s
+V(G2)=4 rows (147, 72) gens ['+YYYZYZIYY', '+ZIXZIXZIZ'] t=943s
+  V=4 at ['+YYYZYZIYY', '+YZXZZXZIY'] codes=128 splits=3700 pairs=297 memo=4092 t=945s
+V(G2)=4 rows (147, 73) gens ['+YYYZYZIYY', '+YZXZZXZIY'] t=945s
+  V=4 at ['+YYYZYZIYY', '-ZZYZIXZXY'] codes=128 splits=3700 pairs=292 memo=4093 t=946s
+V(G2)=4 rows (147, 75) gens ['+YYYZYZIYY', '-ZZYZIXZXY'] t=946s
+  V=4 at ['+YYYZYZIYY', '-XYYIZXYZY'] codes=108 splits=2588 pairs=82 memo=4094 t=949s
+V(G2)=4 rows (147, 77) gens ['+YYYZYZIYY', '-XYYIZXYZY'] t=949s
+  V=3 at ['+YYYZYZIYY', '-XXXIZXYYZ'] codes=108 splits=2024 pairs=62 memo=4147 t=958s
+V(G2)=3 rows (147, 78) gens ['+YYYZYZIYY', '-XXXIZXYYZ'] t=958s
+  V=4 at ['+YYYZYZIYY', '+IYXIIXYYY'] codes=168 splits=4300 pairs=147 memo=4148 t=961s
+V(G2)=4 rows (147, 79) gens ['+YYYZYZIYY', '+IYXIIXYYY'] t=961s
+  V=6 at ['+YYYZYZIYY', '-IIXIXIYIY'] codes=216 splits=4576 pairs=71 memo=4149 t=964s
+V(G2)=6 rows (147, 85) gens ['+YYYZYZIYY', '-IIXIXIYIY'] t=964s
+  V=6 at ['+YYYZYZIYY', '+XIYIYIYXY'] codes=72 splits=1116 pairs=21 memo=4150 t=965s
+V(G2)=6 rows (147, 87) gens ['+YYYZYZIYY', '+XIYIYIYXY'] t=965s
+V(G2)=4 rows (147, 92) gens ['+YYYZYZIYY', '-YIIIXXYII'] t=965s
+  V=4 at ['+YYYZYZIYY', '+ZIZIYXYXI'] codes=96 splits=2720 pairs=143 memo=4151 t=967s
+V(G2)=4 rows (147, 94) gens ['+YYYZYZIYY', '+ZIZIYXYXI'] t=967s
+  V=4 at ['+YYYZYZIYY', '+YZZIXXYXX'] codes=132 splits=2736 pairs=83 memo=4152 t=969s
+V(G2)=4 rows (147, 95) gens ['+YYYZYZIYY', '+YZZIXXYXX'] t=969s
+  V=4 at ['+YYYZYZIYY', '-XYIYIXZIZ'] codes=108 splits=2588 pairs=105 memo=4153 t=971s
+V(G2)=4 rows (147, 104) gens ['+YYYZYZIYY', '-XYIYIXZIZ'] t=971s
+  V=4 at ['+YYYZYZIYY', '-IXIYZXZIY'] codes=108 splits=2588 pairs=105 memo=4154 t=972s
+V(G2)=4 rows (147, 105) gens ['+YYYZYZIYY', '-IXIYZXZIY'] t=972s
+  V=3 at ['+YYYZYZIYY', '-IYZYZXZXZ'] codes=108 splits=2024 pairs=82 memo=4156 t=973s
+V(G2)=3 rows (147, 106) gens ['+YYYZYZIYY', '-IYZYZXZXZ'] t=973s
+V(G2)=3 rows (147, 107) gens ['+YYYZYZIYY', '-XXZYIXZXY'] t=974s
+V(G2)=4 rows (147, 108) gens ['+YYYZYZIYY', '-YZZXIXYZZ'] t=974s
+  V=3 at ['+YYYZYZIYY', '-YIIXIXYYY'] codes=36 splits=684 pairs=4 memo=4164 t=975s
+V(G2)=3 rows (147, 111) gens ['+YYYZYZIYY', '-YIIXIXYYY'] t=975s
+  V=4 at ['+YYYZYZIYY', '+IYXXXXYII'] codes=132 splits=3816 pairs=40 memo=4181 t=978s
+V(G2)=4 rows (147, 124) gens ['+YYYZYZIYY', '+IYXXXXYII'] t=978s
+V(G2)=4 rows (147, 125) gens ['+YYYZYZIYY', '-XXXXYXYIX'] t=979s
+  V=4 at ['+YYYZYZIYY', '-XYYXYXYXI'] codes=156 splits=4416 pairs=77 memo=4216 t=988s
+V(G2)=4 rows (147, 126) gens ['+YYYZYZIYY', '-XYYXYXYXI'] t=988s
+V(G2)=4 rows (148, 68) gens ['-XIYIYZXIZ', '-ZYZIZIYZI'] t=988s
+  V=4 at ['-XIYIYZXIZ', '-YXZIIIYZX'] codes=176 splits=5880 pairs=509 memo=4217 t=991s
+V(G2)=4 rows (148, 69) gens ['-XIYIYZXIZ', '-YXZIIIYZX'] t=991s
+  V=4 at ['-XIYIYZXIZ', '+YYIIIIYYI'] codes=128 splits=2232 pairs=40 memo=4218 t=992s
+V(G2)=4 rows (148, 70) gens ['-XIYIYZXIZ', '+YYIIIIYYI'] t=992s
+V(G2)=4 rows (148, 71) gens ['-XIYIYZXIZ', '-ZXIIZIYYX'] t=992s
+  V=4 at ['-XIYIYZXIZ', '+ZIXZIXZIZ'] codes=96 splits=2708 pairs=89 memo=4219 t=993s
+V(G2)=4 rows (148, 72) gens ['-XIYIYZXIZ', '+ZIXZIXZIZ'] t=993s
+V(G2)=4 rows (148, 73) gens ['-XIYIYZXIZ', '+YZXZZXZIY'] t=993s
+V(G2)=4 rows (148, 74) gens ['-XIYIYZXIZ', '+YIYZZXZXZ'] t=994s
+V(G2)=4 rows (148, 75) gens ['-XIYIYZXIZ', '-ZZYZIXZXY'] t=994s
+V(G2)=6 rows (148, 76) gens ['-XIYIYZXIZ', '+IXYIIXYZZ'] t=994s
+V(G2)=4 rows (148, 77) gens ['-XIYIYZXIZ', '-XYYIZXYZY'] t=994s
+V(G2)=4 rows (148, 78) gens ['-XIYIYZXIZ', '-XXXIZXYYZ'] t=995s
+V(G2)=4 rows (148, 79) gens ['-XIYIYZXIZ', '+IYXIIXYYY'] t=995s
+V(G2)=8 rows (148, 84) gens ['-XIYIYZXIZ', '-XZXIYIYIZ'] t=996s
+V(G2)=8 rows (148, 85) gens ['-XIYIYZXIZ', '-IIXIXIYIY'] t=996s
+V(G2)=4 rows (148, 86) gens ['-XIYIYZXIZ', '-IZYIXIYXZ'] t=996s
+  V=4 at ['-XIYIYZXIZ', '+XIYIYIYXY'] codes=96 splits=2452 pairs=65 memo=4220 t=997s
+V(G2)=4 rows (148, 87) gens ['-XIYIYZXIZ', '+XIYIYIYXY'] t=997s
+V(G2)=5 rows (148, 88) gens ['-XIYIYZXIZ', '-XXZZXXZZI'] t=998s
+  V=4 at ['-XIYIYZXIZ', '-IYZZYXZZX'] codes=176 splits=5196 pairs=220 memo=4222 t=1001s
+V(G2)=4 rows (148, 89) gens ['-XIYIYZXIZ', '-IYZZYXZZX'] t=1001s
+  V=4 at ['-XIYIYZXIZ', '-IXIZYXZYI'] codes=120 splits=3240 pairs=229 memo=4223 t=1003s
+V(G2)=4 rows (148, 90) gens ['-XIYIYZXIZ', '-IXIZYXZYI'] t=1003s
+V(G2)=3 rows (148, 91) gens ['-XIYIYZXIZ', '+XYIZXXZYX'] t=1004s
+V(G2)=4 rows (148, 96) gens ['-XIYIYZXIZ', '-YXXYZIZII'] t=1004s
+  V=4 at ['-XIYIYZXIZ', '-ZYXYIIZIX'] codes=112 splits=3792 pairs=259 memo=4224 t=1006s
+V(G2)=4 rows (148, 97) gens ['-XIYIYZXIZ', '-ZYXYIIZIX'] t=1006s
+  V=2 at ['-XIYIYZXIZ', '+ZXYYIIZXI'] codes=48 splits=960 pairs=14 memo=4240 t=1008s
+V(G2)=2 rows (148, 98) gens ['-XIYIYZXIZ', '+ZXYYIIZXI'] t=1008s
+  V=4 at ['-XIYIYZXIZ', '-YYYYZIZXX'] codes=84 splits=1896 pairs=82 memo=4241 t=1010s
+V(G2)=4 rows (148, 99) gens ['-XIYIYZXIZ', '-YYYYZIZXX'] t=1010s
+V(G2)=8 rows (148, 100) gens ['-XIYIYZXIZ', '+XIYXZIYZI'] t=1010s
+  V=4 at ['-XIYIYZXIZ', '-IZYXIIYZX'] codes=184 splits=5208 pairs=405 memo=4242 t=1014s
+V(G2)=4 rows (148, 101) gens ['-XIYIYZXIZ', '-IZYXIIYZX'] t=1014s
+  V=4 at ['-XIYIYZXIZ', '-IIXXIIYYI'] codes=288 splits=6400 pairs=201 memo=4243 t=1017s
+V(G2)=4 rows (148, 102) gens ['-XIYIYZXIZ', '-IIXXIIYYI'] t=1017s
+  V=4 at ['-XIYIYZXIZ', '+XZXXZIYYX'] codes=128 splits=3700 pairs=467 memo=4244 t=1019s
+V(G2)=4 rows (148, 103) gens ['-XIYIYZXIZ', '+XZXXZIYYX'] t=1019s
+  V=4 at ['-XIYIYZXIZ', '-XYIYIXZIZ'] codes=208 splits=5616 pairs=224 memo=4245 t=1022s
+V(G2)=4 rows (148, 104) gens ['-XIYIYZXIZ', '-XYIYIXZIZ'] t=1022s
+V(G2)=4 rows (148, 105) gens ['-XIYIYZXIZ', '-IXIYZXZIY'] t=1022s
+  V=4 at ['-XIYIYZXIZ', '-IYZYZXZXZ'] codes=216 splits=4572 pairs=117 memo=4246 t=1025s
+V(G2)=4 rows (148, 106) gens ['-XIYIYZXIZ', '-IYZYZXZXZ'] t=1025s
+  V=4 at ['-XIYIYZXIZ', '-XXZYIXZXY'] codes=144 splits=2760 pairs=93 memo=4247 t=1028s
+V(G2)=4 rows (148, 107) gens ['-XIYIYZXIZ', '-XXZYIXZXY'] t=1028s
+V(G2)=5 rows (148, 108) gens ['-XIYIYZXIZ', '-YZZXIXYZZ'] t=1028s
+V(G2)=4 rows (148, 109) gens ['-XIYIYZXIZ', '+ZIZXZXYZY'] t=1028s
+  V=4 at ['-XIYIYZXIZ', '-ZZIXZXYYZ'] codes=128 splits=3700 pairs=431 memo=4249 t=1031s
+V(G2)=4 rows (148, 110) gens ['-XIYIYZXIZ', '-ZZIXZXYYZ'] t=1031s
+V(G2)=4 rows (148, 111) gens ['-XIYIYZXIZ', '-YIIXIXYYY'] t=1031s
+V(G2)=6 rows (148, 116) gens ['-XIYIYZXIZ', '+ZXIXYIYIZ'] t=1032s
+  V=4 at ['-XIYIYZXIZ', '+YYIXXIYIY'] codes=240 splits=5468 pairs=286 memo=4250 t=1038s
+V(G2)=4 rows (148, 117) gens ['-XIYIYZXIZ', '+YYIXXIYIY'] t=1038s
+V(G2)=5 rows (148, 118) gens ['-XIYIYZXIZ', '-YXZXXIYXZ'] t=1039s
+V(G2)=4 rows (148, 119) gens ['-XIYIYZXIZ', '-ZYZXYIYXY'] t=1039s
+V(G2)=5 rows (148, 120) gens ['-XIYIYZXIZ', '+ZZYYXXZZI'] t=1039s
+V(G2)=4 rows (148, 121) gens ['-XIYIYZXIZ', '-YIYYYXZZX'] t=1040s
+  V=4 at ['-XIYIYZXIZ', '-YZXYYXZYI'] codes=128 splits=3700 pairs=367 memo=4251 t=1042s
+V(G2)=4 rows (148, 122) gens ['-XIYIYZXIZ', '-YZXYYXZYI'] t=1042s
+  V=4 at ['-XIYIYZXIZ', '+ZIXYXXZYX'] codes=128 splits=3376 pairs=44 memo=4252 t=1044s
+V(G2)=4 rows (148, 123) gens ['-XIYIYZXIZ', '+ZIXYXXZYX'] t=1044s
+  V=4 at ['-XIYIYZXIZ', '+IYXXXXYII'] codes=240 splits=5468 pairs=301 memo=4253 t=1047s
+V(G2)=4 rows (148, 124) gens ['-XIYIYZXIZ', '+IYXXXXYII'] t=1047s
+  V=3 at ['-XIYIYZXIZ', '-XXXXYXYIX'] codes=128 splits=4272 pairs=107 memo=4281 t=1052s
+V(G2)=3 rows (148, 125) gens ['-XIYIYZXIZ', '-XXXXYXYIX'] t=1052s
+  V=4 at ['-XIYIYZXIZ', '-XYYXYXYXI'] codes=216 splits=4872 pairs=67 memo=4282 t=1055s
+V(G2)=4 rows (148, 126) gens ['-XIYIYZXIZ', '-XYYXYXYXI'] t=1055s
+V(G2)=3 rows (148, 127) gens ['-XIYIYZXIZ', '-IXYXXXYXX'] t=1056s
+V(G2)=4 rows (149, 68) gens ['-IZYIXZXIY', '-ZYZIZIYZI'] t=1056s
+V(G2)=4 rows (149, 70) gens ['-IZYIXZXIY', '+YYIIIIYYI'] t=1056s
+V(G2)=4 rows (149, 72) gens ['-IZYIXZXIY', '+ZIXZIXZIZ'] t=1056s
+  V=4 at ['-IZYIXZXIY', '+YZXZZXZIY'] codes=176 splits=5880 pairs=523 memo=4283 t=1060s
+V(G2)=4 rows (149, 73) gens ['-IZYIXZXIY', '+YZXZZXZIY'] t=1060s
+V(G2)=4 rows (149, 78) gens ['-IZYIXZXIY', '-XXXIZXYYZ'] t=1061s
+  V=4 at ['-IZYIXZXIY', '+IYXIIXYYY'] codes=304 splits=6512 pairs=180 memo=4284 t=1065s
+V(G2)=4 rows (149, 79) gens ['-IZYIXZXIY', '+IYXIIXYYY'] t=1065s
+V(G2)=8 rows (149, 86) gens ['-IZYIXZXIY', '-IZYIXIYXZ'] t=1065s
+V(G2)=4 rows (149, 87) gens ['-IZYIXZXIY', '+XIYIYIYXY'] t=1066s
+  V=4 at ['-IZYIXZXIY', '-XXZZXXZZI'] codes=176 splits=5196 pairs=226 memo=4286 t=1071s
+V(G2)=4 rows (149, 88) gens ['-IZYIXZXIY', '-XXZZXXZZI'] t=1071s
+  V=4 at ['-IZYIXZXIY', '-IYZZYXZZX'] codes=384 splits=7088 pairs=158 memo=4287 t=1076s
+V(G2)=4 rows (149, 89) gens ['-IZYIXZXIY', '-IYZZYXZZX'] t=1076s
+V(G2)=4 rows (149, 90) gens ['-IZYIXZXIY', '-IXIZYXZYI'] t=1076s
+V(G2)=4 rows (149, 96) gens ['-IZYIXZXIY', '-YXXYZIZII'] t=1076s
+  V=4 at ['-IZYIXZXIY', '-ZYXYIIZIX'] codes=176 splits=5880 pairs=508 memo=4288 t=1079s
+V(G2)=4 rows (149, 97) gens ['-IZYIXZXIY', '-ZYXYIIZIX'] t=1079s
+V(G2)=4 rows (149, 98) gens ['-IZYIXZXIY', '+ZXYYIIZXI'] t=1080s
+  V=4 at ['-IZYIXZXIY', '-IZYXIIYZX'] codes=112 splits=3188 pairs=171 memo=4289 t=1082s
+V(G2)=4 rows (149, 101) gens ['-IZYIXZXIY', '-IZYXIIYZX'] t=1082s
+V(G2)=4 rows (149, 102) gens ['-IZYIXZXIY', '-IIXXIIYYI'] t=1082s
+  V=4 at ['-IZYIXZXIY', '-XYIYIXZIZ'] codes=256 splits=5256 pairs=126 memo=4290 t=1087s
+V(G2)=4 rows (149, 104) gens ['-IZYIXZXIY', '-XYIYIXZIZ'] t=1087s
+  V=4 at ['-IZYIXZXIY', '-IXIYZXZIY'] codes=208 splits=4984 pairs=96 memo=4291 t=1093s
+V(G2)=4 rows (149, 105) gens ['-IZYIXZXIY', '-IXIYZXZIY'] t=1093s
+  V=2 at ['-IZYIXZXIY', '-IYZYZXZXZ'] codes=192 splits=2112 pairs=26 memo=4295 t=1095s
+V(G2)=2 rows (149, 106) gens ['-IZYIXZXIY', '-IYZYZXZXZ'] t=1095s
+  V=4 at ['-IZYIXZXIY', '-XXZYIXZXY'] codes=156 splits=4416 pairs=112 memo=4301 t=1100s
+V(G2)=4 rows (149, 107) gens ['-IZYIXZXIY', '-XXZYIXZXY'] t=1100s
+  V=2 at ['-IZYIXZXIY', '-YIIXIXYYY'] codes=24 splits=336 pairs=10 memo=4314 t=1103s
+V(G2)=2 rows (149, 111) gens ['-IZYIXZXIY', '-YIIXIXYYY'] t=1103s
+V(G2)=4 rows (149, 117) gens ['-IZYIXZXIY', '+YYIXXIYIY'] t=1103s
+V(G2)=4 rows (149, 118) gens ['-IZYIXZXIY', '-YXZXXIYXZ'] t=1104s
+  V=4 at ['-IZYIXZXIY', '-ZYZXYIYXY'] codes=128 splits=3700 pairs=290 memo=4315 t=1107s
+V(G2)=4 rows (149, 119) gens ['-IZYIXZXIY', '-ZYZXYIYXY'] t=1107s
+  V=4 at ['-IZYIXZXIY', '+ZZYYXXZZI'] codes=184 splits=5208 pairs=409 memo=4316 t=1110s
+V(G2)=4 rows (149, 120) gens ['-IZYIXZXIY', '+ZZYYXXZZI'] t=1110s
+  V=4 at ['-IZYIXZXIY', '+IYXXXXYII'] codes=304 splits=6512 pairs=172 memo=4317 t=1114s
+V(G2)=4 rows (149, 124) gens ['-IZYIXZXIY', '+IYXXXXYII'] t=1114s
+  V=6 at ['-IZYIXZXIY', '-XXXXYXYIX'] codes=384 splits=6560 pairs=70 memo=4318 t=1120s
+V(G2)=6 rows (149, 125) gens ['-IZYIXZXIY', '-XXXXYXYIX'] t=1120s
+V(G2)=3 rows (149, 126) gens ['-IZYIXZXIY', '-XYYXYXYXI'] t=1121s
+  V=4 at ['-IZYIXZXIY', '-IXYXXXYXX'] codes=128 splits=4272 pairs=108 memo=4328 t=1126s
+V(G2)=4 rows (149, 127) gens ['-IZYIXZXIY', '-IXYXXXYXX'] t=1126s
+  V=4 at ['+IIXIXZXXZ', '-ZYZIZIYZI'] codes=192 splits=4740 pairs=91 memo=4329 t=1129s
+V(G2)=4 rows (150, 68) gens ['+IIXIXZXXZ', '-ZYZIZIYZI'] t=1129s
+  V=4 at ['+IIXIXZXXZ', '+YYIIIIYYI'] codes=128 splits=2232 pairs=41 memo=4330 t=1131s
+V(G2)=4 rows (150, 70) gens ['+IIXIXZXXZ', '+YYIIIIYYI'] t=1131s
+V(G2)=8 rows (150, 72) gens ['+IIXIXZXXZ', '+ZIXZIXZIZ'] t=1131s
+  V=4 at ['+IIXIXZXXZ', '+YZXZZXZIY'] codes=176 splits=5196 pairs=214 memo=4331 t=1135s
+V(G2)=4 rows (150, 73) gens ['+IIXIXZXXZ', '+YZXZZXZIY'] t=1135s
+V(G2)=4 rows (150, 77) gens ['+IIXIXZXXZ', '-XYYIZXYZY'] t=1136s
+  V=4 at ['+IIXIXZXXZ', '+IYXIIXYYY'] codes=208 splits=4984 pairs=131 memo=4332 t=1139s
+V(G2)=4 rows (150, 79) gens ['+IIXIXZXXZ', '+IYXIIXYYY'] t=1139s
+V(G2)=8 rows (150, 85) gens ['+IIXIXZXXZ', '-IIXIXIYIY'] t=1140s
+  V=4 at ['+IIXIXZXXZ', '+XIYIYIYXY'] codes=48 splits=1604 pairs=30 memo=4333 t=1141s
+V(G2)=4 rows (150, 87) gens ['+IIXIXZXXZ', '+XIYIYIYXY'] t=1141s
+  V=4 at ['+IIXIXZXXZ', '-IYZZYXZZX'] codes=192 splits=5024 pairs=144 memo=4334 t=1145s
+V(G2)=4 rows (150, 89) gens ['+IIXIXZXXZ', '-IYZZYXZZX'] t=1145s
+  V=4 at ['+IIXIXZXXZ', '-IXIZYXZYI'] codes=176 splits=5880 pairs=502 memo=4335 t=1150s
+V(G2)=4 rows (150, 90) gens ['+IIXIXZXXZ', '-IXIZYXZYI'] t=1150s
+V(G2)=4 rows (150, 91) gens ['+IIXIXZXXZ', '+XYIZXXZYX'] t=1150s
+V(G2)=4 rows (150, 97) gens ['+IIXIXZXXZ', '-ZYXYIIZIX'] t=1151s
+V(G2)=4 rows (150, 98) gens ['+IIXIXZXXZ', '+ZXYYIIZXI'] t=1151s
+  V=4 at ['+IIXIXZXXZ', '-YYYYZIZXX'] codes=108 splits=2588 pairs=83 memo=4336 t=1153s
+V(G2)=4 rows (150, 99) gens ['+IIXIXZXXZ', '-YYYYZIZXX'] t=1153s
+V(G2)=4 rows (150, 101) gens ['+IIXIXZXXZ', '-IZYXIIYZX'] t=1153s
+  V=8 at ['+IIXIXZXXZ', '-IIXXIIYYI'] codes=160 splits=3588 pairs=79 memo=4337 t=1155s
+V(G2)=8 rows (150, 102) gens ['+IIXIXZXXZ', '-IIXXIIYYI'] t=1155s
+V(G2)=4 rows (150, 104) gens ['+IIXIXZXXZ', '-XYIYIXZIZ'] t=1156s
+  V=4 at ['+IIXIXZXXZ', '-IXIYZXZIY'] codes=128 splits=2688 pairs=55 memo=4338 t=1158s
+V(G2)=4 rows (150, 105) gens ['+IIXIXZXXZ', '-IXIYZXZIY'] t=1158s
+V(G2)=4 rows (150, 106) gens ['+IIXIXZXXZ', '-IYZYZXZXZ'] t=1158s
+  V=4 at ['+IIXIXZXXZ', '-XXZYIXZXY'] codes=144 splits=2760 pairs=74 memo=4339 t=1161s
+V(G2)=4 rows (150, 107) gens ['+IIXIXZXXZ', '-XXZYIXZXY'] t=1161s
+  V=4 at ['+IIXIXZXXZ', '-YIIXIXYYY'] codes=32 splits=816 pairs=20 memo=4343 t=1162s
+V(G2)=4 rows (150, 111) gens ['+IIXIXZXXZ', '-YIIXIXYYY'] t=1162s
+V(G2)=4 rows (150, 117) gens ['+IIXIXZXXZ', '+YYIXXIYIY'] t=1162s
+V(G2)=4 rows (150, 118) gens ['+IIXIXZXXZ', '-YXZXXIYXZ'] t=1162s
+  V=4 at ['+IIXIXZXXZ', '-ZYZXYIYXY'] codes=128 splits=3700 pairs=367 memo=4344 t=1165s
+V(G2)=4 rows (150, 119) gens ['+IIXIXZXXZ', '-ZYZXYIYXY'] t=1165s
+V(G2)=4 rows (150, 123) gens ['+IIXIXZXXZ', '+ZIXYXXZYX'] t=1166s
+  V=4 at ['+IIXIXZXXZ', '+IYXXXXYII'] codes=208 splits=5616 pairs=338 memo=4345 t=1170s
+V(G2)=4 rows (150, 124) gens ['+IIXIXZXXZ', '+IYXXXXYII'] t=1170s
+  V=3 at ['+IIXIXZXXZ', '-XXXXYXYIX'] codes=156 splits=3772 pairs=70 memo=4360 t=1174s
+V(G2)=3 rows (150, 125) gens ['+IIXIXZXXZ', '-XXXXYXYIX'] t=1174s
+V(G2)=4 rows (150, 126) gens ['+IIXIXZXXZ', '-XYYXYXYXI'] t=1175s
+  V=4 at ['+IIXIXZXXZ', '-IXYXXXYXX'] codes=128 splits=4272 pairs=82 memo=4362 t=1178s
+V(G2)=4 rows (150, 127) gens ['+IIXIXZXXZ', '-IXYXXXYXX'] t=1178s
+  V=4 at ['-XZXIYZXXY', '-ZYZIZIYZI'] codes=96 splits=2056 pairs=29 memo=4363 t=1180s
+V(G2)=4 rows (151, 68) gens ['-XZXIYZXXY', '-ZYZIZIYZI'] t=1180s
+  V=4 at ['-XZXIYZXXY', '+YYIIIIYYI'] codes=144 splits=3732 pairs=54 memo=4364 t=1183s
+V(G2)=4 rows (151, 70) gens ['-XZXIYZXXY', '+YYIIIIYYI'] t=1183s
+  V=4 at ['-XZXIYZXXY', '+ZIXZIXZIZ'] codes=72 splits=1340 pairs=61 memo=4365 t=1185s
+V(G2)=4 rows (151, 72) gens ['-XZXIYZXXY', '+ZIXZIXZIZ'] t=1185s
+  V=4 at ['-XZXIYZXXY', '+YZXZZXZIY'] codes=128 splits=3700 pairs=472 memo=4366 t=1188s
+V(G2)=4 rows (151, 73) gens ['-XZXIYZXXY', '+YZXZZXZIY'] t=1188s
+V(G2)=4 rows (151, 84) gens ['-XZXIYZXXY', '-XZXIYIYIZ'] t=1188s
+  V=8 at ['-XZXIYZXXY', '+XIYIYIYXY'] codes=960 splits=9584 pairs=146 memo=4367 t=1197s
+V(G2)=8 rows (151, 87) gens ['-XZXIYZXXY', '+XIYIYIYXY'] t=1197s
+V(G2)=3 rows (151, 88) gens ['-XZXIYZXXY', '-XXZZXXZZI'] t=1197s
+  V=4 at ['-XZXIYZXXY', '-IXIZYXZYI'] codes=108 splits=2588 pairs=94 memo=4368 t=1199s
+V(G2)=4 rows (151, 90) gens ['-XZXIYZXXY', '-IXIZYXZYI'] t=1199s
+  V=4 at ['-XZXIYZXXY', '+XYIZXXZYX'] codes=132 splits=2736 pairs=159 memo=4369 t=1202s
+V(G2)=4 rows (151, 91) gens ['-XZXIYZXXY', '+XYIZXXZYX'] t=1202s
+  V=4 at ['-XZXIYZXXY', '-YXXYZIZII'] codes=96 splits=2720 pairs=186 memo=4371 t=1204s
+V(G2)=4 rows (151, 96) gens ['-XZXIYZXXY', '-YXXYZIZII'] t=1204s
+  V=4 at ['-XZXIYZXXY', '+ZXYYIIZXI'] codes=96 splits=2720 pairs=138 memo=4373 t=1206s
+V(G2)=4 rows (151, 98) gens ['-XZXIYZXXY', '+ZXYYIIZXI'] t=1206s
+V(G2)=4 rows (151, 99) gens ['-XZXIYZXXY', '-YYYYZIZXX'] t=1207s
+V(G2)=4 rows (151, 103) gens ['-XZXIYZXXY', '+XZXXZIYYX'] t=1207s
+V(G2)=4 rows (151, 104) gens ['-XZXIYZXXY', '-XYIYIXZIZ'] t=1208s
+V(G2)=4 rows (151, 106) gens ['-XZXIYZXXY', '-IYZYZXZXZ'] t=1209s
+  V=4 at ['-XZXIYZXXY', '-XXZYIXZXY'] codes=132 splits=2808 pairs=43 memo=4377 t=1212s
+V(G2)=4 rows (151, 107) gens ['-XZXIYZXXY', '-XXZYIXZXY'] t=1212s
+  V=2 at ['-XZXIYZXXY', '-YIIXIXYYY'] codes=24 splits=264 pairs=12 memo=4378 t=1213s
+V(G2)=2 rows (151, 111) gens ['-XZXIYZXXY', '-YIIXIXYYY'] t=1213s
+  V=4 at ['-XZXIYZXXY', '+YYIXXIYIY'] codes=216 splits=5512 pairs=277 memo=4379 t=1219s
+V(G2)=4 rows (151, 117) gens ['-XZXIYZXXY', '+YYIXXIYIY'] t=1219s
+V(G2)=4 rows (151, 118) gens ['-XZXIYZXXY', '-YXZXXIYXZ'] t=1220s
+  V=4 at ['-XZXIYZXXY', '-ZYZXYIYXY'] codes=108 splits=2588 pairs=98 memo=4380 t=1224s
+V(G2)=4 rows (151, 119) gens ['-XZXIYZXXY', '-ZYZXYIYXY'] t=1224s
+V(G2)=4 rows (151, 122) gens ['-XZXIYZXXY', '-YZXYYXZYI'] t=1225s
+  V=3 at ['-XZXIYZXXY', '+IYXXXXYII'] codes=132 splits=3816 pairs=60 memo=4394 t=1229s
+V(G2)=3 rows (151, 124) gens ['-XZXIYZXXY', '+IYXXXXYII'] t=1229s
+V(G2)=3 rows (151, 125) gens ['-XZXIYZXXY', '-XXXXYXYIX'] t=1231s
+V(G2)=4 rows (151, 127) gens ['-XZXIYZXXY', '-IXYXXXYXX'] t=1233s
+  V=8 at ['+XYIZXYIZI', '+IZIZZIZII'] codes=640 splits=8660 pairs=267 memo=4395 t=1241s
+V(G2)=8 rows (152, 64) gens ['+XYIZXYIZI', '+IZIZZIZII'] t=1241s
+  V=4 at ['+XYIZXYIZI', '-XIIZIIZIX'] codes=48 splits=1368 pairs=24 memo=4398 t=1242s
+V(G2)=4 rows (152, 65) gens ['+XYIZXYIZI', '-XIIZIIZIX'] t=1242s
+  V=4 at ['+XYIZXYIZI', '+YYIIIIYYI'] codes=128 splits=3396 pairs=130 memo=4399 t=1245s
+V(G2)=4 rows (152, 70) gens ['+XYIZXYIZI', '+YYIIIIYYI'] t=1245s
+V(G2)=4 rows (152, 84) gens ['+XYIZXYIZI', '-XZXIYIYIZ'] t=1246s
+  V=2 at ['+XYIZXYIZI', '-IIXIXIYIY'] codes=144 splits=2736 pairs=20 memo=4410 t=1250s
+V(G2)=2 rows (152, 85) gens ['+XYIZXYIZI', '-IIXIXIYIY'] t=1250s
+  V=4 at ['+XYIZXYIZI', '+XIYIYIYXY'] codes=168 splits=4300 pairs=140 memo=4411 t=1254s
+V(G2)=4 rows (152, 87) gens ['+XYIZXYIZI', '+XIYIYIYXY'] t=1254s
+  V=4 at ['+XYIZXYIZI', '+XIYXZIYZI'] codes=208 splits=5616 pairs=226 memo=4412 t=1259s
+V(G2)=4 rows (152, 100) gens ['+XYIZXYIZI', '+XIYXZIYZI'] t=1259s
+V(G2)=3 rows (152, 101) gens ['+XYIZXYIZI', '-IZYXIIYZX'] t=1260s
+  V=4 at ['+XYIZXYIZI', '-IIXXIIYYI'] codes=384 splits=6496 pairs=84 memo=4413 t=1267s
+V(G2)=4 rows (152, 102) gens ['+XYIZXYIZI', '-IIXXIIYYI'] t=1267s
+V(G2)=3 rows (152, 103) gens ['+XYIZXYIZI', '+XZXXZIYYX'] t=1267s
+V(G2)=4 rows (152, 117) gens ['+XYIZXYIZI', '+YYIXXIYIY'] t=1268s
+V(G2)=4 rows (153, 65) gens ['-IXIZYYIZX', '-XIIZIIZIX'] t=1268s
+  V=4 at ['-IXIZYYIZX', '+XZZZIIZXI'] codes=72 splits=1584 pairs=46 memo=4414 t=1269s
+V(G2)=4 rows (153, 66) gens ['-IXIZYYIZX', '+XZZZIIZXI'] t=1269s
+V(G2)=8 rows (153, 67) gens ['-IXIZYYIZX', '-IIZZZIZXX'] t=1270s
+  V=8 at ['-IXIZYYIZX', '-ZYZIZIYZI'] codes=112 splits=2588 pairs=131 memo=4415 t=1272s
+V(G2)=8 rows (153, 68) gens ['-IXIZYYIZX', '-ZYZIZIYZI'] t=1272s
+  V=4 at ['-IXIZYYIZX', '-YXZIIIYZX'] codes=160 splits=3376 pairs=34 memo=4418 t=1274s
+V(G2)=4 rows (153, 69) gens ['-IXIZYYIZX', '-YXZIIIYZX'] t=1274s
+  V=4 at ['-IXIZYYIZX', '+YYIIIIYYI'] codes=96 splits=2200 pairs=90 memo=4419 t=1276s
+V(G2)=4 rows (153, 70) gens ['-IXIZYYIZX', '+YYIIIIYYI'] t=1276s
+  V=6 at ['-IXIZYYIZX', '-ZXIIZIYYX'] codes=144 splits=4840 pairs=296 memo=4420 t=1280s
+V(G2)=6 rows (153, 71) gens ['-IXIZYYIZX', '-ZXIIZIYYX'] t=1280s
+  V=4 at ['-IXIZYYIZX', '-XZXIYIYIZ'] codes=168 splits=4164 pairs=73 memo=4421 t=1283s
+V(G2)=4 rows (153, 84) gens ['-IXIZYYIZX', '-XZXIYIYIZ'] t=1283s
+V(G2)=4 rows (153, 85) gens ['-IXIZYYIZX', '-IIXIXIYIY'] t=1283s
+V(G2)=4 rows (153, 86) gens ['-IXIZYYIZX', '-IZYIXIYXZ'] t=1284s
+V(G2)=4 rows (153, 87) gens ['-IXIZYYIZX', '+XIYIYIYXY'] t=1284s
+V(G2)=3 rows (153, 100) gens ['-IXIZYYIZX', '+XIYXZIYZI'] t=1285s
+  V=4 at ['-IXIZYYIZX', '-IZYXIIYZX'] codes=208 splits=5616 pairs=223 memo=4422 t=1287s
+V(G2)=4 rows (153, 101) gens ['-IXIZYYIZX', '-IZYXIIYZX'] t=1287s
+  V=2 at ['-IXIZYYIZX', '-IIXXIIYYI'] codes=192 splits=2592 pairs=28 memo=4428 t=1288s
+V(G2)=2 rows (153, 102) gens ['-IXIZYYIZX', '-IIXXIIYYI'] t=1288s
+  V=4 at ['-IXIZYYIZX', '+XZXXZIYYX'] codes=156 splits=3772 pairs=112 memo=4437 t=1291s
+V(G2)=4 rows (153, 103) gens ['-IXIZYYIZX', '+XZXXZIYYX'] t=1291s
+V(G2)=6 rows (153, 116) gens ['-IXIZYYIZX', '+ZXIXYIYIZ'] t=1291s
+  V=4 at ['-IXIZYYIZX', '+YYIXXIYIY'] codes=240 splits=5468 pairs=249 memo=4438 t=1293s
+V(G2)=4 rows (153, 117) gens ['-IXIZYYIZX', '+YYIXXIYIY'] t=1293s
+  V=4 at ['-IXIZYYIZX', '-YXZXXIYXZ'] codes=96 splits=2712 pairs=165 memo=4439 t=1294s
+V(G2)=4 rows (153, 118) gens ['-IXIZYYIZX', '-YXZXXIYXZ'] t=1294s
+V(G2)=4 rows (153, 119) gens ['-IXIZYYIZX', '-ZYZXYIYXY'] t=1295s
+  V=4 at ['+IYZZYYIYI', '-XIIZIIZIX'] codes=96 splits=1280 pairs=13 memo=4446 t=1295s
+V(G2)=4 rows (154, 65) gens ['+IYZZYYIYI', '-XIIZIIZIX'] t=1295s
+V(G2)=4 rows (154, 68) gens ['+IYZZYYIYI', '-ZYZIZIYZI'] t=1296s
+  V=4 at ['+IYZZYYIYI', '+YYIIIIYYI'] codes=64 splits=1792 pairs=14 memo=4447 t=1297s
+V(G2)=4 rows (154, 70) gens ['+IYZZYYIYI', '+YYIIIIYYI'] t=1297s
+  V=6 at ['+IYZZYYIYI', '-IIXIXIYIY'] codes=168 splits=3956 pairs=129 memo=4448 t=1298s
+V(G2)=6 rows (154, 85) gens ['+IYZZYYIYI', '-IIXIXIYIY'] t=1298s
+  V=4 at ['+IYZZYYIYI', '-IZYIXIYXZ'] codes=176 splits=5880 pairs=520 memo=4449 t=1301s
+V(G2)=4 rows (154, 86) gens ['+IYZZYYIYI', '-IZYIXIYXZ'] t=1301s
+V(G2)=4 rows (154, 87) gens ['+IYZZYYIYI', '+XIYIYIYXY'] t=1302s
+  V=4 at ['+IYZZYYIYI', '-IIXXIIYYI'] codes=336 splits=5880 pairs=107 memo=4450 t=1304s
+V(G2)=4 rows (154, 102) gens ['+IYZZYYIYI', '-IIXXIIYYI'] t=1304s
+V(G2)=4 rows (154, 103) gens ['+IYZZYYIYI', '+XZXXZIYYX'] t=1305s
+  V=4 at ['+IYZZYYIYI', '-ZYZXYIYXY'] codes=120 splits=3240 pairs=178 memo=4451 t=1308s
+V(G2)=4 rows (154, 119) gens ['+IYZZYYIYI', '-ZYZXYIYXY'] t=1308s
+  V=4 at ['+XXZZXYIYX', '+YYIIIIYYI'] codes=96 splits=1512 pairs=29 memo=4453 t=1309s
+V(G2)=4 rows (155, 70) gens ['+XXZZXYIYX', '+YYIIIIYYI'] t=1309s
+V(G2)=4 rows (155, 84) gens ['+XXZZXYIYX', '-XZXIYIYIZ'] t=1309s
+V(G2)=4 rows (155, 86) gens ['+XXZZXYIYX', '-IZYIXIYXZ'] t=1309s
+V(G2)=4 rows (155, 87) gens ['+XXZZXYIYX', '+XIYIYIYXY'] t=1310s
+  V=3 at ['+XXZZXYIYX', '-IIXXIIYYI'] codes=240 splits=3040 pairs=14 memo=4455 t=1312s
+V(G2)=3 rows (155, 102) gens ['+XXZZXYIYX', '-IIXXIIYYI'] t=1312s
+V(G2)=4 rows (155, 103) gens ['+XXZZXYIYX', '+XZXXZIYYX'] t=1313s
+V(G2)=4 rows (155, 118) gens ['+XXZZXYIYX', '-YXZXXIYXZ'] t=1314s
+V(G2)=8 rows (156, 65) gens ['-YZZIXYXII', '-XIIZIIZIX'] t=1314s
+V(G2)=4 rows (156, 68) gens ['-YZZIXYXII', '-ZYZIZIYZI'] t=1314s
+  V=4 at ['-YZZIXYXII', '+YYIIIIYYI'] codes=128 splits=3396 pairs=127 memo=4456 t=1316s
+V(G2)=4 rows (156, 70) gens ['-YZZIXYXII', '+YYIIIIYYI'] t=1316s
+  V=4 at ['-YZZIXYXII', '+ZIXZIXZIZ'] codes=128 splits=3392 pairs=208 memo=4458 t=1317s
+V(G2)=4 rows (156, 72) gens ['-YZZIXYXII', '+ZIXZIXZIZ'] t=1317s
+V(G2)=4 rows (156, 73) gens ['-YZZIXYXII', '+YZXZZXZIY'] t=1318s
+V(G2)=4 rows (156, 77) gens ['-YZZIXYXII', '-XYYIZXYZY'] t=1318s
+  V=4 at ['-YZZIXYXII', '+IYXIIXYYY'] codes=160 splits=4064 pairs=151 memo=4459 t=1320s
+V(G2)=4 rows (156, 79) gens ['-YZZIXYXII', '+IYXIIXYYY'] t=1320s
+  V=4 at ['-YZZIXYXII', '+YYYZYIZZZ'] codes=288 splits=5464 pairs=65 memo=4460 t=1324s
+V(G2)=4 rows (156, 80) gens ['-YZZIXYXII', '+YYYZYIZZZ'] t=1324s
+  V=4 at ['-YZZIXYXII', '+ZXYZXIZZY'] codes=128 splits=3248 pairs=143 memo=4461 t=1326s
+V(G2)=4 rows (156, 81) gens ['-YZZIXYXII', '+ZXYZXIZZY'] t=1326s
+  V=4 at ['-YZZIXYXII', '-YXXZYIZYY'] codes=96 splits=2712 pairs=137 memo=4462 t=1328s
+V(G2)=4 rows (156, 83) gens ['-YZZIXYXII', '-YXXZYIZYY'] t=1328s
+  V=6 at ['-YZZIXYXII', '-IZYIXIYXZ'] codes=144 splits=4840 pairs=360 memo=4463 t=1332s
+V(G2)=6 rows (156, 86) gens ['-YZZIXYXII', '-IZYIXIYXZ'] t=1332s
+  V=4 at ['-YZZIXYXII', '+XIYIYIYXY'] codes=240 splits=5468 pairs=286 memo=4465 t=1335s
+V(G2)=4 rows (156, 87) gens ['-YZZIXYXII', '+XIYIYIYXY'] t=1335s
+  V=4 at ['-YZZIXYXII', '+YZZIXXYXX'] codes=32 splits=1216 pairs=15 memo=4466 t=1336s
+V(G2)=4 rows (156, 95) gens ['-YZZIXYXII', '+YZZIXXYXX'] t=1336s
+V(G2)=4 rows (156, 96) gens ['-YZZIXYXII', '-YXXYZIZII'] t=1336s
+V(G2)=4 rows (156, 97) gens ['-YZZIXYXII', '-ZYXYIIZIX'] t=1337s
+  V=4 at ['-YZZIXYXII', '+ZXYYIIZXI'] codes=128 splits=4272 pairs=116 memo=4486 t=1341s
+V(G2)=4 rows (156, 98) gens ['-YZZIXYXII', '+ZXYYIIZXI'] t=1341s
+  V=4 at ['-YZZIXYXII', '-YYYYZIZXX'] codes=144 splits=2760 pairs=73 memo=4487 t=1343s
+V(G2)=4 rows (156, 99) gens ['-YZZIXYXII', '-YYYYZIZXX'] t=1343s
+V(G2)=6 rows (156, 102) gens ['-YZZIXYXII', '-IIXXIIYYI'] t=1343s
+V(G2)=4 rows (156, 104) gens ['-YZZIXYXII', '-XYIYIXZIZ'] t=1343s
+  V=2 at ['-YZZIXYXII', '-YIIXIXYYY'] codes=24 splits=192 pairs=5 memo=4492 t=1344s
+V(G2)=2 rows (156, 111) gens ['-YZZIXYXII', '-YIIXIXYYY'] t=1344s
+V(G2)=4 rows (156, 113) gens ['-YZZIXYXII', '-XZZYXIZZY'] t=1344s
+V(G2)=4 rows (156, 118) gens ['-YZZIXYXII', '-YXZXXIYXZ'] t=1345s
+  V=4 at ['-YZZIXYXII', '+IYXXXXYII'] codes=304 splits=6512 pairs=170 memo=4493 t=1348s
+V(G2)=4 rows (156, 124) gens ['-YZZIXYXII', '+IYXXXXYII'] t=1348s
+  V=6 at ['-YZZIXYXII', '-XXXXYXYIX'] codes=384 splits=6560 pairs=70 memo=4494 t=1353s
+V(G2)=6 rows (156, 125) gens ['-YZZIXYXII', '-XXXXYXYIX'] t=1353s
+  V=4 at ['-YZZIXYXII', '-IXYXXXYXX'] codes=156 splits=3772 pairs=94 memo=4505 t=1357s
+V(G2)=4 rows (156, 127) gens ['-YZZIXYXII', '-IXYXXXYXX'] t=1357s
+V(G2)=8 rows (157, 65) gens ['-ZIZIYYXIX', '-XIIZIIZIX'] t=1358s
+  V=6 at ['-ZIZIYYXIX', '-YXZIIIYZX'] codes=144 splits=4840 pairs=358 memo=4506 t=1361s
+V(G2)=6 rows (157, 69) gens ['-ZIZIYYXIX', '-YXZIIIYZX'] t=1361s
+V(G2)=4 rows (157, 87) gens ['-ZIZIYYXIX', '+XIYIYIYXY'] t=1362s
+V(G2)=4 rows (157, 90) gens ['-ZIZIYYXIX', '-IXIZYXZYI'] t=1363s
+  V=4 at ['-ZIZIYYXIX', '+ZIZIYXYXI'] codes=128 splits=3448 pairs=42 memo=4507 t=1366s
+V(G2)=4 rows (157, 94) gens ['-ZIZIYYXIX', '+ZIZIYXYXI'] t=1366s
+V(G2)=3 rows (157, 98) gens ['-ZIZIYYXIX', '+ZXYYIIZXI'] t=1366s
+  V=4 at ['-ZIZIYYXIX', '-XXZYIXZXY'] codes=108 splits=2588 pairs=122 memo=4508 t=1369s
+V(G2)=4 rows (157, 107) gens ['-ZIZIYYXIX', '-XXZYIXZXY'] t=1369s
+  V=2 at ['-ZIZIYYXIX', '-YIIXIXYYY'] codes=24 splits=504 pairs=16 memo=4520 t=1371s
+V(G2)=2 rows (157, 111) gens ['-ZIZIYYXIX', '-YIIXIXYYY'] t=1371s
+  V=4 at ['-ZIZIYYXIX', '-IIZYYIZZZ'] codes=112 splits=3188 pairs=174 memo=4521 t=1374s
+V(G2)=4 rows (157, 112) gens ['-ZIZIYYXIX', '-IIZYYIZZZ'] t=1374s
+V(G2)=6 rows (157, 116) gens ['-ZIZIYYXIX', '+ZXIXYIYIZ'] t=1375s
+  V=4 at ['+ZZIIYYXXI', '-XIIZIIZIX'] codes=72 splits=1836 pairs=134 memo=4522 t=1376s
+V(G2)=4 rows (158, 65) gens ['+ZZIIYYXXI', '-XIIZIIZIX'] t=1376s
+  V=8 at ['+ZZIIYYXXI', '+YYIIIIYYI'] codes=384 splits=4708 pairs=20 memo=4523 t=1379s
+V(G2)=8 rows (158, 70) gens ['+ZZIIYYXXI', '+YYIIIIYYI'] t=1379s
+V(G2)=4 rows (158, 87) gens ['+ZZIIYYXXI', '+XIYIYIYXY'] t=1380s
+V(G2)=4 rows (158, 98) gens ['+ZZIIYYXXI', '+ZXYYIIZXI'] t=1380s
+  V=4 at ['+ZZIIYYXXI', '-IZYXIIYZX'] codes=84 splits=1744 pairs=63 memo=4524 t=1381s
+V(G2)=4 rows (158, 101) gens ['+ZZIIYYXXI', '-IZYXIIYZX'] t=1381s
+V(G2)=6 rows (158, 115) gens ['+ZZIIYYXXI', '-IZIYYIZYY'] t=1381s
+V(G2)=4 rows (159, 65) gens ['+YIIIXYXXX', '-XIIZIIZIX'] t=1381s
+  V=6 at ['+YIIIXYXXX', '-ZYZIZIYZI'] codes=120 splits=3068 pairs=113 memo=4525 t=1383s
+V(G2)=6 rows (159, 68) gens ['+YIIIXYXXX', '-ZYZIZIYZI'] t=1383s
+V(G2)=8 rows (159, 70) gens ['+YIIIXYXXX', '+YYIIIIYYI'] t=1384s
+V(G2)=6 rows (159, 72) gens ['+YIIIXYXXX', '+ZIXZIXZIZ'] t=1384s
+V(G2)=4 rows (159, 73) gens ['+YIIIXYXXX', '+YZXZZXZIY'] t=1385s
+V(G2)=4 rows (159, 76) gens ['+YIIIXYXXX', '+IXYIIXYZZ'] t=1386s
+V(G2)=4 rows (159, 77) gens ['+YIIIXYXXX', '-XYYIZXYZY'] t=1387s
+  V=4 at ['+YIIIXYXXX', '+IYXIIXYYY'] codes=384 splits=5856 pairs=61 memo=4526 t=1391s
+V(G2)=4 rows (159, 79) gens ['+YIIIXYXXX', '+IYXIIXYYY'] t=1391s
+  V=4 at ['+YIIIXYXXX', '+YYYZYIZZZ'] codes=216 splits=5512 pairs=182 memo=4527 t=1395s
+V(G2)=4 rows (159, 80) gens ['+YIIIXYXXX', '+YYYZYIZZZ'] t=1395s
+  V=4 at ['+YIIIXYXXX', '+ZXYZXIZZY'] codes=216 splits=5512 pairs=355 memo=4529 t=1399s
+V(G2)=4 rows (159, 81) gens ['+YIIIXYXXX', '+ZXYZXIZZY'] t=1399s
+V(G2)=4 rows (159, 82) gens ['+YIIIXYXXX', '-ZYXZXIZYZ'] t=1400s
+  V=4 at ['+YIIIXYXXX', '-YXXZYIZYY'] codes=216 splits=5512 pairs=176 memo=4530 t=1404s
+V(G2)=4 rows (159, 83) gens ['+YIIIXYXXX', '-YXXZYIZYY'] t=1404s
+  V=4 at ['+YIIIXYXXX', '-XZXIYIYIZ'] codes=240 splits=5468 pairs=304 memo=4531 t=1408s
+V(G2)=4 rows (159, 84) gens ['+YIIIXYXXX', '-XZXIYIYIZ'] t=1408s
+  V=4 at ['+YIIIXYXXX', '-IIXIXIYIY'] codes=336 splits=5880 pairs=131 memo=4532 t=1412s
+V(G2)=4 rows (159, 85) gens ['+YIIIXYXXX', '-IIXIXIYIY'] t=1412s
+  V=8 at ['+YIIIXYXXX', '+XIYIYIYXY'] codes=192 splits=3080 pairs=21 memo=4533 t=1415s
+V(G2)=8 rows (159, 87) gens ['+YIIIXYXXX', '+XIYIYIYXY'] t=1415s
+  V=8 at ['+YIIIXYXXX', '-YIIIXXYII'] codes=192 splits=4092 pairs=26 memo=4534 t=1419s
+V(G2)=8 rows (159, 92) gens ['+YIIIXYXXX', '-YIIIXXYII'] t=1419s
+  V=4 at ['+YIIIXYXXX', '-YXXYZIZII'] codes=288 splits=4968 pairs=75 memo=4535 t=1423s
+V(G2)=4 rows (159, 96) gens ['+YIIIXYXXX', '-YXXYZIZII'] t=1423s
+  V=4 at ['+YIIIXYXXX', '-ZYXYIIZIX'] codes=180 splits=3576 pairs=38 memo=4536 t=1426s
+V(G2)=4 rows (159, 97) gens ['+YIIIXYXXX', '-ZYXYIIZIX'] t=1426s
+V(G2)=4 rows (159, 98) gens ['+YIIIXYXXX', '+ZXYYIIZXI'] t=1426s
+  V=3 at ['+YIIIXYXXX', '-YYYYZIZXX'] codes=288 splits=5904 pairs=57 memo=4544 t=1431s
+V(G2)=3 rows (159, 99) gens ['+YIIIXYXXX', '-YYYYZIZXX'] t=1431s
+V(G2)=4 rows (159, 102) gens ['+YIIIXYXXX', '-IIXXIIYYI'] t=1432s
+V(G2)=4 rows (159, 103) gens ['+YIIIXYXXX', '+XZXXZIYYX'] t=1433s
+  V=4 at ['+YIIIXYXXX', '-XYIYIXZIZ'] codes=144 splits=4336 pairs=95 memo=4545 t=1436s
+V(G2)=4 rows (159, 104) gens ['+YIIIXYXXX', '-XYIYIXZIZ'] t=1436s
+V(G2)=4 rows (159, 106) gens ['+YIIIXYXXX', '-IYZYZXZXZ'] t=1437s
+  V=4 at ['+YIIIXYXXX', '-YIIXIXYYY'] codes=96 splits=2080 pairs=16 memo=4546 t=1439s
+V(G2)=4 rows (159, 111) gens ['+YIIIXYXXX', '-YIIXIXYYY'] t=1439s
+  V=4 at ['+YIIIXYXXX', '+XIIYXIZYZ'] codes=304 splits=6512 pairs=176 memo=4547 t=1446s
+V(G2)=4 rows (159, 114) gens ['+YIIIXYXXX', '+XIIYXIZYZ'] t=1446s
+  V=4 at ['+YIIIXYXXX', '+YYIXXIYIY'] codes=256 splits=5920 pairs=175 memo=4548 t=1451s
+V(G2)=4 rows (159, 117) gens ['+YIIIXYXXX', '+YYIXXIYIY'] t=1451s
+  V=4 at ['+YIIIXYXXX', '-ZYZXYIYXY'] codes=216 splits=5512 pairs=252 memo=4550 t=1457s
+V(G2)=4 rows (159, 119) gens ['+YIIIXYXXX', '-ZYZXYIYXY'] t=1457s
+  V=4 at ['+YIIIXYXXX', '+IYXXXXYII'] codes=288 splits=5904 pairs=67 memo=4554 t=1459s
+V(G2)=4 rows (159, 124) gens ['+YIIIXYXXX', '+IYXXXXYII'] t=1459s
+  V=3 at ['+YIIIXYXXX', '-XXXXYXYIX'] codes=288 splits=4896 pairs=36 memo=4566 t=1465s
+V(G2)=3 rows (159, 125) gens ['+YIIIXYXXX', '-XXXXYXYIX'] t=1465s
+V(G2)=4 rows (159, 127) gens ['+YIIIXYXXX', '-IXYXXXYXX'] t=1466s
+  V=4 at ['-XZXXZZXZI', '+YYIIIIYYI'] codes=64 splits=1792 pairs=14 memo=4567 t=1467s
+V(G2)=4 rows (164, 70) gens ['-XZXXZZXZI', '+YYIIIIYYI'] t=1467s
+V(G2)=5 rows (164, 73) gens ['-XZXXZZXZI', '+YZXZZXZIY'] t=1467s
+V(G2)=4 rows (164, 78) gens ['-XZXXZZXZI', '-XXXIZXYYZ'] t=1467s
+V(G2)=8 rows (164, 84) gens ['-XZXXZZXZI', '-XZXIYIYIZ'] t=1468s
+V(G2)=4 rows (164, 88) gens ['-XZXXZZXZI', '-XXZZXXZZI'] t=1468s
+  V=3 at ['-XZXXZZXZI', '-IYZZYXZZX'] codes=288 splits=3624 pairs=52 memo=4570 t=1470s
+V(G2)=3 rows (164, 89) gens ['-XZXXZZXZI', '-IYZZYXZZX'] t=1470s
+V(G2)=4 rows (164, 91) gens ['-XZXXZZXZI', '+XYIZXXZYX'] t=1470s
+V(G2)=8 rows (164, 92) gens ['-XZXXZZXZI', '-YIIIXXYII'] t=1470s
+V(G2)=5 rows (164, 104) gens ['-XZXXZZXZI', '-XYIYIXZIZ'] t=1471s
+  V=4 at ['-XZXXZZXZI', '-YZXYYXZYI'] codes=192 splits=5024 pairs=200 memo=4571 t=1473s
+V(G2)=4 rows (164, 122) gens ['-XZXXZZXZI', '-YZXYYXZYI'] t=1473s
+V(G2)=4 rows (165, 70) gens ['+IIXXIZXZX', '+YYIIIIYYI'] t=1473s
+V(G2)=4 rows (165, 72) gens ['+IIXXIZXZX', '+ZIXZIXZIZ'] t=1474s
+V(G2)=4 rows (165, 79) gens ['+IIXXIZXZX', '+IYXIIXYYY'] t=1474s
+  V=8 at ['+IIXXIZXZX', '-IIXIXIYIY'] codes=160 splits=3588 pairs=80 memo=4572 t=1476s
+V(G2)=8 rows (165, 85) gens ['+IIXXIZXZX', '-IIXIXIYIY'] t=1476s
+V(G2)=4 rows (165, 86) gens ['+IIXXIZXZX', '-IZYIXIYXZ'] t=1476s
+  V=3 at ['+IIXXIZXZX', '-XXZZXXZZI'] codes=144 splits=1476 pairs=21 memo=4574 t=1477s
+V(G2)=3 rows (165, 88) gens ['+IIXXIZXZX', '-XXZZXXZZI'] t=1477s
+V(G2)=4 rows (165, 89) gens ['+IIXXIZXZX', '-IYZZYXZZX'] t=1477s
+V(G2)=4 rows (165, 90) gens ['+IIXXIZXZX', '-IXIZYXZYI'] t=1478s
+  V=4 at ['+IIXXIZXZX', '+XYIZXXZYX'] codes=156 splits=4416 pairs=114 memo=4577 t=1480s
+V(G2)=4 rows (165, 91) gens ['+IIXXIZXZX', '+XYIZXXZYX'] t=1480s
+  V=6 at ['+IIXXIZXZX', '-YIIIXXYII'] codes=168 splits=3956 pairs=139 memo=4578 t=1482s
+V(G2)=6 rows (165, 92) gens ['+IIXXIZXZX', '-YIIIXXYII'] t=1482s
+V(G2)=4 rows (165, 95) gens ['+IIXXIZXZX', '+YZZIXXYXX'] t=1482s
+  V=4 at ['+IIXXIZXZX', '-XYIYIXZIZ'] codes=112 splits=3792 pairs=282 memo=4579 t=1484s
+V(G2)=4 rows (165, 104) gens ['+IIXXIZXZX', '-XYIYIXZIZ'] t=1484s
+  V=4 at ['-IZYXIZXYI', '-ZZYZIXZXY'] codes=176 splits=5880 pairs=506 memo=4581 t=1487s
+V(G2)=4 rows (166, 75) gens ['-IZYXIZXYI', '-ZZYZIXZXY'] t=1487s
+  V=4 at ['-IZYXIZXYI', '+XIYIYIYXY'] codes=240 splits=4752 pairs=136 memo=4582 t=1488s
+V(G2)=4 rows (166, 87) gens ['-IZYXIZXYI', '+XIYIYIYXY'] t=1488s
+  V=4 at ['-IZYXIZXYI', '-ZZIIYXYIX'] codes=84 splits=1744 pairs=82 memo=4583 t=1489s
+V(G2)=4 rows (166, 93) gens ['-IZYXIZXYI', '-ZZIIYXYIX'] t=1489s
+V(G2)=4 rows (166, 121) gens ['-IZYXIZXYI', '-YIYYYXZZX'] t=1489s
+V(G2)=4 rows (167, 71) gens ['+XIYXZZXYX', '-ZXIIZIYYX'] t=1490s
+  V=4 at ['+XIYXZZXYX', '+YIYZZXZXZ'] codes=192 splits=5024 pairs=184 memo=4584 t=1492s
+V(G2)=4 rows (167, 74) gens ['+XIYXZZXYX', '+YIYZZXZXZ'] t=1492s
+V(G2)=3 rows (167, 76) gens ['+XIYXZZXYX', '+IXYIIXYZZ'] t=1492s
+  V=6 at ['-XXZYIYIIZ', '-YXZIIIYZX'] codes=144 splits=4840 pairs=406 memo=4585 t=1494s
+V(G2)=6 rows (168, 69) gens ['-XXZYIYIIZ', '-YXZIIIYZX'] t=1494s
+  V=4 at ['-XXZYIYIIZ', '-IIZYYIZZZ'] codes=288 splits=3168 pairs=39 memo=4586 t=1495s
+V(G2)=4 rows (168, 112) gens ['-XXZYIYIIZ', '-IIZYYIZZZ'] t=1495s
+V(G2)=4 rows (169, 68) gens ['+IYZYZYIIY', '-ZYZIZIYZI'] t=1495s
+V(G2)=4 rows (169, 85) gens ['+IYZYZYIIY', '-IIXIXIYIY'] t=1496s
+  V=8 at ['+XYIYIYIXY', '+YYIIIIYYI'] codes=192 splits=3820 pairs=55 memo=4587 t=1497s
+V(G2)=8 rows (171, 70) gens ['+XYIYIYIXY', '+YYIIIIYYI'] t=1497s
+  V=4 at ['+XYIYIYIXY', '-XZXIYIYIZ'] codes=288 splits=4968 pairs=85 memo=4588 t=1500s
+V(G2)=4 rows (171, 84) gens ['+XYIYIYIXY', '-XZXIYIYIZ'] t=1500s
+  V=3 at ['+XYIYIYIXY', '-IIXIXIYIY'] codes=360 splits=5160 pairs=10 memo=4601 t=1503s
+V(G2)=3 rows (171, 85) gens ['+XYIYIYIXY', '-IIXIXIYIY'] t=1503s
+  V=4 at ['+XYIYIYIXY', '+XIYIYIYXY'] codes=540 splits=8100 pairs=17 memo=4603 t=1506s
+V(G2)=4 rows (171, 87) gens ['+XYIYIYIXY', '+XIYIYIYXY'] t=1506s
+  V=4 at ['+XYIYIYIXY', '-ZYXYIIZIX'] codes=208 splits=5616 pairs=356 memo=4604 t=1508s
+V(G2)=4 rows (171, 97) gens ['+XYIYIYIXY', '-ZYXYIIZIX'] t=1508s
+V(G2)=8 rows (172, 64) gens ['-YIIXIYXZZ', '+IZIZZIZII'] t=1509s
+  V=4 at ['-YIIXIYXZZ', '-XIIZIIZIX'] codes=96 splits=2332 pairs=21 memo=4605 t=1510s
+V(G2)=4 rows (172, 65) gens ['-YIIXIYXZZ', '-XIIZIIZIX'] t=1510s
+V(G2)=4 rows (172, 66) gens ['-YIIXIYXZZ', '+XZZZIIZXI'] t=1510s
+  V=4 at ['-YIIXIYXZZ', '-IIZZZIZXX'] codes=192 splits=4672 pairs=73 memo=4606 t=1511s
+V(G2)=4 rows (172, 67) gens ['-YIIXIYXZZ', '-IIZZZIZXX'] t=1511s
+  V=8 at ['-YIIXIYXZZ', '-ZYZIZIYZI'] codes=112 splits=2588 pairs=132 memo=4607 t=1512s
+V(G2)=8 rows (172, 68) gens ['-YIIXIYXZZ', '-ZYZIZIYZI'] t=1512s
+V(G2)=6 rows (172, 69) gens ['-YIIXIYXZZ', '-YXZIIIYZX'] t=1512s
+V(G2)=4 rows (172, 70) gens ['-YIIXIYXZZ', '+YYIIIIYYI'] t=1513s
+V(G2)=4 rows (172, 71) gens ['-YIIXIYXZZ', '-ZXIIZIYYX'] t=1513s
+V(G2)=4 rows (172, 76) gens ['-YIIXIYXZZ', '+IXYIIXYZZ'] t=1513s
+V(G2)=4 rows (172, 77) gens ['-YIIXIYXZZ', '-XYYIZXYZY'] t=1513s
+  V=4 at ['-YIIXIYXZZ', '+IYXIIXYYY'] codes=144 splits=4336 pairs=146 memo=4608 t=1515s
+V(G2)=4 rows (172, 79) gens ['-YIIXIYXZZ', '+IYXIIXYYY'] t=1515s
+V(G2)=4 rows (172, 80) gens ['-YIIXIYXZZ', '+YYYZYIZZZ'] t=1515s
+V(G2)=3 rows (172, 81) gens ['-YIIXIYXZZ', '+ZXYZXIZZY'] t=1515s
+V(G2)=4 rows (172, 82) gens ['-YIIXIYXZZ', '-ZYXZXIZYZ'] t=1516s
+V(G2)=4 rows (172, 83) gens ['-YIIXIYXZZ', '-YXXZYIZYY'] t=1516s
+V(G2)=4 rows (172, 84) gens ['-YIIXIYXZZ', '-XZXIYIYIZ'] t=1516s
+  V=6 at ['-YIIXIYXZZ', '-IIXIXIYIY'] codes=168 splits=3956 pairs=152 memo=4609 t=1518s
+V(G2)=6 rows (172, 85) gens ['-YIIXIYXZZ', '-IIXIXIYIY'] t=1518s
+V(G2)=4 rows (172, 86) gens ['-YIIXIYXZZ', '-IZYIXIYXZ'] t=1518s
+  V=4 at ['-YIIXIYXZZ', '+XIYIYIYXY'] codes=160 splits=4064 pairs=153 memo=4610 t=1520s
+V(G2)=4 rows (172, 87) gens ['-YIIXIYXZZ', '+XIYIYIYXY'] t=1520s
+V(G2)=4 rows (172, 88) gens ['-YIIXIYXZZ', '-XXZZXXZZI'] t=1520s
+V(G2)=4 rows (172, 89) gens ['-YIIXIYXZZ', '-IYZZYXZZX'] t=1520s
+V(G2)=4 rows (172, 90) gens ['-YIIXIYXZZ', '-IXIZYXZYI'] t=1520s
+V(G2)=4 rows (172, 91) gens ['-YIIXIYXZZ', '+XYIZXXZYX'] t=1521s
+  V=8 at ['-YIIXIYXZZ', '-YIIIXXYII'] codes=160 splits=3588 pairs=94 memo=4611 t=1522s
+V(G2)=8 rows (172, 92) gens ['-YIIXIYXZZ', '-YIIIXXYII'] t=1522s
+  V=4 at ['-YIIXIYXZZ', '-ZZIIYXYIX'] codes=176 splits=5880 pairs=628 memo=4612 t=1524s
+V(G2)=4 rows (172, 93) gens ['-YIIXIYXZZ', '-ZZIIYXYIX'] t=1524s
+V(G2)=4 rows (172, 95) gens ['-YIIXIYXZZ', '+YZZIXXYXX'] t=1525s
+  V=4 at ['+ZZIXZYXZY', '-XIIZIIZIX'] codes=96 splits=2220 pairs=16 memo=4613 t=1526s
+V(G2)=4 rows (173, 65) gens ['+ZZIXZYXZY', '-XIIZIIZIX'] t=1526s
+V(G2)=3 rows (173, 80) gens ['+ZZIXZYXZY', '+YYYZYIZZZ'] t=1526s
+V(G2)=4 rows (173, 81) gens ['+ZZIXZYXZY', '+ZXYZXIZZY'] t=1526s
+V(G2)=6 rows (174, 65) gens ['-ZIZXZYXYZ', '-XIIZIIZIX'] t=1526s
+V(G2)=3 rows (174, 81) gens ['-ZIZXZYXYZ', '+ZXYZXIZZY'] t=1527s
+V(G2)=2 rows (174, 83) gens ['-ZIZXZYXYZ', '-YXXZYIZYY'] t=1527s
+V(G2)=4 rows (175, 83) gens ['-YZZXIYXYY', '-YXXZYIZYY'] t=1527s
+V(G2)=4 rows (180, 68) gens ['+ZYZXYZXIZ', '-ZYZIZIYZI'] t=1528s
+V(G2)=4 rows (180, 72) gens ['+ZYZXYZXIZ', '+ZIXZIXZIZ'] t=1528s
+  V=4 at ['+ZYZXYZXIZ', '+YZXZZXZIY'] codes=1152 splits=5376 pairs=29 memo=4614 t=1530s
+V(G2)=4 rows (180, 73) gens ['+ZYZXYZXIZ', '+YZXZZXZIY'] t=1530s
+  V=2 at ['+ZYZXYZXIZ', '-XYYIZXYZY'] codes=96 splits=1152 pairs=26 memo=4619 t=1531s
+V(G2)=2 rows (180, 77) gens ['+ZYZXYZXIZ', '-XYYIZXYZY'] t=1531s
+V(G2)=4 rows (180, 78) gens ['+ZYZXYZXIZ', '-XXXIZXYYZ'] t=1531s
+  V=4 at ['+ZYZXYZXIZ', '+ZZYYXXZZI'] codes=256 splits=5496 pairs=79 memo=4620 t=1535s
+V(G2)=4 rows (180, 120) gens ['+ZYZXYZXIZ', '+ZZYYXXZZI'] t=1535s
+V(G2)=2 rows (181, 70) gens ['-YXZXXZXIY', '+YYIIIIYYI'] t=1535s
+  V=2 at ['-YXZXXZXIY', '+ZIXZIXZIZ'] codes=192 splits=2112 pairs=23 memo=4633 t=1537s
+V(G2)=2 rows (181, 72) gens ['-YXZXXZXIY', '+ZIXZIXZIZ'] t=1537s
+  V=4 at ['-YXZXXZXIY', '+YZXZZXZIY'] codes=384 splits=6016 pairs=49 memo=4635 t=1540s
+V(G2)=4 rows (181, 73) gens ['-YXZXXZXIY', '+YZXZZXZIY'] t=1540s
+V(G2)=4 rows (181, 79) gens ['-YXZXXZXIY', '+IYXIIXYYY'] t=1541s
+V(G2)=4 rows (181, 122) gens ['-YXZXXZXIY', '-YZXYYXZYI'] t=1541s
+  V=4 at ['-YYIXXZXXZ', '+YYIIIIYYI'] codes=128 splits=2232 pairs=41 memo=4636 t=1542s
+V(G2)=4 rows (182, 70) gens ['-YYIXXZXXZ', '+YYIIIIYYI'] t=1542s
+V(G2)=4 rows (182, 72) gens ['-YYIXXZXXZ', '+ZIXZIXZIZ'] t=1542s
+  V=4 at ['-YYIXXZXXZ', '+YZXZZXZIY'] codes=288 splits=4768 pairs=123 memo=4637 t=1546s
+V(G2)=4 rows (182, 73) gens ['-YYIXXZXXZ', '+YZXZZXZIY'] t=1546s
+V(G2)=3 rows (182, 79) gens ['-YYIXXZXXZ', '+IYXIIXYYY'] t=1547s
+V(G2)=4 rows (182, 85) gens ['-YYIXXZXXZ', '-IIXIXIYIY'] t=1547s
+V(G2)=4 rows (182, 123) gens ['-YYIXXZXXZ', '+ZIXYXXZYX'] t=1548s
+V(G2)=4 rows (183, 69) gens ['+ZXIXYZXXY', '-YXZIIIYZX'] t=1548s
+V(G2)=3 rows (183, 72) gens ['+ZXIXYZXXY', '+ZIXZIXZIZ'] t=1549s
+V(G2)=3 rows (183, 76) gens ['+ZXIXYZXXY', '+IXYIIXYZZ'] t=1549s
+V(G2)=4 rows (183, 87) gens ['+ZXIXYZXXY', '+XIYIYIYXY'] t=1550s
+V(G2)=4 rows (183, 121) gens ['+ZXIXYZXXY', '-YIYYYXZZX'] t=1551s
+V(G2)=4 rows (184, 68) gens ['+ZIXYXYIZI', '-ZYZIZIYZI'] t=1551s
+  V=4 at ['+ZIXYXYIZI', '+YYIIIIYYI'] codes=96 splits=1792 pairs=17 memo=4643 t=1553s
+V(G2)=4 rows (184, 70) gens ['+ZIXYXYIZI', '+YYIIIIYYI'] t=1553s
+  V=8 at ['+ZIXYXYIZI', '-IIXIXIYIY'] codes=192 splits=4752 pairs=52 memo=4644 t=1557s
+V(G2)=8 rows (184, 85) gens ['+ZIXYXYIZI', '-IIXIXIYIY'] t=1557s
+V(G2)=4 rows (184, 97) gens ['+ZIXYXYIZI', '-ZYXYIIZIX'] t=1557s
+  V=4 at ['+ZIXYXYIZI', '+XIIYXIZYZ'] codes=64 splits=1808 pairs=14 memo=4645 t=1558s
+V(G2)=4 rows (184, 114) gens ['+ZIXYXYIZI', '+XIIYXIZYZ'] t=1558s
+  V=4 at ['-YZXYYYIZX', '+YYIIIIYYI'] codes=240 splits=3600 pairs=15 memo=4646 t=1561s
+V(G2)=4 rows (185, 70) gens ['-YZXYYYIZX', '+YYIIIIYYI'] t=1561s
+V(G2)=4 rows (185, 84) gens ['-YZXYYYIZX', '-XZXIYIYIZ'] t=1562s
+  V=4 at ['+YIYYYYIYI', '+YYIIIIYYI'] codes=192 splits=2624 pairs=14 memo=4649 t=1564s
+V(G2)=4 rows (186, 70) gens ['+YIYYYYIYI', '+YYIIIIYYI'] t=1564s
+V(G2)=4 rows (186, 87) gens ['+YIYYYYIYI', '+XIYIYIYXY'] t=1565s
+V(G2)=4 rows (186, 98) gens ['+YIYYYYIYI', '+ZXYYIIZXI'] t=1566s
+  V=2 at ['+YIYYYYIYI', '-IZIYYIZYY'] codes=144 splits=2088 pairs=10 memo=4660 t=1569s
+V(G2)=2 rows (186, 115) gens ['+YIYYYYIYI', '-IZIYYIZYY'] t=1569s
+V(G2)=8 rows (188, 64) gens ['+IXYXXYXII', '+IZIZZIZII'] t=1572s
+  V=2 at ['+IXYXXYXII', '-XIIZIIZIX'] codes=192 splits=2592 pairs=28 memo=4675 t=1576s
+V(G2)=2 rows (188, 65) gens ['+IXYXXYXII', '-XIIZIIZIX'] t=1576s
+V(G2)=4 rows (188, 67) gens ['+IXYXXYXII', '-IIZZZIZXX'] t=1577s
+  V=4 at ['+IXYXXYXII', '+YYIIIIYYI'] codes=96 splits=1792 pairs=17 memo=4678 t=1578s
+V(G2)=4 rows (188, 70) gens ['+IXYXXYXII', '+YYIIIIYYI'] t=1578s
+V(G2)=4 rows (188, 79) gens ['+IXYXXYXII', '+IYXIIXYYY'] t=1579s
+V(G2)=4 rows (188, 86) gens ['+IXYXXYXII', '-IZYIXIYXZ'] t=1579s
+  V=4 at ['+IXYXXYXII', '+YZZIXXYXX'] codes=132 splits=2808 pairs=49 memo=4681 t=1581s
+V(G2)=4 rows (188, 95) gens ['+IXYXXYXII', '+YZZIXXYXX'] t=1581s
+  V=4 at ['+XYYXYYXIX', '+IZIZZIZII'] codes=576 splits=3264 pairs=13 memo=4682 t=1584s
+V(G2)=4 rows (189, 64) gens ['+XYYXYYXIX', '+IZIZZIZII'] t=1584s
+  V=4 at ['+XYYXYYXIX', '+XZZZIIZXI'] codes=144 splits=2304 pairs=9 memo=4683 t=1586s
+V(G2)=4 rows (189, 66) gens ['+XYYXYYXIX', '+XZZZIIZXI'] t=1586s
+  V=2 at ['+XYYXYYXIX', '-ZYZIZIYZI'] codes=144 splits=1476 pairs=35 memo=4688 t=1588s
+V(G2)=2 rows (189, 68) gens ['+XYYXYYXIX', '-ZYZIZIYZI'] t=1588s
+  V=6 at ['+XYYXYYXIX', '-IIXIXIYIY'] codes=1152 splits=7928 pairs=56 memo=4689 t=1596s
+V(G2)=6 rows (189, 85) gens ['+XYYXYYXIX', '-IIXIXIYIY'] t=1596s
+  V=4 at ['+XXXXYYXXI', '-XIIZIIZIX'] codes=240 splits=3600 pairs=10 memo=4690 t=1598s
+V(G2)=4 rows (190, 65) gens ['+XXXXYYXXI', '-XIIZIIZIX'] t=1598s
+  V=4 at ['+XXXXYYXXI', '+YYIIIIYYI'] codes=576 splits=3264 pairs=20 memo=4691 t=1602s
+V(G2)=4 rows (190, 70) gens ['+XXXXYYXXI', '+YYIIIIYYI'] t=1602s
+  V=3 at ['+XXXXYYXXI', '-XZXIYIYIZ'] codes=288 splits=4224 pairs=72 memo=4695 t=1606s
+V(G2)=3 rows (190, 84) gens ['+XXXXYYXXI', '-XZXIYIYIZ'] t=1606s
+  V=4 at ['-IYXXXYXXX', '-XIIZIIZIX'] codes=240 splits=2800 pairs=9 memo=4697 t=1609s
+V(G2)=4 rows (191, 65) gens ['-IYXXXYXXX', '-XIIZIIZIX'] t=1609s
+  V=4 at ['-IYXXXYXXX', '+YYIIIIYYI'] codes=240 splits=4080 pairs=17 memo=4698 t=1613s
+V(G2)=4 rows (191, 70) gens ['-IYXXXYXXX', '+YYIIIIYYI'] t=1613s
+V(G2)=4 rows (191, 79) gens ['-IYXXXYXXX', '+IYXIIXYYY'] t=1614s
+V(G2)=4 rows (191, 85) gens ['-IYXXXYXXX', '-IIXIXIYIY'] t=1614s
+  V=2 at ['-IYXXXYXXX', '-YIIIXXYII'] codes=120 splits=480 pairs=1 memo=4700 t=1616s
+V(G2)=2 rows (191, 92) gens ['-IYXXXYXXX', '-YIIIXXYII'] t=1616s
+V(G2)=4 rows (140, 39) gens ['+IYXIIYXZZ', '+XIXYIIXYX'] t=1616s
+V(G2)=4 rows (140, 52) gens ['+IYXIIYXZZ', '+ZYIYXIXIZ'] t=1617s
+V(G2)=4 rows (143, 53) gens ['+IXYIIYXYY', '+YXIYYIXIY'] t=1618s
+V(G2)=4 rows (130, 16) gens ['+XIIZIZIXI', '-YXYIXIIZZ'] t=1618s
+  V=4 at ['+XIIZIZIXI', '-ZYYIYIIZY'] codes=192 splits=4112 pairs=19 memo=4701 t=1620s
+V(G2)=4 rows (130, 17) gens ['+XIIZIZIXI', '-ZYYIYIIZY'] t=1620s
+  V=4 at ['+XIIZIZIXI', '-YYXIXIIYY'] codes=192 splits=4592 pairs=20 memo=4702 t=1622s
+V(G2)=4 rows (130, 19) gens ['+XIIZIZIXI', '-YYXIXIIYY'] t=1622s
+V(G2)=4 rows (133, 19) gens ['-YYIIIZXZX', '-YYXIXIIYY'] t=1622s
+  V=4 at ['+IYXIIYXZZ', '-YYXIXIIYY'] codes=32 splits=1248 pairs=27 memo=4703 t=1623s
+V(G2)=4 rows (140, 19) gens ['+IYXIIYXZZ', '-YYXIXIIYY'] t=1623s
+V(G2)=2 rows (165, 19) gens ['+IIXXIZXZX', '-YYXIXIIYY'] t=1623s
+  V=4 at ['-YIIXIYXZZ', '-YXYIXIIZZ'] codes=144 splits=2088 pairs=11 memo=4705 t=1624s
+V(G2)=4 rows (172, 16) gens ['-YIIXIYXZZ', '-YXYIXIIZZ'] t=1624s
+  V=3 at ['-YIIXIYXZZ', '-ZYYIYIIZY'] codes=288 splits=4224 pairs=53 memo=4710 t=1627s
+V(G2)=3 rows (172, 17) gens ['-YIIXIYXZZ', '-ZYYIYIIZY'] t=1627s
+  V=3 at ['-YIIXIYXZZ', '-YYXIXIIYY'] codes=36 splits=684 pairs=4 memo=4713 t=1628s
+V(G2)=3 rows (172, 19) gens ['-YIIXIYXZZ', '-YYXIXIIYY'] t=1628s
+  V=2 at ['-ZYIZIZYZI', '-YYXIXIIYY'] codes=24 splits=192 pairs=5 memo=4718 t=1628s
+V(G2)=2 rows (196, 19) gens ['-ZYIZIZYZI', '-YYXIXIIYY'] t=1628s
+  V=8 at ['+IIZZZZIII', '+XIZIZIIXI'] codes=768 splits=6736 pairs=20 memo=4719 t=1632s
+V(G2)=8 rows (128, 2) gens ['+IIZZZZIII', '+XIZIZIIXI'] t=1632s
+  V=4 at ['-XZZZIZIIX', '-IZZIIIIXX'] codes=128 splits=2608 pairs=21 memo=4720 t=1634s
+V(G2)=4 rows (129, 3) gens ['-XZZZIZIIX', '-IZZIIIIXX'] t=1634s
+  V=8 at ['+YYIIIIYYI', '-YYXXIIIII'] codes=384 splits=4772 pairs=23 memo=4721 t=1636s
+V(G2)=8 rows (70, 32) gens ['+YYIIIIYYI', '-YYXXIIIII'] t=1636s
+  V=4 at ['+YYIIIIYYI', '-IYIXIXIIY'] codes=144 splits=3480 pairs=17 memo=4722 t=1639s
+V(G2)=4 rows (70, 41) gens ['+YYIIIIYYI', '-IYIXIXIIY'] t=1639s
+  V=4 at ['+YYIIIIYYI', '+IIIXXIIYY'] codes=144 splits=3480 pairs=10 memo=4723 t=1641s
+V(G2)=4 rows (70, 51) gens ['+YYIIIIYYI', '+IIIXXIIYY'] t=1641s
+  V=4 at ['+YYIIIIYYI', '+YIXXXXIYI'] codes=192 splits=2624 pairs=14 memo=4724 t=1643s
+V(G2)=4 rows (70, 58) gens ['+YYIIIIYYI', '+YIXXXXIYI'] t=1643s
+  V=4 at ['+IYXIIXYYY', '-YYXXIIIII'] codes=96 splits=2048 pairs=16 memo=4731 t=1645s
+V(G2)=4 rows (79, 32) gens ['+IYXIIXYYY', '-YYXXIIIII'] t=1645s
+  V=4 at ['+IYXIIXYYY', '-IYIXIXIIY'] codes=432 splits=5808 pairs=30 memo=4732 t=1649s
+V(G2)=4 rows (79, 41) gens ['+IYXIIXYYY', '-IYIXIXIIY'] t=1649s
+V(G2)=4 rows (79, 58) gens ['+IYXIIXYYY', '+YIXXXXIYI'] t=1650s
+V(G2)=4 rows (85, 41) gens ['-IIXIXIYIY', '-IYIXIXIIY'] t=1651s
+  V=1 at ['-YIIXIXYYY', '-YYXIXIIYY'] codes=36 splits=0 pairs=0 memo=4733 t=1651s
+V(G2)=1 rows (111, 19) gens ['-YIIXIXYYY', '-YYXIXIIYY'] t=1651s
+DONE dim 2: 1032 classes, max V = 8 (summary line appended 2026-11-24 after the run's own summary print crashed with KeyError; coverage checked: all 1032 Aut-classes of 2-dim subspaces logged)

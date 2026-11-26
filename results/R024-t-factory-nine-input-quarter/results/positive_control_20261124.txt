@@ -1,0 +1,29 @@
+stabilizers commute, independent, -I not in group: OK
+[published] ideal acceptance A(0) = 1/128
+[published] branches surviving at p=0: 1; branches outside code space: 0
+[published] A(p) / (D(p)/256) = 1;  H(p) / (N(p)/256) = 1
+[published] eps(p) = (-48*p**7 + 224*p**6 - 384*p**5 + 324*p**4 - 141*p**3 + 27*p**2)/(112*p**6 - 336*p**5 + 408*p**4 - 256*p**3 + 87*p**2 - 15*p + 2)
+[published] eps/p^2 at p->0 = 27/2
+[published] harmful patterns by weight 0..9: [0, 0, 36, 45, 90, 75, 76, 15, 6, 1]
+[published] 20 A - H/p^2: value at 0 = 13/256, real roots in [0, 1/100] = 0, value at 1/100 = 0.0451052449025000
+[published] eps(0.01) = 0.00137867820859, eps(0.01)/1e-4 = 13.7867820859
+[published] logical ops (+ZIIZZIIZZ, +IIIIZZIIX, -ZIIZIZIZY); expectations [0.0, 0.7071067811865476, 0.7071067811865476] exact [(Fraction(0, 1), Fraction(0, 1)), (Fraction(0, 1), Fraction(1, 2)), (Fraction(0, 1), Fraction(1, 2))]
+step g7: 256 valid W corrections; smallest: ['{2}', '{4}', '{5}', '{7}']
+step g8: 128 valid W corrections; smallest: ['{3}', '{6}', '{1,3}', '{1,6}']
+step g1: 16 valid W corrections; smallest: ['{2,7}', '{4,5}', '{2,3,4}', '{2,4,6}']
+step g2: 4 valid W corrections; smallest: ['{3,6}', '{2,5,6}', '{3,4,7}', '{2,4,5,7}']
+step g3: 0 valid W corrections; smallest: []
+step g4: 0 valid W corrections; smallest: []
+step g5: 0 valid W corrections; smallest: []
+step g6: 0 valid W corrections; smallest: []
+[adaptive-7812] ideal acceptance A(0) = 1/8
+[adaptive-7812] branches surviving at p=0: 16; branches outside code space: 0
+[adaptive-7812] A(p) / (D(p)/256) = 16;  H(p) / (N(p)/256) = 16
+[adaptive-7812] eps(p) = (-48*p**7 + 224*p**6 - 384*p**5 + 324*p**4 - 141*p**3 + 27*p**2)/(112*p**6 - 336*p**5 + 408*p**4 - 256*p**3 + 87*p**2 - 15*p + 2)
+[adaptive-7812] eps/p^2 at p->0 = 27/2
+[adaptive-7812] harmful patterns by weight 0..9: [0, 0, 36, 45, 90, 75, 76, 15, 6, 1]
+[adaptive-7812] 20 A - H/p^2: value at 0 = 13/16, real roots in [0, 1/100] = 0, value at 1/100 = 0.721683918440000
+[adaptive-7812] eps(0.01) = 0.00137867820859, eps(0.01)/1e-4 = 13.7867820859
+[adaptive-7812] logical ops (+ZIIZZIIZZ, +IIIIZZIIX, -ZIIZIZIZY); expectations [0.0, 0.7071067811865476, 0.7071067811865476] exact [(Fraction(0, 1), Fraction(0, 1)), (Fraction(0, 1), Fraction(1, 2)), (Fraction(0, 1), Fraction(1, 2))]
+eps identical to published: True ; A_adaptive / A_published = 16
+elapsed 37.3 s

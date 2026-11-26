@@ -1,0 +1,9 @@
+r=2: 2 graph classes, sum 1/|Aut| = 1.0000 (expected 2^1/2! = 1.0000) t=0s
+w=1 done: codes 1408 valid 0 A0>=1/128 0 max A0*2^20 0 t=0s
+w=2 done: codes 5088 valid 0 A0>=1/128 0 max A0*2^20 0 t=0s
+w=3 done: codes 10832 valid 0 A0>=1/128 0 max A0*2^20 0 t=0s
+w=4 done: codes 17376 valid 0 A0>=1/128 0 max A0*2^20 0 t=0s
+w=5 done: codes 23120 valid 0 A0>=1/128 0 max A0*2^20 0 t=0s
+w=6 done: codes 26800 valid 0 A0>=1/128 0 max A0*2^20 0 t=1s
+w=7 done: codes 28208 valid 0 A0>=1/128 0 max A0*2^20 0 t=1s
+DONE r=2 graphs 0-2: codes tested 28208, valid codes 0, A0>=1/128 0, max A0*2^20 0

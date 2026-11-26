@@ -1,0 +1,301 @@
+r=6: 156 graph classes, sum 1/|Aut| = 45.5111 (expected 2^15/6! = 45.5111) t=0s
+BEST r=6 w=1 gi=0 graph=0 A=0 beta=0 nvalid=28 A0*2^20=372 valid=130 A0>=1/128: 0
+BEST r=6 w=1 gi=1 graph=16384 A=81920 beta=0 nvalid=12 A0*2^20=362 valid=183 A0>=1/128: 0
+BEST r=6 w=1 gi=2 graph=16388 A=8196 beta=0 nvalid=4 A0*2^20=121 valid=57 A0>=1/128: 0
+BEST r=6 w=1 gi=3 graph=96 A=160 beta=0 nvalid=12 A0*2^20=362 valid=153 A0>=1/128: 0
+BEST r=6 w=1 gi=4 graph=608 A=160 beta=0 nvalid=12 A0*2^20=362 valid=134 A0>=1/128: 0
+BEST r=6 w=1 gi=5 graph=28 A=1024 beta=0 nvalid=8 A0*2^20=241 valid=55 A0>=1/128: 0
+BEST r=6 w=1 gi=6 graph=20496 A=3078 beta=0 nvalid=12 A0*2^20=181 valid=159 A0>=1/128: 0
+BEST r=6 w=1 gi=7 graph=6400 A=66736 beta=0 nvalid=8 A0*2^20=121 valid=99 A0>=1/128: 0
+BEST r=6 w=1 gi=8 graph=16420 A=8370 beta=0 nvalid=4 A0*2^20=60 valid=4 A0>=1/128: 0
+BEST r=6 w=1 gi=9 graph=16412 A=11264 beta=0 nvalid=12 A0*2^20=181 valid=138 A0>=1/128: 0
+BEST r=6 w=1 gi=10 graph=24588 A=1028 beta=0 nvalid=12 A0*2^20=362 valid=153 A0>=1/128: 0
+BEST r=6 w=1 gi=11 graph=10512 A=2 beta=0 nvalid=8 A0*2^20=241 valid=46 A0>=1/128: 0
+BEST r=6 w=1 gi=12 graph=4680 A=18 beta=0 nvalid=4 A0*2^20=60 valid=125 A0>=1/128: 0
+BEST r=6 w=1 gi=13 graph=8290 A=196614 beta=0 nvalid=10 A0*2^20=151 valid=130 A0>=1/128: 0
+BEST r=6 w=1 gi=14 graph=624 A=20 beta=0 nvalid=4 A0*2^20=121 valid=64 A0>=1/128: 0
+BEST r=6 w=1 gi=15 graph=60 A=76816 beta=0 nvalid=4 A0*2^20=60 valid=18 A0>=1/128: 0
+BEST r=6 w=1 gi=16 graph=20528 A=1330 beta=0 nvalid=6 A0*2^20=90 valid=45 A0>=1/128: 0
+BEST r=6 w=1 gi=17 graph=8266 A=9360 beta=0 nvalid=4 A0*2^20=60 valid=37 A0>=1/128: 0
+BEST r=6 w=1 gi=18 graph=24604 A=1028 beta=0 nvalid=8 A0*2^20=241 valid=176 A0>=1/128: 0
+BEST r=6 w=1 gi=19 graph=29248 A=8368 beta=0 nvalid=8 A0*2^20=121 valid=108 A0>=1/128: 0
+BEST r=6 w=1 gi=20 graph=29192 A=28038 beta=0 nvalid=14 A0*2^20=211 valid=197 A0>=1/128: 0
+BEST r=6 w=1 gi=21 graph=4712 A=24592 beta=0 nvalid=14 A0*2^20=211 valid=167 A0>=1/128: 0
+BEST r=6 w=1 gi=22 graph=4776 A=8342 beta=0 nvalid=14 A0*2^20=211 valid=191 A0>=1/128: 0
+BEST r=6 w=1 gi=23 graph=4649 A=0 beta=0 nvalid=20 A0*2^20=301 valid=120 A0>=1/128: 0
+BEST r=6 w=1 gi=24 graph=26896 A=2 beta=0 nvalid=8 A0*2^20=241 valid=20 A0>=1/128: 0
+BEST r=6 w=1 gi=25 graph=929 A=8338 beta=0 nvalid=4 A0*2^20=60 valid=45 A0>=1/128: 0
+BEST r=6 w=1 gi=26 graph=12295 A=8368 beta=0 nvalid=4 A0*2^20=60 valid=26 A0>=1/128: 0
+BEST r=6 w=1 gi=27 graph=9313 A=84102 beta=0 nvalid=6 A0*2^20=90 valid=41 A0>=1/128: 0
+BEST r=6 w=1 gi=28 graph=4696 A=178 beta=0 nvalid=4 A0*2^20=60 valid=76 A0>=1/128: 0
+BEST r=6 w=1 gi=29 graph=16993 A=91526 beta=0 nvalid=6 A0*2^20=90 valid=63 A0>=1/128: 0
+BEST r=6 w=1 gi=30 graph=21009 A=1188 beta=0 nvalid=2 A0*2^20=30 valid=14 A0>=1/128: 0
+BEST r=6 w=1 gi=31 graph=6412 A=9222 beta=0 nvalid=4 A0*2^20=60 valid=34 A0>=1/128: 0
+BEST r=6 w=1 gi=32 graph=24620 A=1202 beta=0 nvalid=10 A0*2^20=151 valid=32 A0>=1/128: 0
+BEST r=6 w=1 gi=33 graph=28700 A=1028 beta=0 nvalid=8 A0*2^20=241 valid=77 A0>=1/128: 0
+BEST r=6 w=1 gi=34 graph=5832 A=22 beta=0 nvalid=8 A0*2^20=121 valid=141 A0>=1/128: 0
+BEST r=6 w=1 gi=35 graph=1768 A=24592 beta=0 nvalid=14 A0*2^20=211 valid=169 A0>=1/128: 0
+BEST r=6 w=1 gi=36 graph=29706 A=1158 beta=0 nvalid=18 A0*2^20=271 valid=162 A0>=1/128: 0
+BEST r=6 w=1 gi=37 graph=4653 A=3078 beta=0 nvalid=14 A0*2^20=211 valid=244 A0>=1/128: 0
+BEST r=6 w=1 gi=38 graph=1731 A=20 beta=0 nvalid=8 A0*2^20=241 valid=137 A0>=1/128: 0
+BEST r=6 w=1 gi=39 graph=30992 A=1206 beta=0 nvalid=6 A0*2^20=90 valid=21 A0>=1/128: 0
+BEST r=6 w=1 gi=40 graph=13452 A=176 beta=0 nvalid=4 A0*2^20=60 valid=87 A0>=1/128: 0
+BEST r=6 w=1 gi=41 graph=29448 A=224694 beta=0 nvalid=6 A0*2^20=90 valid=16 A0>=1/128: 0
+BEST r=6 w=1 gi=42 graph=5304 A=67622 beta=0 nvalid=6 A0*2^20=90 valid=75 A0>=1/128: 0
+BEST r=6 w=1 gi=43 graph=126 A=90258 beta=0 nvalid=8 A0*2^20=121 valid=57 A0>=1/128: 0
+BEST r=6 w=1 gi=44 graph=9442 A=130 beta=0 nvalid=4 A0*2^20=60 valid=68 A0>=1/128: 0
+BEST r=6 w=1 gi=45 graph=8302 A=402 beta=0 nvalid=4 A0*2^20=60 valid=51 A0>=1/128: 0
+BEST r=6 w=1 gi=46 graph=15426 A=54 beta=0 nvalid=4 A0*2^20=60 valid=57 A0>=1/128: 0
+BEST r=6 w=1 gi=47 graph=28679 A=9238 beta=0 nvalid=10 A0*2^20=151 valid=56 A0>=1/128: 0
+BEST r=6 w=1 gi=48 graph=24636 A=93620 beta=0 nvalid=4 A0*2^20=121 valid=46 A0>=1/128: 0
+BEST r=6 w=1 gi=49 graph=4728 A=1200 beta=0 nvalid=4 A0*2^20=60 valid=55 A0>=1/128: 0
+BEST r=6 w=1 gi=50 graph=1752 A=9238 beta=0 nvalid=10 A0*2^20=151 valid=84 A0>=1/128: 0
+BEST r=6 w=1 gi=51 graph=4905 A=196624 beta=0 nvalid=10 A0*2^20=151 valid=86 A0>=1/128: 0
+BEST r=6 w=1 gi=52 graph=21041 A=9366 beta=0 nvalid=12 A0*2^20=181 valid=38 A0>=1/128: 0
+BEST r=6 w=1 gi=53 graph=17016 A=9394 beta=0 nvalid=12 A0*2^20=181 valid=31 A0>=1/128: 0
+BEST r=6 w=1 gi=54 graph=631 A=20 beta=0 nvalid=4 A0*2^20=121 valid=92 A0>=1/128: 0
+BEST r=6 w=1 gi=55 graph=1763 A=1046 beta=0 nvalid=18 A0*2^20=271 valid=175 A0>=1/128: 0
+BEST r=6 w=1 gi=56 graph=4841 A=1408 beta=0 nvalid=8 A0*2^20=121 valid=115 A0>=1/128: 0
+BEST r=6 w=1 gi=57 graph=2887 A=196788 beta=0 nvalid=6 A0*2^20=181 valid=137 A0>=1/128: 0
+BEST r=6 w=1 gi=58 graph=22216 A=178 beta=0 nvalid=4 A0*2^20=60 valid=49 A0>=1/128: 0
+BEST r=6 w=1 gi=59 graph=4001 A=1332 beta=0 nvalid=4 A0*2^20=60 valid=46 A0>=1/128: 0
+BEST r=6 w=1 gi=60 graph=8814 A=84018 beta=0 nvalid=6 A0*2^20=90 valid=85 A0>=1/128: 0
+BEST r=6 w=1 gi=61 graph=18152 A=25618 beta=0 nvalid=10 A0*2^20=151 valid=60 A0>=1/128: 0
+BEST r=6 w=1 gi=62 graph=20353 A=25876 beta=0 nvalid=6 A0*2^20=90 valid=36 A0>=1/128: 0
+BEST r=6 w=1 gi=63 graph=16999 A=8196 beta=0 nvalid=4 A0*2^20=121 valid=32 A0>=1/128: 0
+BEST r=6 w=1 gi=64 graph=16927 A=8370 beta=0 nvalid=6 A0*2^20=90 valid=37 A0>=1/128: 0
+BEST r=6 w=1 gi=65 graph=5033 A=241249 beta=48 nvalid=1 A0*2^20=8192 valid=54 A0>=1/128: 1
+BIG r=6 w=1 gi=65 graph=5033 A=241249 beta=48 nvalid=1 A0*2^20=8192
+BEST r=6 w=1 gi=66 graph=8847 A=234620 beta=40 nvalid=1 A0*2^20=8192 valid=109 A0>=1/128: 1
+BIG r=6 w=1 gi=66 graph=8847 A=234620 beta=40 nvalid=1 A0*2^20=8192
+BEST r=6 w=1 gi=67 graph=5848 A=144 beta=0 nvalid=4 A0*2^20=60 valid=81 A0>=1/128: 0
+BEST r=6 w=1 gi=68 graph=23202 A=162 beta=0 nvalid=4 A0*2^20=121 valid=53 A0>=1/128: 0
+BEST r=6 w=1 gi=69 graph=4909 A=237140 beta=43 nvalid=1 A0*2^20=8192 valid=80 A0>=1/128: 1
+BIG r=6 w=1 gi=69 graph=4909 A=237140 beta=43 nvalid=1 A0*2^20=8192
+BEST r=6 w=1 gi=70 graph=1784 A=76854 beta=0 nvalid=6 A0*2^20=90 valid=78 A0>=1/128: 0
+BEST r=6 w=1 gi=71 graph=4907 A=9266 beta=0 nvalid=10 A0*2^20=151 valid=70 A0>=1/128: 0
+BEST r=6 w=1 gi=72 graph=26850 A=65940 beta=0 nvalid=6 A0*2^20=90 valid=71 A0>=1/128: 0
+BEST r=6 w=1 gi=73 graph=13010 A=9394 beta=0 nvalid=16 A0*2^20=241 valid=227 A0>=1/128: 0
+BEST r=6 w=1 gi=74 graph=21106 A=75138 beta=0 nvalid=8 A0*2^20=121 valid=111 A0>=1/128: 0
+BEST r=6 w=1 gi=75 graph=21045 A=62588 beta=9 nvalid=1 A0*2^20=8192 valid=20 A0>=1/128: 1
+BIG r=6 w=1 gi=75 graph=21045 A=62588 beta=9 nvalid=1 A0*2^20=8192
+BEST r=6 w=1 gi=76 graph=12857 A=90112 beta=0 nvalid=10 A0*2^20=151 valid=161 A0>=1/128: 0
+BEST r=6 w=1 gi=77 graph=28711 A=62588 beta=9 nvalid=1 A0*2^20=8192 valid=27 A0>=1/128: 1
+BIG r=6 w=1 gi=77 graph=28711 A=62588 beta=9 nvalid=1 A0*2^20=8192
+BEST r=6 w=1 gi=78 graph=2919 A=1046 beta=0 nvalid=8 A0*2^20=121 valid=101 A0>=1/128: 0
+BEST r=6 w=1 gi=79 graph=5805 A=238183 beta=15 nvalid=1 A0*2^20=8192 valid=76 A0>=1/128: 2
+BIG r=6 w=1 gi=79 graph=5805 A=238183 beta=15 nvalid=1 A0*2^20=8192
+BIG r=6 w=1 gi=79 graph=5805 A=258644 beta=15 nvalid=1 A0*2^20=8192
+BEST r=6 w=1 gi=80 graph=639 A=1174 beta=0 nvalid=4 A0*2^20=60 valid=26 A0>=1/128: 0
+BEST r=6 w=1 gi=81 graph=8815 A=176 beta=0 nvalid=4 A0*2^20=60 valid=38 A0>=1/128: 0
+BEST r=6 w=1 gi=82 graph=3811 A=65556 beta=0 nvalid=4 A0*2^20=121 valid=52 A0>=1/128: 0
+BEST r=6 w=1 gi=83 graph=5097 A=239737 beta=58 nvalid=1 A0*2^20=8192 valid=36 A0>=1/128: 1
+BIG r=6 w=1 gi=83 graph=5097 A=239737 beta=58 nvalid=1 A0*2^20=8192
+BEST r=6 w=1 gi=84 graph=21225 A=259169 beta=40 nvalid=1 A0*2^20=8192 valid=73 A0>=1/128: 1
+BIG r=6 w=1 gi=84 graph=21225 A=259169 beta=40 nvalid=1 A0*2^20=8192
+BEST r=6 w=1 gi=85 graph=2923 A=224416 beta=0 nvalid=4 A0*2^20=121 valid=76 A0>=1/128: 0
+BEST r=6 w=1 gi=86 graph=4857 A=234977 beta=57 nvalid=1 A0*2^20=8192 valid=92 A0>=1/128: 1
+BIG r=6 w=1 gi=86 graph=4857 A=234977 beta=57 nvalid=1 A0*2^20=8192
+BEST r=6 w=1 gi=87 graph=2895 A=22 beta=0 nvalid=6 A0*2^20=90 valid=130 A0>=1/128: 0
+BEST r=6 w=1 gi=88 graph=31394 A=69014 beta=0 nvalid=6 A0*2^20=90 valid=95 A0>=1/128: 0
+BEST r=6 w=1 gi=89 graph=17015 A=67876 beta=0 nvalid=4 A0*2^20=121 valid=45 A0>=1/128: 0
+BEST r=6 w=1 gi=90 graph=11083 A=97889 beta=63 nvalid=1 A0*2^20=8192 valid=57 A0>=1/128: 1
+BIG r=6 w=1 gi=90 graph=11083 A=97889 beta=63 nvalid=1 A0*2^20=8192
+BEST r=6 w=1 gi=91 graph=22232 A=1202 beta=0 nvalid=10 A0*2^20=151 valid=118 A0>=1/128: 0
+BEST r=6 w=1 gi=92 graph=6715 A=74802 beta=0 nvalid=16 A0*2^20=241 valid=184 A0>=1/128: 0
+BEST r=6 w=1 gi=93 graph=15768 A=8196 beta=0 nvalid=8 A0*2^20=241 valid=70 A0>=1/128: 0
+BEST r=6 w=1 gi=94 graph=24113 A=82937 beta=48 nvalid=1 A0*2^20=8192 valid=59 A0>=1/128: 2
+BIG r=6 w=1 gi=94 graph=24113 A=82937 beta=48 nvalid=1 A0*2^20=8192
+BIG r=6 w=1 gi=94 graph=24113 A=238351 beta=48 nvalid=1 A0*2^20=8192
+BEST r=6 w=1 gi=95 graph=20723 A=24582 beta=0 nvalid=6 A0*2^20=90 valid=84 A0>=1/128: 0
+BEST r=6 w=1 gi=96 graph=6717 A=3078 beta=0 nvalid=4 A0*2^20=60 valid=74 A0>=1/128: 0
+BEST r=6 w=1 gi=97 graph=18168 A=178 beta=0 nvalid=8 A0*2^20=121 valid=104 A0>=1/128: 0
+BEST r=6 w=1 gi=98 graph=29481 A=239737 beta=58 nvalid=1 A0*2^20=8192 valid=108 A0>=1/128: 1
+BIG r=6 w=1 gi=98 graph=29481 A=239737 beta=58 nvalid=1 A0*2^20=8192
+BEST r=6 w=1 gi=99 graph=22321 A=44815 beta=54 nvalid=1 A0*2^20=8192 valid=38 A0>=1/128: 1
+BIG r=6 w=1 gi=99 graph=22321 A=44815 beta=54 nvalid=1 A0*2^20=8192
+BEST r=6 w=1 gi=100 graph=6969 A=65584 beta=0 nvalid=10 A0*2^20=151 valid=117 A0>=1/128: 0
+BEST r=6 w=1 gi=101 graph=23217 A=3222 beta=0 nvalid=6 A0*2^20=90 valid=27 A0>=1/128: 0
+BEST r=6 w=1 gi=102 graph=5869 A=20 beta=0 nvalid=4 A0*2^20=121 valid=53 A0>=1/128: 0
+BEST r=6 w=1 gi=103 graph=3943 A=1174 beta=0 nvalid=4 A0*2^20=60 valid=55 A0>=1/128: 0
+BEST r=6 w=1 gi=104 graph=2927 A=10278 beta=0 nvalid=6 A0*2^20=90 valid=98 A0>=1/128: 0
+BEST r=6 w=1 gi=105 graph=22189 A=90130 beta=0 nvalid=6 A0*2^20=90 valid=23 A0>=1/128: 0
+BEST r=6 w=1 gi=106 graph=31458 A=85142 beta=0 nvalid=4 A0*2^20=121 valid=88 A0>=1/128: 0
+BEST r=6 w=1 gi=107 graph=19303 A=18 beta=0 nvalid=4 A0*2^20=60 valid=35 A0>=1/128: 0
+BEST r=6 w=1 gi=108 graph=32152 A=8196 beta=0 nvalid=8 A0*2^20=241 valid=68 A0>=1/128: 0
+BEST r=6 w=1 gi=109 graph=6719 A=24592 beta=0 nvalid=6 A0*2^20=90 valid=93 A0>=1/128: 0
+BEST r=6 w=1 gi=110 graph=20731 A=9394 beta=0 nvalid=16 A0*2^20=241 valid=113 A0>=1/128: 0
+BEST r=6 w=1 gi=111 graph=20979 A=204818 beta=0 nvalid=10 A0*2^20=151 valid=58 A0>=1/128: 0
+BEST r=6 w=1 gi=112 graph=17023 A=20 beta=0 nvalid=4 A0*2^20=121 valid=80 A0>=1/128: 0
+BEST r=6 w=1 gi=113 graph=13117 A=96377 beta=34 nvalid=1 A0*2^20=8192 valid=53 A0>=1/128: 1
+BIG r=6 w=1 gi=113 graph=13117 A=96377 beta=34 nvalid=1 A0*2^20=8192
+BEST r=6 w=1 gi=114 graph=21118 A=62140 beta=20 nvalid=1 A0*2^20=8192 valid=45 A0>=1/128: 1
+BIG r=6 w=1 gi=114 graph=21118 A=62140 beta=20 nvalid=1 A0*2^20=8192
+BEST r=6 w=1 gi=115 graph=22134 A=8326 beta=0 nvalid=8 A0*2^20=121 valid=100 A0>=1/128: 0
+BEST r=6 w=1 gi=116 graph=6971 A=74802 beta=0 nvalid=8 A0*2^20=121 valid=49 A0>=1/128: 0
+BEST r=6 w=1 gi=117 graph=15770 A=74118 beta=0 nvalid=6 A0*2^20=90 valid=41 A0>=1/128: 0
+BEST r=6 w=1 gi=118 graph=31289 A=70463 beta=29 nvalid=1 A0*2^20=8192 valid=189 A0>=1/128: 1
+BIG r=6 w=1 gi=118 graph=31289 A=70463 beta=29 nvalid=1 A0*2^20=8192
+BEST r=6 w=1 gi=119 graph=6973 A=82066 beta=0 nvalid=4 A0*2^20=121 valid=120 A0>=1/128: 0
+BEST r=6 w=1 gi=120 graph=24117 A=38207 beta=57 nvalid=1 A0*2^20=8192 valid=111 A0>=1/128: 2
+BIG r=6 w=1 gi=120 graph=24117 A=38207 beta=57 nvalid=1 A0*2^20=8192
+BIG r=6 w=1 gi=120 graph=24117 A=38396 beta=57 nvalid=1 A0*2^20=8192
+BEST r=6 w=1 gi=121 graph=23431 A=43135 beta=63 nvalid=1 A0*2^20=8192 valid=12 A0>=1/128: 1
+BIG r=6 w=1 gi=121 graph=23431 A=43135 beta=63 nvalid=1 A0*2^20=8192
+BEST r=6 w=1 gi=122 graph=23221 A=38207 beta=63 nvalid=1 A0*2^20=8192 valid=14 A0>=1/128: 1
+BIG r=6 w=1 gi=122 graph=23221 A=38207 beta=63 nvalid=1 A0*2^20=8192
+BEST r=6 w=1 gi=123 graph=5871 A=20 beta=0 nvalid=8 A0*2^20=241 valid=53 A0>=1/128: 0
+BEST r=6 w=1 gi=124 graph=22253 A=234620 beta=53 nvalid=1 A0*2^20=8192 valid=61 A0>=1/128: 1
+BIG r=6 w=1 gi=124 graph=22253 A=234620 beta=53 nvalid=1 A0*2^20=8192
+BEST r=6 w=1 gi=125 graph=5885 A=74802 beta=0 nvalid=8 A0*2^20=121 valid=60 A0>=1/128: 0
+BEST r=6 w=1 gi=126 graph=32153 A=8342 beta=0 nvalid=10 A0*2^20=151 valid=65 A0>=1/128: 0
+BEST r=6 w=1 gi=127 graph=29673 A=71807 beta=34 nvalid=1 A0*2^20=8192 valid=28 A0>=1/128: 1
+BIG r=6 w=1 gi=127 graph=29673 A=71807 beta=34 nvalid=1 A0*2^20=8192
+BEST r=6 w=1 gi=128 graph=22142 A=66962 beta=0 nvalid=16 A0*2^20=241 valid=131 A0>=1/128: 0
+BEST r=6 w=1 gi=129 graph=24182 A=196610 beta=0 nvalid=6 A0*2^20=90 valid=93 A0>=1/128: 0
+BEST r=6 w=1 gi=130 graph=21497 A=82895 beta=43 nvalid=1 A0*2^20=8192 valid=131 A0>=1/128: 1
+BIG r=6 w=1 gi=130 graph=21497 A=82895 beta=43 nvalid=1 A0*2^20=8192
+BEST r=6 w=1 gi=131 graph=15165 A=432 beta=0 nvalid=6 A0*2^20=90 valid=59 A0>=1/128: 0
+BEST r=6 w=1 gi=132 graph=7099 A=94991 beta=48 nvalid=1 A0*2^20=8192 valid=78 A0>=1/128: 1
+BIG r=6 w=1 gi=132 graph=7099 A=94991 beta=48 nvalid=1 A0*2^20=8192
+BEST r=6 w=1 gi=133 graph=28611 A=67622 beta=0 nvalid=6 A0*2^20=90 valid=45 A0>=1/128: 0
+BEST r=6 w=1 gi=134 graph=31545 A=205970 beta=0 nvalid=10 A0*2^20=151 valid=20 A0>=1/128: 0
+BEST r=6 w=1 gi=135 graph=22387 A=10644 beta=0 nvalid=6 A0*2^20=90 valid=54 A0>=1/128: 0
+BEST r=6 w=1 gi=136 graph=22390 A=132 beta=0 nvalid=4 A0*2^20=121 valid=45 A0>=1/128: 0
+BEST r=6 w=1 gi=137 graph=30963 A=20 beta=0 nvalid=4 A0*2^20=121 valid=55 A0>=1/128: 0
+BEST r=6 w=1 gi=138 graph=6127 A=20 beta=0 nvalid=4 A0*2^20=121 valid=35 A0>=1/128: 0
+BEST r=6 w=1 gi=139 graph=12263 A=11282 beta=0 nvalid=6 A0*2^20=90 valid=76 A0>=1/128: 0
+BEST r=6 w=1 gi=140 graph=22269 A=65716 beta=0 nvalid=6 A0*2^20=90 valid=50 A0>=1/128: 0
+BEST r=6 w=1 gi=141 graph=26351 A=66710 beta=0 nvalid=12 A0*2^20=181 valid=106 A0>=1/128: 0
+BEST r=6 w=1 gi=142 graph=31219 A=66610 beta=0 nvalid=10 A0*2^20=151 valid=41 A0>=1/128: 0
+BEST r=6 w=1 gi=143 graph=24538 A=73697 beta=27 nvalid=1 A0*2^20=8192 valid=59 A0>=1/128: 1
+BIG r=6 w=1 gi=143 graph=24538 A=73697 beta=27 nvalid=1 A0*2^20=8192
+BEST r=6 w=1 gi=144 graph=22007 A=43471 beta=46 nvalid=1 A0*2^20=8192 valid=67 A0>=1/128: 1
+BIG r=6 w=1 gi=144 graph=22007 A=43471 beta=46 nvalid=1 A0*2^20=8192
+BEST r=6 w=1 gi=145 graph=16283 A=8194 beta=0 nvalid=4 A0*2^20=60 valid=40 A0>=1/128: 0
+BEST r=6 w=1 gi=146 graph=24501 A=0 beta=0 nvalid=8 A0*2^20=121 valid=68 A0>=1/128: 0
+BEST r=6 w=1 gi=147 graph=30447 A=65538 beta=0 nvalid=8 A0*2^20=121 valid=37 A0>=1/128: 0
+BEST r=6 w=1 gi=148 graph=4095 A=1028 beta=0 nvalid=4 A0*2^20=121 valid=32 A0>=1/128: 0
+BEST r=6 w=1 gi=149 graph=32667 A=134 beta=0 nvalid=4 A0*2^20=60 valid=38 A0>=1/128: 0
+BEST r=6 w=1 gi=150 graph=22519 A=67970 beta=0 nvalid=6 A0*2^20=90 valid=50 A0>=1/128: 0
+BEST r=6 w=1 gi=151 graph=30587 A=11446 beta=0 nvalid=9 A0*2^20=136 valid=30 A0>=1/128: 0
+BEST r=6 w=1 gi=152 graph=22527 A=65538 beta=0 nvalid=8 A0*2^20=121 valid=36 A0>=1/128: 0
+BEST r=6 w=1 gi=153 graph=30591 A=144 beta=0 nvalid=4 A0*2^20=60 valid=14 A0>=1/128: 0
+BEST r=6 w=1 gi=154 graph=32763 A=20 beta=0 nvalid=4 A0*2^20=121 valid=32 A0>=1/128: 0
+BEST r=6 w=1 gi=155 graph=32767 A=20 beta=0 nvalid=8 A0*2^20=241 valid=28 A0>=1/128: 0
+w=1 done: codes 413135296 valid 11999 A0>=1/128 28 max A0*2^20 8192 t=2205s
+BEST r=6 w=2 gi=0 graph=0 A=28 beta=1 nvalid=12 A0*2^20=362 valid=75 A0>=1/128: 0
+BEST r=6 w=2 gi=1 graph=16384 A=16384 beta=16 nvalid=16 A0*2^20=482 valid=101 A0>=1/128: 0
+BEST r=6 w=2 gi=3 graph=96 A=424 beta=8 nvalid=4 A0*2^20=121 valid=50 A0>=1/128: 0
+BEST r=6 w=2 gi=4 graph=608 A=32 beta=1 nvalid=8 A0*2^20=241 valid=21 A0>=1/128: 0
+BEST r=6 w=2 gi=5 graph=28 A=112156 beta=1 nvalid=4 A0*2^20=121 valid=13 A0>=1/128: 0
+BEST r=6 w=2 gi=6 graph=20496 A=4136 beta=9 nvalid=4 A0*2^20=60 valid=6 A0>=1/128: 0
+BEST r=6 w=2 gi=9 graph=16412 A=114176 beta=49 nvalid=4 A0*2^20=121 valid=7 A0>=1/128: 0
+BEST r=6 w=2 gi=10 graph=24588 A=18436 beta=2 nvalid=4 A0*2^20=121 valid=5 A0>=1/128: 0
+BEST r=6 w=2 gi=11 graph=10512 A=1759 beta=47 nvalid=4 A0*2^20=121 valid=13 A0>=1/128: 0
+BEST r=6 w=2 gi=12 graph=4680 A=552 beta=7 nvalid=4 A0*2^20=60 valid=4 A0>=1/128: 0
+BEST r=6 w=2 gi=18 graph=24604 A=13831 beta=33 nvalid=4 A0*2^20=121 valid=5 A0>=1/128: 0
+BEST r=6 w=2 gi=20 graph=29192 A=33321 beta=29 nvalid=4 A0*2^20=60 valid=2 A0>=1/128: 0
+BEST r=6 w=2 gi=21 graph=4712 A=24592 beta=9 nvalid=4 A0*2^20=60 valid=4 A0>=1/128: 0
+BEST r=6 w=2 gi=22 graph=4776 A=8342 beta=16 nvalid=4 A0*2^20=60 valid=2 A0>=1/128: 0
+BEST r=6 w=2 gi=24 graph=26896 A=14047 beta=63 nvalid=4 A0*2^20=121 valid=5 A0>=1/128: 0
+BEST r=6 w=2 gi=25 graph=929 A=13 beta=57 nvalid=4 A0*2^20=60 valid=2 A0>=1/128: 0
+BEST r=6 w=2 gi=33 graph=28700 A=4 beta=2 nvalid=8 A0*2^20=241 valid=11 A0>=1/128: 0
+BEST r=6 w=2 gi=35 graph=1768 A=4712 beta=11 nvalid=4 A0*2^20=60 valid=6 A0>=1/128: 0
+BEST r=6 w=2 gi=37 graph=4653 A=4621 beta=19 nvalid=4 A0*2^20=60 valid=4 A0>=1/128: 0
+BEST r=6 w=2 gi=38 graph=1731 A=14051 beta=6 nvalid=4 A0*2^20=121 valid=2 A0>=1/128: 0
+BEST r=6 w=2 gi=47 graph=28679 A=8198 beta=14 nvalid=4 A0*2^20=60 valid=4 A0>=1/128: 0
+BEST r=6 w=2 gi=50 graph=1752 A=9238 beta=48 nvalid=4 A0*2^20=60 valid=2 A0>=1/128: 0
+BEST r=6 w=2 gi=54 graph=631 A=231128 beta=15 nvalid=4 A0*2^20=121 valid=4 A0>=1/128: 0
+BEST r=6 w=2 gi=55 graph=1763 A=13883 beta=6 nvalid=4 A0*2^20=121 valid=1 A0>=1/128: 0
+BEST r=6 w=2 gi=56 graph=4841 A=6728 beta=24 nvalid=4 A0*2^20=60 valid=2 A0>=1/128: 0
+BEST r=6 w=2 gi=61 graph=18152 A=24592 beta=39 nvalid=4 A0*2^20=60 valid=4 A0>=1/128: 0
+BEST r=6 w=2 gi=71 graph=4907 A=9266 beta=37 nvalid=4 A0*2^20=60 valid=2 A0>=1/128: 0
+BEST r=6 w=2 gi=78 graph=2919 A=53248 beta=9 nvalid=4 A0*2^20=60 valid=2 A0>=1/128: 0
+BEST r=6 w=2 gi=87 graph=2895 A=33321 beta=55 nvalid=4 A0*2^20=60 valid=1 A0>=1/128: 0
+BEST r=6 w=2 gi=93 graph=15768 A=116443 beta=48 nvalid=4 A0*2^20=121 valid=2 A0>=1/128: 0
+BEST r=6 w=2 gi=102 graph=5869 A=14044 beta=31 nvalid=4 A0*2^20=121 valid=2 A0>=1/128: 0
+BEST r=6 w=2 gi=106 graph=31458 A=4712 beta=51 nvalid=4 A0*2^20=60 valid=1 A0>=1/128: 0
+BEST r=6 w=2 gi=107 graph=19303 A=53248 beta=25 nvalid=4 A0*2^20=60 valid=2 A0>=1/128: 0
+BEST r=6 w=2 gi=108 graph=32152 A=30427 beta=48 nvalid=4 A0*2^20=121 valid=1 A0>=1/128: 0
+BEST r=6 w=2 gi=120 graph=24117 A=6721 beta=57 nvalid=4 A0*2^20=60 valid=1 A0>=1/128: 0
+BEST r=6 w=2 gi=123 graph=5871 A=4 beta=32 nvalid=8 A0*2^20=241 valid=10 A0>=1/128: 0
+BEST r=6 w=2 gi=129 graph=24182 A=33349 beta=25 nvalid=4 A0*2^20=60 valid=1 A0>=1/128: 0
+BEST r=6 w=2 gi=138 graph=6127 A=243395 beta=31 nvalid=4 A0*2^20=121 valid=4 A0>=1/128: 0
+BEST r=6 w=2 gi=147 graph=30447 A=196610 beta=24 nvalid=4 A0*2^20=60 valid=2 A0>=1/128: 0
+BEST r=6 w=2 gi=152 graph=22527 A=196610 beta=19 nvalid=4 A0*2^20=60 valid=2 A0>=1/128: 0
+BEST r=6 w=2 gi=154 graph=32763 A=112348 beta=63 nvalid=4 A0*2^20=121 valid=2 A0>=1/128: 0
+BEST r=6 w=2 gi=155 graph=32767 A=14047 beta=32 nvalid=4 A0*2^20=121 valid=2 A0>=1/128: 0
+w=2 done: codes 1224071296 valid 12391 A0>=1/128 28 max A0*2^20 8192 t=5444s
+BEST r=6 w=3 gi=0 graph=0 A=0 beta=0 nvalid=28 A0*2^20=372 valid=60 A0>=1/128: 0
+BEST r=6 w=3 gi=1 graph=16384 A=40960 beta=0 nvalid=8 A0*2^20=241 valid=81 A0>=1/128: 0
+BEST r=6 w=3 gi=3 graph=96 A=0 beta=0 nvalid=8 A0*2^20=121 valid=29 A0>=1/128: 0
+BEST r=6 w=3 gi=4 graph=608 A=0 beta=0 nvalid=12 A0*2^20=181 valid=16 A0>=1/128: 0
+BEST r=6 w=3 gi=5 graph=28 A=112167 beta=1 nvalid=4 A0*2^20=60 valid=2 A0>=1/128: 0
+BEST r=6 w=3 gi=6 graph=20496 A=0 beta=0 nvalid=8 A0*2^20=121 valid=5 A0>=1/128: 0
+BEST r=6 w=3 gi=9 graph=16412 A=224769 beta=56 nvalid=4 A0*2^20=60 valid=2 A0>=1/128: 0
+BEST r=6 w=3 gi=10 graph=24588 A=0 beta=0 nvalid=16 A0*2^20=241 valid=10 A0>=1/128: 0
+BEST r=6 w=3 gi=11 graph=10512 A=97133 beta=32 nvalid=4 A0*2^20=60 valid=2 A0>=1/128: 0
+BEST r=6 w=3 gi=18 graph=24604 A=0 beta=0 nvalid=8 A0*2^20=121 valid=6 A0>=1/128: 0
+BEST r=6 w=3 gi=20 graph=29192 A=0 beta=0 nvalid=8 A0*2^20=121 valid=5 A0>=1/128: 0
+BEST r=6 w=3 gi=23 graph=4649 A=0 beta=0 nvalid=20 A0*2^20=301 valid=9 A0>=1/128: 0
+BEST r=6 w=3 gi=33 graph=28700 A=60478 beta=25 nvalid=4 A0*2^20=60 valid=5 A0>=1/128: 0
+BEST r=6 w=3 gi=36 graph=29706 A=0 beta=0 nvalid=4 A0*2^20=60 valid=1 A0>=1/128: 0
+BEST r=6 w=3 gi=37 graph=4653 A=0 beta=0 nvalid=8 A0*2^20=121 valid=5 A0>=1/128: 0
+BEST r=6 w=3 gi=38 graph=1731 A=0 beta=0 nvalid=8 A0*2^20=121 valid=6 A0>=1/128: 0
+BEST r=6 w=3 gi=41 graph=29448 A=85631 beta=63 nvalid=1 A0*2^20=8192 valid=1 A0>=1/128: 1
+BIG r=6 w=3 gi=41 graph=29448 A=85631 beta=63 nvalid=1 A0*2^20=8192
+BEST r=6 w=3 gi=44 graph=9442 A=65191 beta=39 nvalid=1 A0*2^20=8192 valid=1 A0>=1/128: 1
+BIG r=6 w=3 gi=44 graph=9442 A=65191 beta=39 nvalid=1 A0*2^20=8192
+BEST r=6 w=3 gi=54 graph=631 A=232881 beta=46 nvalid=4 A0*2^20=60 valid=2 A0>=1/128: 0
+BEST r=6 w=3 gi=55 graph=1763 A=0 beta=0 nvalid=8 A0*2^20=121 valid=5 A0>=1/128: 0
+BEST r=6 w=3 gi=60 graph=8814 A=259532 beta=53 nvalid=1 A0*2^20=8192 valid=1 A0>=1/128: 1
+BIG r=6 w=3 gi=60 graph=8814 A=259532 beta=53 nvalid=1 A0*2^20=8192
+BEST r=6 w=3 gi=65 graph=5033 A=241255 beta=48 nvalid=1 A0*2^20=8192 valid=1 A0>=1/128: 1
+BIG r=6 w=3 gi=65 graph=5033 A=241255 beta=48 nvalid=1 A0*2^20=8192
+BEST r=6 w=3 gi=66 graph=8847 A=235004 beta=40 nvalid=1 A0*2^20=8192 valid=1 A0>=1/128: 1
+BIG r=6 w=3 gi=66 graph=8847 A=235004 beta=40 nvalid=1 A0*2^20=8192
+BEST r=6 w=3 gi=73 graph=13010 A=0 beta=0 nvalid=4 A0*2^20=60 valid=1 A0>=1/128: 0
+BEST r=6 w=3 gi=76 graph=12857 A=0 beta=0 nvalid=8 A0*2^20=121 valid=5 A0>=1/128: 0
+BEST r=6 w=3 gi=79 graph=5805 A=62783 beta=15 nvalid=1 A0*2^20=8192 valid=1 A0>=1/128: 1
+BIG r=6 w=3 gi=79 graph=5805 A=62783 beta=15 nvalid=1 A0*2^20=8192
+BEST r=6 w=3 gi=81 graph=8815 A=259196 beta=54 nvalid=1 A0*2^20=8192 valid=1 A0>=1/128: 1
+BIG r=6 w=3 gi=81 graph=8815 A=259196 beta=54 nvalid=1 A0*2^20=8192
+BEST r=6 w=3 gi=84 graph=21225 A=238567 beta=40 nvalid=1 A0*2^20=8192 valid=1 A0>=1/128: 1
+BIG r=6 w=3 gi=84 graph=21225 A=238567 beta=40 nvalid=1 A0*2^20=8192
+BEST r=6 w=3 gi=92 graph=6715 A=0 beta=0 nvalid=8 A0*2^20=121 valid=5 A0>=1/128: 0
+BEST r=6 w=3 gi=93 graph=15768 A=0 beta=0 nvalid=8 A0*2^20=121 valid=6 A0>=1/128: 0
+BEST r=6 w=3 gi=98 graph=29481 A=240079 beta=58 nvalid=1 A0*2^20=8192 valid=1 A0>=1/128: 1
+BIG r=6 w=3 gi=98 graph=29481 A=240079 beta=58 nvalid=1 A0*2^20=8192
+BEST r=6 w=3 gi=102 graph=5869 A=14111 beta=31 nvalid=4 A0*2^20=60 valid=1 A0>=1/128: 0
+BEST r=6 w=3 gi=106 graph=31458 A=98105 beta=51 nvalid=1 A0*2^20=8192 valid=1 A0>=1/128: 1
+BIG r=6 w=3 gi=106 graph=31458 A=98105 beta=51 nvalid=1 A0*2^20=8192
+BEST r=6 w=3 gi=108 graph=32152 A=0 beta=0 nvalid=8 A0*2^20=121 valid=5 A0>=1/128: 0
+BEST r=6 w=3 gi=110 graph=20731 A=0 beta=0 nvalid=12 A0*2^20=181 valid=5 A0>=1/128: 0
+BEST r=6 w=3 gi=113 graph=13117 A=259028 beta=34 nvalid=1 A0*2^20=8192 valid=1 A0>=1/128: 1
+BIG r=6 w=3 gi=113 graph=13117 A=259028 beta=34 nvalid=1 A0*2^20=8192
+BEST r=6 w=3 gi=118 graph=31289 A=0 beta=0 nvalid=8 A0*2^20=121 valid=5 A0>=1/128: 0
+BEST r=6 w=3 gi=123 graph=5871 A=88943 beta=31 nvalid=4 A0*2^20=60 valid=4 A0>=1/128: 0
+BEST r=6 w=3 gi=127 graph=29673 A=240079 beta=34 nvalid=1 A0*2^20=8192 valid=1 A0>=1/128: 1
+BIG r=6 w=3 gi=127 graph=29673 A=240079 beta=34 nvalid=1 A0*2^20=8192
+BEST r=6 w=3 gi=128 graph=22142 A=0 beta=0 nvalid=8 A0*2^20=121 valid=5 A0>=1/128: 0
+BEST r=6 w=3 gi=129 graph=24182 A=85967 beta=53 nvalid=1 A0*2^20=8192 valid=1 A0>=1/128: 1
+BIG r=6 w=3 gi=129 graph=24182 A=85967 beta=53 nvalid=1 A0*2^20=8192
+BEST r=6 w=3 gi=131 graph=15165 A=235004 beta=6 nvalid=1 A0*2^20=8192 valid=2 A0>=1/128: 2
+BIG r=6 w=3 gi=131 graph=15165 A=235004 beta=6 nvalid=1 A0*2^20=8192
+BIG r=6 w=3 gi=131 graph=15165 A=237223 beta=6 nvalid=1 A0*2^20=8192
+BEST r=6 w=3 gi=138 graph=6127 A=257422 beta=61 nvalid=4 A0*2^20=60 valid=2 A0>=1/128: 0
+BEST r=6 w=3 gi=143 graph=24538 A=98273 beta=27 nvalid=1 A0*2^20=8192 valid=1 A0>=1/128: 1
+BIG r=6 w=3 gi=143 graph=24538 A=98273 beta=27 nvalid=1 A0*2^20=8192
+BEST r=6 w=3 gi=144 graph=22007 A=43519 beta=46 nvalid=1 A0*2^20=8192 valid=1 A0>=1/128: 1
+BIG r=6 w=3 gi=144 graph=22007 A=43519 beta=46 nvalid=1 A0*2^20=8192
+BEST r=6 w=3 gi=145 graph=16283 A=95207 beta=10 nvalid=1 A0*2^20=8192 valid=1 A0>=1/128: 1
+BIG r=6 w=3 gi=145 graph=16283 A=95207 beta=10 nvalid=1 A0*2^20=8192
+BEST r=6 w=3 gi=146 graph=24501 A=0 beta=0 nvalid=8 A0*2^20=121 valid=5 A0>=1/128: 0
+BEST r=6 w=3 gi=150 graph=22519 A=238399 beta=34 nvalid=1 A0*2^20=8192 valid=1 A0>=1/128: 1
+BIG r=6 w=3 gi=150 graph=22519 A=238399 beta=34 nvalid=1 A0*2^20=8192
+BEST r=6 w=3 gi=151 graph=30587 A=43519 beta=0 nvalid=1 A0*2^20=8192 valid=1 A0>=1/128: 1
+BIG r=6 w=3 gi=151 graph=30587 A=43519 beta=0 nvalid=1 A0*2^20=8192
+BEST r=6 w=3 gi=154 graph=32763 A=112863 beta=63 nvalid=4 A0*2^20=60 valid=1 A0>=1/128: 0
+w=3 done: codes 1637206592 valid 12712 A0>=1/128 48 max A0*2^20 8192 t=8022s
+DONE r=6 graphs 0-156: codes tested 1637206592, valid codes 12712, A0>=1/128 48, max A0*2^20 8192

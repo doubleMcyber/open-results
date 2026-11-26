@@ -1,0 +1,22 @@
+r=4: 11 graph classes, sum 1/|Aut| = 2.6667 (expected 2^6/4! = 2.6667) t=0s
+BEST r=4 w=1 gi=0 graph=0 A=0 beta=0 nvalid=16 A0*2^20=482 valid=65 A0>=1/128: 0
+BEST r=4 w=1 gi=1 graph=32 A=71680 beta=0 nvalid=8 A0*2^20=241 valid=39 A0>=1/128: 0
+BEST r=4 w=1 gi=2 graph=48 A=80832 beta=0 nvalid=4 A0*2^20=121 valid=10 A0>=1/128: 0
+BEST r=4 w=1 gi=3 graph=33 A=71960 beta=0 nvalid=4 A0*2^20=121 valid=3 A0>=1/128: 0
+BEST r=4 w=1 gi=4 graph=56 A=67776 beta=0 nvalid=8 A0*2^20=241 valid=35 A0>=1/128: 0
+BEST r=4 w=1 gi=5 graph=52 A=80350 beta=0 nvalid=4 A0*2^20=121 valid=5 A0>=1/128: 0
+BEST r=4 w=1 gi=7 graph=60 A=198996 beta=0 nvalid=4 A0*2^20=121 valid=8 A0>=1/128: 0
+BEST r=4 w=1 gi=8 graph=45 A=72086 beta=0 nvalid=4 A0*2^20=121 valid=5 A0>=1/128: 0
+BEST r=4 w=1 gi=9 graph=47 A=199122 beta=0 nvalid=4 A0*2^20=121 valid=5 A0>=1/128: 0
+BEST r=4 w=1 gi=10 graph=63 A=67654 beta=0 nvalid=8 A0*2^20=241 valid=17 A0>=1/128: 0
+w=1 done: codes 2774768 valid 192 A0>=1/128 0 max A0*2^20 482 t=22s
+w=2 done: codes 12006688 valid 192 A0>=1/128 0 max A0*2^20 482 t=89s
+BEST r=4 w=3 gi=0 graph=0 A=0 beta=0 nvalid=16 A0*2^20=482 valid=8 A0>=1/128: 0
+BEST r=4 w=3 gi=1 graph=32 A=286720 beta=0 nvalid=8 A0*2^20=241 valid=2 A0>=1/128: 0
+BEST r=4 w=3 gi=4 graph=56 A=271104 beta=0 nvalid=8 A0*2^20=241 valid=2 A0>=1/128: 0
+BEST r=4 w=3 gi=10 graph=63 A=270616 beta=0 nvalid=8 A0*2^20=241 valid=2 A0>=1/128: 0
+w=3 done: codes 25053280 valid 206 A0>=1/128 0 max A0*2^20 482 t=177s
+w=4 done: codes 34285200 valid 206 A0>=1/128 0 max A0*2^20 482 t=228s
+BEST r=4 w=5 gi=0 graph=0 A=0 beta=0 nvalid=16 A0*2^20=482 valid=1 A0>=1/128: 0
+w=5 done: codes 37059968 valid 207 A0>=1/128 0 max A0*2^20 482 t=250s
+DONE r=4 graphs 0-11: codes tested 37059968, valid codes 207, A0>=1/128 0, max A0*2^20 482
