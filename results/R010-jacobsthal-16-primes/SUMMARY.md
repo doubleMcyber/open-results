@@ -1,0 +1,3 @@
+SETTLED the equality cases for the 16-prime Jacobsthal bound. For a modulus \(n\) with at most 16 distinct prime factors, the longest possible run of integers sharing a factor with \(n\) is 105. A modulus attains 105 exactly when it has 16 distinct prime factors, including every prime through 29 and at least two of 31, 37, and 43.
+
+[Proof and witnesses](RESULT.md) (156 lines), [exhaustive search](check.py) (59), and [cross-check](crosscheck.py) (82). Both scripts passed locally. The lead should rerun them, review the coverage argument, and check prior classifications. Novelty is UNVERIFIED.
