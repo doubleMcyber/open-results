@@ -1,4 +1,25 @@
-# A comparator-accepted solution to the THCFactorization spec (Clifford+T, exact block encoding, 1.31x Lee et al. per walk step)
+# A comparator-accepted solution to the THCFactorization spec (Clifford+T, exact block encoding, Lee et al.'s per-step T count within ±1%)
+
+## Update 2026-11-26: P4.9
+
+A second solution to the same spec has a lower proved T count per walk step and was checked the same way. Its files are in [p49/](p49/): the Google-layout Lean file [p49/lean/THCFactorization.lean](p49/lean/THCFactorization.lean) (43,247 lines, sha256 72fa0bd31c1dcd2ec4859ed900c02c8dc2b0374e52587ff8ae93199d05ea5ff7), the holes file [p49/lean/holesG.json](p49/lean/holesG.json), the verification record [p49/VERIFY.md](p49/VERIFY.md) and the script [p49/numbers.py](p49/numbers.py). The first version (P4.4) is described in the rest of this page, and its files are unchanged in [lean/](lean/) and [VERIFY.md](VERIFY.md).
+
+- The proved T count per walk step, `stepTCF`, is 43,868 T at the Reiher parameters (N = 54, M = 350) and 67,944 T at Li's (N = 76, M = 450). Lee et al.'s derived per-step cost is 44,062.5 and 67,821.3 T, so the ratios are 0.9956x and 1.0018x. Lee et al.'s totals have two significant figures, so the baseline carries about ±1%, and their per-step cost includes about 32 Toffolis (about 0.3%) that the spec does not charge to a candidate. This is parity per step within that precision, not an improvement.
+- The first version had 57,708 and 95,308 T per step. Three changes account for the 13,840 and 27,364 T saved (Reiher / Li):
+  1. PREPARE's alias lookup. The alias word is 28 and 29 bits instead of 54 and 58, and the load and close run over the live table entries only. The lookup drops from 23,044 to 13,164 T and from 35,060 to 16,288 T. The compact word needs a measured triangular decoder, whose two calls cost 2,368 and 2,432 T against 1,776 and 1,872 T before. The net saving is 9,288 and 18,212 T.
+  2. SELECT's angle lookup and spin swaps. The angle lookup is pruned to the N + M rows that exist (5,560 to 3,568 T and 10,168 to 4,632 T), and the spin swaps cost 8N T instead of 16N T per row SELECT (1,728 to 864 T and 2,432 to 1,216 T per step). Together that saves 2,856 and 6,752 T.
+  3. The rotation kicks. The N − 1 Givens-rotation kicks into the phase-gradient catalyst cost 16(N − 1)(ℶ − 2) T per row SELECT instead of 16(N − 1)(ℶ − 1) T, which saves 1,696 and 2,400 T per step.
+- The proved total, `thcTCost`, is 2.25e10 and 1.66e11 T (22,499,283,048 and 165,508,594,464), which is 1.06x and 1.29x Lee et al.'s 2.12e10 and 1.28e11. The walk-step counts are unchanged at 512,886 and 2,435,956, because the alias padding factor is unchanged: α = κλ with κ = 2^g/(4·d·2^ℵ) = 1.066 and 1.291, the same definition and the same g = 28 and 29 as before.
+- `thcTotalLogicalQubits` is 7,873 and 13,300, against 6,107 and 11,473 in the first version, and 3.68x and 6.06x Lee et al.'s 2,142 and 2,196 (which include the phase-estimation register). Most of it is lookup scratch: the scratch hole is 7,699 and 13,075 qubits.
+
+The totals and qubit counts are Python evaluations of the Lean definitions (exact fractions, π to 31 digits), not Lean evaluations; `thcTCost` cannot reduce to a numeral. The per-step counts were also evaluated in Lean (`#eval`, quoted in [p49/VERIFY.md](p49/VERIFY.md)), and the script reproduces them.
+
+How it was checked: `lake comparator` in the bubblewrap sandbox on Linux (sandbox job 2027077, Lean 4.35.0, `discoveries` a88de8f, spec sha256 7bb6d8e9…), with the file at the Specs path, the stock config and `--challenge-from-export`. The result was "Your solution is okay!". The two negative controls, a changed hole type and an extra hypothesis on `thc_t_cost`, were rejected with a statement mismatch. A copy with a `sorry` was rejected locally for `sorryAx`. The proofs use only propext, Quot.sound and Classical.choice. The file inlines three modules from the author's earlier repository (PreparePauliLCU, ControlledAddConstant and TableLookup, marked as such) and imports `EqualTableAdd` from the arcsin solution in the `discoveries` branch.
+
+Status: Settled, unreviewed, as before. Google has not reviewed either version. The four caveats below apply unchanged to this version: the stock config compares the file with itself unless `--challenge-from-export` is added; `thcCandidateProgram` is a plain `def` that this solution fills noncomputably; `thcTCost` is noncomputable while the per-step `stepTCF` is computable ℕ; and the exact block encoding forces the alias padding that appears as κ in the walk-step count. The list of what is not covered also still applies. The hole check for computability was not run on this version.
+
+## First version (P4.4)
+
 
 This is a Lean 4 solution to `QuantumComputationSpecs/Primitives/THCFactorization.lean` in google-deepmind/formal-quantum-computation, with all seven holes filled and `thc_correctness` and `thc_t_cost` proved as stated. The Lean file is [lean/THCFactorization.lean](lean/THCFactorization.lean) and the holes file is [lean/holesG.json](lean/holesG.json).
 

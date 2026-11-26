@@ -1,0 +1,11 @@
+[
+  "QC14.AssemblyC.blockAncC N M aleph",
+  "QC14.AssemblyCF.scratchCF N M aleph beth",
+  "beth",
+  "QC14.AssemblyC.alphaCS thc aleph beth lamMax",
+  "QC14.AssemblyC.offsetCS thc aleph beth lamMax",
+  "QC14.AssemblyCF.progCF v thc aleph beth lamMax rActive rScratch rCat",
+  "exact QC14.AssemblyCF.thc_correctness_CF v thc η aleph beth lamMax εSynth hround hη hεSynth",
+  "QC14.AssemblyCF.tCostCF N M aleph beth lamMax εQPE",
+  "exact QC14.AssemblyCF.thc_t_cost_CF v thc η aleph beth lamMax εSynth εQPE hround rActive rScratch rCat"
+]
