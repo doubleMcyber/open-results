@@ -1,0 +1,14 @@
+name = "openresults"
+defaultTargets = ["OpenResults"]
+
+[leanOptions]
+autoImplicit = false
+
+# Reuses the already-built Mathlib from qc_common/lean-discoveries (same toolchain v4.35.0); no new download.
+[[require]]
+name = "mathlib"
+path = "/Users/marlonmoenius/dev/quantum/qc_common/lean-discoveries/.lake/packages/mathlib"
+
+[[lean_lib]]
+name = "OpenResults"
+globs = ["OpenResults.+"]

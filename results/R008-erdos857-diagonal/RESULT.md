@@ -52,9 +52,11 @@ Verified locally on 2026-11-25 with CPython 3.11.9 on macOS. An instrumented run
 
 ## Source and reviewer checks
 
-This settles the diagonal subcase of Erdős problem 857. The entry is line 238 of ~/dev/quantum/ideation/mine_20261125/out/INDEX.tsv (counting the header). The retained extract in /private/tmp/erdos_rows.txt describes the non-uniform forcing threshold. The mining notes in out/misc_notes.md record that the downloaded Erdős files were deleted after extraction. Exact agreement with the Lean predicate is UNVERIFIED. Novelty is UNVERIFIED. The general two-parameter estimate remains open in the local index.
+This is a side remark on the diagonal subcase k = n of Erdős problem 857. The problem page asks about fixed k and n tending to infinity, so the diagonal case is outside it, and nothing here settles or advances the problem. The entry is line 238 of ~/dev/quantum/ideation/mine_20261125/out/INDEX.tsv (counting the header). The retained extract in /private/tmp/erdos_rows.txt describes the non-uniform forcing threshold. The mining notes in out/misc_notes.md record that the downloaded Erdős files were deleted after extraction. Exact agreement with the Lean predicate is UNVERIFIED. The statement was not found on the problem page or in formal-conjectures; no wider literature search was made. The general two-parameter estimate remains open in the local index.
 
 1. Compare the definition and its threshold convention with FormalConjectures/ErdosProblems/857.lean at revision 9097e2f, including whether one member may equal the core.
 2. Check that the four flower types exhaust the possibilities and that the pair forced at $(e,s)=(0,2)$ cannot cover an outside point.
 3. Check the equality cases and the exceptional orbit at $n=4$. Run python3 verify.py in this folder to reproduce the finite enumeration.
 4. Search the literature before attributing novelty to the threshold or extremizer classification.
+
+The value formula is also proved in Lean (`lean/`, theorem `R008.erdos857_diagonal`). The classification of extremal families is not formalised.
