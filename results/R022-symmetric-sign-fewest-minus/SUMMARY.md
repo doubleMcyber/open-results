@@ -1,0 +1,3 @@
+For n ≥ 3, a nonsingular symmetric n × n matrix with entries ±1 has at least ⌊n/2⌋ entries equal to −1 on or above the diagonal, and exactly (2⌊n/2⌋+1)!! such matrices attain the minimum. The extremal patterns are matchings (odd n) and perfect matchings or near-perfect matchings plus one diagonal entry (even n). This gives the exact leading term of the biased singularity probability as the −1 probability tends to 0.
+
+[RESULT.md](RESULT.md) has the proof. bias.c enumerates all matrices for n ≤ 7; check.py and independent_check.py confirm the counts for n up to 10 and 9 respectively. n = 2 is an exception (minimum 1, two matrices).

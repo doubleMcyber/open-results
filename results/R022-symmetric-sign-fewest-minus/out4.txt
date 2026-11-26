@@ -1,0 +1,12 @@
+n=4 k(minus count in upper triangle incl diag): singular count
+0 1
+1 10
+2 30
+3 46
+4 97
+5 144
+6 97
+7 46
+8 30
+9 10
+10 1

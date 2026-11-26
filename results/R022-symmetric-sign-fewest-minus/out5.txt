@@ -1,0 +1,17 @@
+n=5 k(minus count in upper triangle incl diag): singular count
+0 1
+1 15
+2 90
+3 290
+4 540
+5 1320
+6 2415
+7 3265
+8 3265
+9 2415
+10 1320
+11 540
+12 290
+13 90
+14 15
+15 1

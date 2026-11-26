@@ -1,0 +1,13 @@
+For every n>=3, the minimum number of -1 entries (counted on and above the diagonal) in a nonsingular symmetric n x n matrix with entries +-1 is floor(n/2), and exactly (2 floor(n/2)+1)!! such matrices attain it (n=3..10 give 3, 15, 15, 105, 105, 945, 945, 10395).
+
+Source: line 503 of sources/INDEX.tsv (singularity rates of symmetric sign matrices, biased signs). This is the small-weight end of the biased case: it shows the biased singularity probability is 1 - Theta(p^floor(n/2)) as p -> 0 and gives the exact leading coefficient.
+
+Proof. Write A = J - 2B, J all ones, B the 0/1 pattern of the -1 entries (symmetric), k = number of nonzero entries of B on or above the diagonal. rank(A) <= 1 + rank(B), so A nonsingular forces rank B >= n-1. With e off-diagonal and d diagonal entries (k=e+d), rank B <= number of non-isolated vertices of the graph of B <= 2e + d <= 2k, so k >= (n-1)/2, i.e. k >= floor(n/2) for n>=3 (integrality).
+Odd n, k=(n-1)/2: equality 2e+d = n-1 forces d=0 and a matching on n-1 vertices. If Bx = s*1 with s = (1^T x)/2 then paired coordinates equal s and the unmatched vertex gives s=0, so x is a multiple of e_u, and 1^T x = 0 gives x=0. So A is nonsingular. Count = number of (n-1)/2-matchings of K_n = n!!.
+Even n>=4, k=n/2: rank B >= n-1 needs at least n-1 non-isolated vertices. Case d=0: n/2 edges covering n vertices is a perfect matching; covering exactly n-1 vertices gives an adjacency matrix of odd order with fewer than n-1 edges and no isolated vertex, which is singular. Case d=1: a perfect matching on n-2 vertices plus one diagonal vertex u among the two remaining vertices. Case d>=2 covers at most n-2 vertices, impossible. Nonsingularity: for a perfect matching, Bx=s*1 gives x = s*1, hence n s = 2 s, s=0 (n>=4). For matching + diagonal u (other leftover vertex w): s=0 from row w, then x vanishes off w, and 1^T x = 0 gives x=0. Count = (n-1)!! + C(n,2)*(n-3)!!*2 = (n+1)!!.
+
+Computation: bias.c enumerates all 2^(n(n+1)/2) symmetric sign matrices for n<=7 (Bareiss integer determinant), histogram by k; out2..out7.txt. check.py reads the histograms (min k and nonsingular count at min k match the formula for n=3..7, and the histogram is symmetric under A -> -A) and verifies with exact Fraction determinants that every matching / matching+diagonal configuration is nonsingular for n=3..10, with the configuration count equal to the formula.
+
+Limits: The n=2 case is exceptional (min k=1 count 2).
+
+Independent check: independent_check.py enumerates every set of k entries on or above the diagonal, for k up to the minimum, with exact Fraction determinants, for n = 3..9. It finds minimum k = 1, 2, 2, 3, 3, 4, 4 and counts 3, 15, 15, 105, 105, 945, 945, as stated.

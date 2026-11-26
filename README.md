@@ -32,6 +32,8 @@ Corrections, counterexamples and prior references are welcome as issues.
 | [R019](results/R019-crouzeix-weighted-shift/) | For a finite positive weighted shift with numerical radius 1, the complete Crouzeix constant equals the largest consecutive weight product, with a sharp stability bound | Settled, unreviewed | formula known (Crouzeix and Greenbaum, arXiv:2508.12768); stability bound: unclear |
 | [R020](results/R020-codegree-defect-deg2/) | Maximum-degree-two case of a codegree-defect question: every nonzero defect has a vertex in at least three defective pairs | Settled, unreviewed (one case) | no prior found (two passes) |
 | [R021](results/R021-exoo-k43-five-cliques/) | Flipping exactly three blue edges of Exoo's cyclic colouring of K₄₃ (and any red edges) leaves at least 11 monochromatic K₅, and 11 is attained | Settled, unreviewed | no prior found (two passes). Applies only to this restricted family; Exoo reports a colouring of K₄₃ with 2 monochromatic K₅ |
+| [R022](results/R022-symmetric-sign-fewest-minus/) | For n ≥ 3, a nonsingular symmetric ±1 matrix has at least ⌊n/2⌋ entries −1 on or above the diagonal, and exactly (2⌊n/2⌋+1)!! matrices attain this | Settled, unreviewed | no prior found (two passes) |
+| [R023](results/R023-erdos639-extremal-colourings/) | Erdős problem 639 for n = 6, 7, 8: the colourings of K_n with the most edges in no monochromatic triangle number 360, 5,950 and 14,630, in 1, 5 and 5 classes; for n = 8 those edges always form K₄,₄ | Settled, unreviewed (exhaustive computation, two independent enumerations) | maxima known (Keevash and Sudakov 2004); counts and classes: no prior found (two passes) |
 
 ## Known results reproduced
 
