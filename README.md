@@ -8,7 +8,8 @@ Most entries were produced with AI agents and are listed here so that people can
 
 - **Certified**: an exact certificate exists and an independent check reproduced it.
 - **Settled, unreviewed**: the entry contains a full proof and an exact check that passed, but no human expert has reviewed it yet.
-- **No prior found (first pass)**: one web search pass (arXiv, Google Scholar, OEIS, erdosproblems.com and the source paper) found no earlier statement. A second pass is running.
+- **No prior found (two passes)**: two independent searches (arXiv, Google Scholar, OEIS, MathOverflow, the source paper's full text, and for Erdős problems the erdosproblems.com page and the community database at github.com/teorth/erdosproblems) found no earlier statement.
+- **Unclear**: a close earlier paper exists and has not been fully read.
 - **Novelty pending**: searches for prior work have not finished. The statement may already be in the literature. Pending entries will be marked KNOWN (with the reference) or NEW AS FAR AS FOUND as the checks come in.
 
 Corrections, counterexamples and prior references are welcome as issues.
@@ -18,19 +19,19 @@ Corrections, counterexamples and prior references are welcome as issues.
 | ID | Statement | Status | Novelty |
 |---|---|---|---|
 | [R001](results/R001-rk-order9/) | An explicit 13-stage Runge–Kutta method of order 9 exists, so a(9) ≤ 13 in OEIS A187102 (with Butcher's bound, 12 ≤ a(9) ≤ 13). All 486 order conditions vanish exactly over a degree-16 totally real number field | Certified | Paper and Zenodo record |
-| [R002](results/R002-craig-lattice-min-vectors/) | The fourth Craig lattice in dimension 522 has 65,121,213,204 minimal vectors (squared norm 8); the fifth has 1,323,456,100,308 (squared norm 10) | Settled, unreviewed | no prior found (first pass) |
-| [R003](results/R003-k33-free-tripartite-5/) | The maximum number of edges in a K₃,₃-free tripartite graph with five vertices per part is 49 | Settled, unreviewed | no prior found (first pass) |
-| [R004](results/R004-werner-hessian-equality/) | Hessian of the Werner endpoint inequality at aligned product zeros, every copy count: all nearby equality cases identified; for four qutrit copies, 110 zero directions and smallest positive eigenvalue 1/4 | Settled, unreviewed (local statement only) | no prior found (first pass) |
-| [R008](results/R008-erdos857-diagonal/) | Erdős problem 857, diagonal case: the least family size forcing an n-sunflower on n points is 2ⁿ − ⌊n/2⌋ − 1 for n ≥ 3, with the extremal families classified | Settled, unreviewed | no prior found (first pass) |
-| [R009](results/R009-ame-8-4-gf4-graph/) | Among GF(4) graph states on eight ququarts, at most 34 of the 35 balanced cuts can be maximally mixed, and 34 is attained | Settled, unreviewed | no prior found (first pass) |
-| [R013](results/R013-greedy-superstring-three/) | For three substring-free words of length at most L over at least three letters, with first greedy overlap ahead by k, the sharp greedy-superstring ratio is 1 + max(0, L−1−2k)/(L+k+2) | Settled, unreviewed | no prior found (first pass) |
-| [R014](results/R014-sum-product-colouring-396/) | The least N such that every two-colouring of [1, N] has two distinct monochromatic sum-product pairs is 396 | Settled, unreviewed | no prior found (first pass) |
-| [R015](results/R015-triangle-removal-k18/) | Random triangle removal on K₁₈ ends with the maximum 81 edges with probability about 6.40356903 × 10⁻²⁶ (exact fraction given) | Settled, unreviewed | no prior found (first pass) |
-| [R016](results/R016-sparse-sign-equal-rows/) | With minus signs of probability (log n + t)/n, the probability that two rows are equal tends to 1 − (1+λ)e^(−λ), λ = e^(−t) | Settled, unreviewed | no prior found (first pass) |
-| [R017](results/R017-magnon-order-7-2/) | For ideal magnons with given quadratic and quartic dispersion terms, the normalized order-7/2 coefficient ranges exactly over [(37−2R²)/128, 29/128]; range R = 5 is the first allowing both signs | Settled, unreviewed | no prior found (first pass) |
-| [R019](results/R019-crouzeix-weighted-shift/) | For a finite positive weighted shift with numerical radius 1, the complete Crouzeix constant equals the largest consecutive weight product, with a sharp stability bound | Settled, unreviewed | formula known (Crouzeix and Greenbaum, arXiv:2508.12768); the stability bound not found |
-| [R020](results/R020-codegree-defect-deg2/) | Maximum-degree-two case of a codegree-defect question: every nonzero defect has a vertex in at least three defective pairs | Settled, unreviewed (one case) | no prior found (first pass) |
-| [R021](results/R021-exoo-k43-five-cliques/) | Flipping exactly three blue edges of Exoo's cyclic colouring of K₄₃ (and any red edges) leaves at least 11 monochromatic K₅, and 11 is attained | Settled, unreviewed | no prior found (first pass) |
+| [R002](results/R002-craig-lattice-min-vectors/) | The fourth Craig lattice in dimension 522 has 65,121,213,204 minimal vectors (squared norm 8); the fifth has 1,323,456,100,308 (squared norm 10) | Settled, unreviewed | k = 4 count is an evaluation of Bacher's exact formula; the k = 5 count: no prior found (two passes) |
+| [R003](results/R003-k33-free-tripartite-5/) | The maximum number of edges in a K₃,₃-free tripartite graph with five vertices per part is 49 | Settled, unreviewed | no prior found (two passes) |
+| [R004](results/R004-werner-hessian-equality/) | Hessian of the Werner endpoint inequality at aligned product zeros, every copy count: all nearby equality cases identified; for four qutrit copies, 110 zero directions and smallest positive eigenvalue 1/4 | Settled, unreviewed (local statement only) | unclear: arXiv:2607.24479 studies the same endpoint form |
+| [R008](results/R008-erdos857-diagonal/) | Erdős problem 857, diagonal case: the least family size forcing an n-sunflower on n points is 2ⁿ − ⌊n/2⌋ − 1 for n ≥ 3, with the extremal families classified | Settled, unreviewed | no prior found (two passes) |
+| [R009](results/R009-ame-8-4-gf4-graph/) | Among GF(4) graph states on eight ququarts, at most 34 of the 35 balanced cuts can be maximally mixed, and 34 is attained | Settled, unreviewed | unclear: may follow from a GF(4) AME(8,4) exclusion |
+| [R013](results/R013-greedy-superstring-three/) | For three substring-free words of length at most L over at least three letters, with first greedy overlap ahead by k, the sharp greedy-superstring ratio is 1 + max(0, L−1−2k)/(L+k+2) | Settled, unreviewed | no prior found (two passes) |
+| [R014](results/R014-sum-product-colouring-396/) | The least N such that every two-colouring of [1, N] has two distinct monochromatic sum-product pairs is 396 | Settled, unreviewed | no prior found (two passes) |
+| [R015](results/R015-triangle-removal-k18/) | Random triangle removal on K₁₈ ends with the maximum 81 edges with probability about 6.40356903 × 10⁻²⁶ (exact fraction given) | Settled, unreviewed | no prior found (two passes) |
+| [R016](results/R016-sparse-sign-equal-rows/) | With minus signs of probability (log n + t)/n, the probability that two rows are equal tends to 1 − (1+λ)e^(−λ), λ = e^(−t) | Settled, unreviewed | no prior found (two passes) |
+| [R017](results/R017-magnon-order-7-2/) | For ideal magnons with given quadratic and quartic dispersion terms, the normalized order-7/2 coefficient ranges exactly over [(37−2R²)/128, 29/128]; range R = 5 is the first allowing both signs | Settled, unreviewed | unclear: physics literature not fully searched |
+| [R019](results/R019-crouzeix-weighted-shift/) | For a finite positive weighted shift with numerical radius 1, the complete Crouzeix constant equals the largest consecutive weight product, with a sharp stability bound | Settled, unreviewed | formula known (Crouzeix and Greenbaum, arXiv:2508.12768); stability bound: unclear |
+| [R020](results/R020-codegree-defect-deg2/) | Maximum-degree-two case of a codegree-defect question: every nonzero defect has a vertex in at least three defective pairs | Settled, unreviewed (one case) | no prior found (two passes) |
+| [R021](results/R021-exoo-k43-five-cliques/) | Flipping exactly three blue edges of Exoo's cyclic colouring of K₄₃ (and any red edges) leaves at least 11 monochromatic K₅, and 11 is attained | Settled, unreviewed | no prior found (two passes). Applies only to this restricted family; Exoo reports a colouring of K₄₃ with 2 monochromatic K₅ |
 
 ## Known results reproduced
 
