@@ -6,7 +6,7 @@ A published weight-7 code at length 168, [[168,12,15]], scores 16.07, higher tha
 
 The distance is exact for both error types. Witnesses of weight 17 give the upper bound, and `verify.py` checks them with the standard library. The lower bound, that no logical operator of weight 16 or less exists, rests on exhaustive computer searches. It has no compact certificate and `verify.py` does not recheck it.
 
-This entry claims nothing about circuit-level performance, decoders, thresholds or hardware layout. It does not beat IBM's [[144,12,12]] gross code in general. The new code's k d^2 / n is higher than the gross code's 12, but it needs checks of weight 7 instead of 6, uses more qubits and encodes 8 logical qubits instead of 12.
+This entry claims nothing about circuit-level performance, decoders, thresholds or hardware layout. An unpublished, unreviewed memory simulation of our own points the other way: under one circuit noise model it found this code about 8.5 times worse than a weight-6 [[162,8,14]] code at physical error rate 2e-3, and inconclusive at 1e-3. Higher distance at weight 7 should not be read as better memory performance. It does not beat IBM's [[144,12,12]] gross code in general. The new code's k d^2 / n is higher than the gross code's 12, but it needs checks of weight 7 instead of 6, uses more qubits and encodes 8 logical qubits instead of 12.
 
 No human expert has reviewed the entry, and only one search for prior work has been made.
 
