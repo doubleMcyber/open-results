@@ -1,0 +1,13 @@
+packaging rerun 2026-11-27 23:48 PST, sector Z, all start columns
+dist_m4ri method=2 finH=H_X.mtx finG=H_Z.mtx threads=1 timeout=0 debug=1 wmax=16
+# input: quantum CSS code, n=162 (finH='H_X.mtx', finG='H_Z.mtx')
+#   H: 81 x 162, 567 nonzeros, max row weight 7, max column weight 4
+#   G: 81 x 162, 567 nonzeros, max row weight 7, max column weight 4
+#   L: 8 x 162 (from H and G), 335 nonzeros, max row weight 60, max column weight 7
+# Warning: smax=0, confinement profile is not computed
+# stopped after 54.888s: CC done up to w=16
+# codewords accumulated: total=0
+17 0 0
+real 54.89
+user 50.43
+sys 2.17

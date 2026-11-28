@@ -1,0 +1,6 @@
+[
+ {"source": "certification run", "sector": "X", "support": [3, 17, 27, 33, 37, 41, 42, 56, 72, 83, 106, 109, 112, 113, 137, 149, 157]},
+ {"source": "certification run", "sector": "Z", "support": [1, 24, 29, 32, 44, 56, 67, 70, 97, 101, 102, 106, 112, 116, 123, 143, 158]},
+ {"source": "fresh re-derivation", "sector": "X", "support": [0, 4, 35, 39, 40, 42, 44, 74, 78, 82, 85, 117, 125, 126, 129, 144, 159]},
+ {"source": "fresh re-derivation", "sector": "Z", "support": [0, 3, 6, 9, 12, 24, 29, 32, 36, 44, 51, 54, 56, 66, 102, 106, 137]}
+]

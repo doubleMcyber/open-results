@@ -1,0 +1,4 @@
+code br params (n,k,w) (180, 16, 7) T 13
+orbit sizes [45, 45, 45, 45]
+sector Z T=13 -> none support=None nodes=7375360 per_start=[(0, 7173174), (1, 200648), (90, 1537), (91, 1)] wall=1.12s
+sector X T=13 -> none support=None nodes=10298890 per_start=[(0, 10134662), (1, 152868), (90, 5918), (91, 5442)] wall=0.74s

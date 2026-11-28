@@ -1,0 +1,29 @@
+SG[21, 1]    a=[0, 6, 7, 10] b=[0, 1, 17, 4] [[42,8]] w=8 sec X ISD 3  A 3  C 3  orbits 42/42  OK
+SG[21, 1]    a=[0, 6, 7, 10] b=[0, 1, 17, 4] [[42,8]] w=8 sec Z ISD 3  A 3  C 3  orbits 42/42  OK
+SG[21, 1]    a=[0, 18, 13, 14] b=[0, 6, 17, 20] [[42,4]] w=8 sec X ISD 4  A 4  C 4  orbits 42/42  OK
+SG[21, 1]    a=[0, 18, 13, 14] b=[0, 6, 17, 20] [[42,4]] w=8 sec Z ISD 4  A 4  C 4  orbits 42/42  OK
+SG[21, 1]    a=[0, 11, 1] b=[0, 4, 17, 14] [[42,4]] w=7 sec X ISD 4  A 4  C 4  orbits 42/42  OK
+SG[21, 1]    a=[0, 11, 1] b=[0, 4, 17, 14] [[42,4]] w=7 sec Z ISD 4  A 4  C 4  orbits 42/42  OK
+SG[24, 3]    a=[0, 15, 12] b=[0, 13, 9, 17] [[48,4]] w=7 sec X ISD 6  A 6  C 6  orbits 24/24  OK
+SG[24, 3]    a=[0, 15, 12] b=[0, 13, 9, 17] [[48,4]] w=7 sec Z ISD 6  A 6  C 6  orbits 24/24  OK
+SG[24, 3]    a=[0, 8, 22, 16] b=[0, 16, 15, 9] [[48,4]] w=8 sec X ISD 7  A 7  C 7  orbits 8/8  OK
+SG[24, 3]    a=[0, 8, 22, 16] b=[0, 16, 15, 9] [[48,4]] w=8 sec Z ISD 7  A 7  C 7  orbits 8/8  OK
+SG[24, 8]    a=[0, 12, 9, 18] b=[0, 21, 16, 11] [[48,2]] w=8 sec X ISD 6  A 6  C 6  orbits 24/24  OK
+SG[24, 8]    a=[0, 12, 9, 18] b=[0, 21, 16, 11] [[48,2]] w=8 sec Z ISD 6  A 6  C 6  orbits 24/24  OK
+SG[30, 1]    a=[0, 18, 14, 23] b=[0, 13, 14] [[60,4]] w=7 sec X ISD 7  A 7  C 7  orbits 4/4  OK
+SG[30, 1]    a=[0, 18, 14, 23] b=[0, 13, 14] [[60,4]] w=7 sec Z ISD 7  A 7  C 7  orbits 4/4  OK
+SG[36, 9]    a=[0, 16, 1, 30] b=[0, 19, 15, 17] [[72,10]] w=8 sec X ISD 4  A 4  C 4  orbits 72/72  OK
+SG[36, 9]    a=[0, 16, 1, 30] b=[0, 19, 15, 17] [[72,10]] w=8 sec Z ISD 3  A 3  C 3  orbits 72/72  OK
+SG[36, 9]    a=[0, 5, 26] b=[0, 32, 24] [[72,2]] w=6 sec X ISD 4  A 4  C 4  orbits 36/36  OK
+SG[36, 9]    a=[0, 5, 26] b=[0, 32, 24] [[72,2]] w=6 sec Z ISD 4  A 4  C 4  orbits 36/36  OK
+SG[39, 1]    a=[0, 33, 14, 15] b=[0, 18, 13, 9] [[78,2]] w=8 sec X ISD 7  A 7  C 7  orbits 78/78  OK
+SG[39, 1]    a=[0, 33, 14, 15] b=[0, 18, 13, 9] [[78,2]] w=8 sec Z ISD 3  A 3  C 3  orbits 78/78  OK
+SG[42, 1]    a=[0, 32, 8, 30] b=[0, 2, 39] [[84,2]] w=7 sec X ISD 8  A 8  C 8  orbits 84/84  OK
+SG[42, 1]    a=[0, 32, 8, 30] b=[0, 2, 39] [[84,2]] w=7 sec Z ISD 8  A 8  C 8  orbits 84/84  OK
+SG[42, 1]    a=[0, 32, 4] b=[0, 21, 37] [[84,2]] w=6 sec X ISD 8  A 8  C 8  orbits 84/84  OK
+SG[42, 1]    a=[0, 32, 4] b=[0, 21, 37] [[84,2]] w=6 sec Z ISD 8  A 8  C 8  orbits 84/84  OK
+SG[42, 3]    a=[0, 40, 35] b=[0, 32, 23] [[84,2]] w=6 sec X ISD 8  A 8  C 8  orbits 12/12  OK
+SG[42, 3]    a=[0, 40, 35] b=[0, 32, 23] [[84,2]] w=6 sec Z ISD 8  A 8  C 8  orbits 12/12  OK
+C35          a=[0, 3, 21, 13] b=[0, 1, 20, 29] [[70,2]] w=8 sec X ISD 5  A 5  C 5  orbits 2/2  OK
+C35          a=[0, 3, 21, 13] b=[0, 1, 20, 29] [[70,2]] w=8 sec Z ISD 5  A 5  C 5  orbits 2/2  OK
+all 28 sector distances agree

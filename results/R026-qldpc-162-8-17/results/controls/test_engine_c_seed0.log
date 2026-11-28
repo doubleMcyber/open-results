@@ -1,0 +1,39 @@
+groups: [('C12', 12, True), ('C2xC6', 12, True), ('C3xC4', 12, True), ('C15', 15, True), ('C4xC4', 16, True), ('S3[6, 1]', 6, False), ('D8[8, 3]', 8, False), ('Q8[8, 4]', 8, False), ('D10[10, 1]', 10, False), ('C3 : C4[12, 1]', 12, False), ('A4[12, 3]', 12, False), ('D12[12, 4]', 12, False), ('D14[14, 1]', 14, False), ('C3 x S3[18, 3]', 18, False)]
+ok code  1  C3xC4              n=24 k=2 a=[5, 11, 6, 9] b=[6, 3, 9, 0] dZ=4 dX=4 orbits=2
+ok code  2  C15                n=30 k=6 a=[12, 0] b=[4, 1] dZ=2 dX=2 orbits=2
+ok code  3  S3[6, 1]           n=12 k=2 a=[3, 5, 4] b=[3, 4, 5] dZ=2 dX=2 orbits=12
+ok code  4  C3 x S3[18, 3]     n=36 k=4 a=[13, 2, 17, 1] b=[15, 0, 14, 10] dZ=4 dX=4 orbits=12
+ok code  5  C12                n=24 k=2 a=[11, 3, 5, 1] b=[3, 2, 5, 7] dZ=3 dX=3 orbits=2
+ok code  6  C2xC6              n=24 k=10 a=[5, 7, 2, 4] b=[11, 8, 0, 6] dZ=4 dX=4 orbits=2
+ok code  7  C3xC4              n=24 k=2 a=[9, 1, 0, 2] b=[0, 8, 2, 5] dZ=5 dX=5 orbits=2
+ok code  8  C4xC4              n=32 k=2 a=[15, 3] b=[1, 10, 12, 4] dZ=4 dX=4 orbits=2
+ok code  9  S3[6, 1]           n=12 k=4 a=[1, 4, 2, 3] b=[4, 3] dZ=2 dX=2 orbits=5
+ok code 10  Q8[8, 4]           n=16 k=2 a=[0, 6, 5, 3] b=[5, 6, 2, 0] dZ=4 dX=4 orbits=4
+ok code 11  D10[10, 1]         n=20 k=2 a=[0, 1, 3, 5, 7, 9] b=[1, 0] dZ=2 dX=2 orbits=2
+ok code 12  C3 : C4[12, 1]     n=24 k=16 a=[2, 6, 10] b=[0, 7, 3] dZ=2 dX=2 orbits=2
+ok code 13  D12[12, 4]         n=24 k=2 a=[7, 10, 2, 6] b=[10, 8] dZ=2 dX=2 orbits=4
+ok code 14  D14[14, 1]         n=28 k=8 a=[9, 1, 12, 6] b=[9, 2] dZ=2 dX=2 orbits=14
+ok code 15  C2xC6              n=24 k=4 a=[2, 4] b=[5, 7, 1, 6] dZ=3 dX=3 orbits=2
+ok code 16  C3xC4              n=24 k=2 a=[5, 11] b=[3, 8] dZ=3 dX=3 orbits=2
+ok code 17  C4xC4              n=32 k=2 a=[14, 13] b=[14, 8, 2, 1] dZ=4 dX=4 orbits=2
+ok code 18  S3[6, 1]           n=12 k=2 a=[5, 0, 1] b=[4, 0, 3, 1] dZ=2 dX=2 orbits=6
+ok code 19  D8[8, 3]           n=16 k=6 a=[1, 4, 5, 7] b=[3, 4, 5, 7] dZ=2 dX=2 orbits=2
+ok code 20  D10[10, 1]         n=20 k=2 a=[0, 1, 3, 5, 7, 9] b=[4, 1] dZ=2 dX=2 orbits=2
+ok code 21  C3 : C4[12, 1]     n=24 k=2 a=[7, 3] b=[8, 7, 3, 10] dZ=3 dX=3 orbits=2
+ok code 22  D12[12, 4]         n=24 k=4 a=[0, 4, 8, 11] b=[11, 0] dZ=2 dX=2 orbits=2
+ok code 23  C3 x S3[18, 3]     n=36 k=6 a=[12, 10, 4, 17] b=[16, 6] dZ=3 dX=3 orbits=4
+ok code 24  C2xC6              n=24 k=2 a=[3, 9] b=[10, 6, 5, 8] dZ=2 dX=2 orbits=2
+ok code 25  C15                n=30 k=2 a=[3, 10, 5, 11] b=[11, 8] dZ=5 dX=5 orbits=2
+ok code 26  C4xC4              n=32 k=8 a=[2, 13, 3, 15] b=[4, 7] dZ=4 dX=4 orbits=2
+ok code 27  S3[6, 1]           n=12 k=4 a=[5, 2, 0, 1] b=[1, 3] dZ=2 dX=2 orbits=6
+ok code 28  Q8[8, 4]           n=16 k=2 a=[6, 2, 4, 1] b=[5, 0] dZ=4 dX=4 orbits=4
+ok code 29  C3 : C4[12, 1]     n=24 k=2 a=[3, 1, 8, 6] b=[3, 1] dZ=4 dX=4 orbits=12
+ok code 30  D12[12, 4]         n=24 k=4 a=[0, 2] b=[4, 2, 6] dZ=2 dX=2 orbits=2
+ok code 31  C3 x S3[18, 3]     n=36 k=2 a=[14, 8, 7] b=[3, 5, 6] dZ=6 dX=6 orbits=12
+ok code 32  C2xC6              n=24 k=4 a=[3, 10, 6, 11] b=[4, 10, 7, 1] dZ=2 dX=2 orbits=2
+ok code 33  C3xC4              n=24 k=2 a=[10, 9, 1, 3] b=[3, 6] dZ=4 dX=4 orbits=2
+ok code 34  C4xC4              n=32 k=4 a=[15, 6, 10, 8] b=[1, 5, 10, 13] dZ=4 dX=4 orbits=2
+ok code 35  D8[8, 3]           n=16 k=6 a=[1, 6, 7, 3] b=[4, 2] dZ=2 dX=2 orbits=8
+ok code 36  Q8[8, 4]           n=16 k=4 a=[6, 2, 4, 3] b=[4, 5, 7, 2] dZ=2 dX=2 orbits=4
+codes: 36  groups: 13 ({'C3xC4': 4, 'C15': 2, 'S3[6, 1]': 4, 'C3 x S3[18, 3]': 3, 'C12': 1, 'C2xC6': 4, 'C4xC4': 4, 'Q8[8, 4]': 3, 'D10[10, 1]': 2, 'C3 : C4[12, 1]': 3, 'D12[12, 4]': 3, 'D14[14, 1]': 1, 'D8[8, 3]': 2})  searches asserted: 288  codes with nontrivial orbit reduction: 35  wall 0.9s
+ALL PASSED

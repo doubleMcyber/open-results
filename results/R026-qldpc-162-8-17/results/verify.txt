@@ -1,0 +1,44 @@
+[[162,8,17]] two-block group-algebra code over C27 x C3
+A = 1 + x + x^5,  B = 1 + x y + x^4 y^2 + x^15 y
+
+ok   data/H_X.txt equals the matrix built from A and B
+ok   data/H_Z.txt equals the matrix built from A and B
+ok   n = 162: H_X and H_Z are 81 x 162
+ok   every row of H_X has weight 7: row weights [7]
+ok   column weights of H_X are 3 and 4: 81 columns of weight 3, 81 of weight 4
+ok   every row of H_Z has weight 7: row weights [7]
+ok   column weights of H_Z are 3 and 4: 81 columns of weight 3, 81 of weight 4
+ok   H_X H_Z^T = 0 over GF(2): 81 x 81 row pairs
+ok   k = 8: rank H_X = 77, rank H_Z = 77, k = 162 - 77 - 77 = 8
+
+ok   both sectors have a witness
+ok   X witness (certification run) has weight 17: weight 17
+ok   X witness (certification run) commutes with every row of H_Z
+ok   X witness (certification run) is not in the row space of H_X: rank 77 -> 78
+ok   Z witness (certification run) has weight 17: weight 17
+ok   Z witness (certification run) commutes with every row of H_X
+ok   Z witness (certification run) is not in the row space of H_Z: rank 77 -> 78
+ok   X witness (fresh re-derivation) has weight 17: weight 17
+ok   X witness (fresh re-derivation) commutes with every row of H_Z
+ok   X witness (fresh re-derivation) is not in the row space of H_X: rank 77 -> 78
+ok   Z witness (fresh re-derivation) has weight 17: weight 17
+ok   Z witness (fresh re-derivation) commutes with every row of H_X
+ok   Z witness (fresh re-derivation) is not in the row space of H_Z: rank 77 -> 78
+
+Controls on the checks themselves (each must be detected):
+ok   X: a stabilizer is reported inside the row space
+ok   X: a witness with one qubit flipped fails to commute: all 162 single flips
+ok   Z: a stabilizer is reported inside the row space
+ok   Z: a witness with one qubit flipped fails to commute: all 162 single flips
+
+Link to the original certification logs (they number the group elements differently):
+ok   the relabelling is a permutation that keeps the two blocks
+ok   X witness of the certification record maps to the published one
+ok   Z witness of the certification record maps to the published one
+
+k d^2 / n at d = 17: 1156/81 = 14.2716; frozen-table value 96/7 = 13.7143
+ok   k d^2 / n at d = 17 exceeds 96/7
+
+NOT checked here: d >= 17 (no nontrivial logical of weight <= 16). See results/RERUN.md.
+The witnesses above give d_X <= 17 and d_Z <= 17.
+RESULT: ALL CHECKS PASSED

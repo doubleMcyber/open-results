@@ -1,0 +1,5 @@
+lu144_6 (144, 6, 8) automorphisms 284 orbits [72, 72]
+  X ISD upper bound 15 ; searching weight <= 14
+  X {'isd_ub': 15, 'T': 14, 'at_T': 'none', 'sec_T': 28.8, 'at_T1': 'found', 'sec_T1': 11.0, 'witness_weight': 15, 'witness_ok': True}
+  Z ISD upper bound 15 ; searching weight <= 14
+  Z {'isd_ub': 15, 'T': 14, 'at_T': 'none', 'sec_T': 35.9, 'at_T1': 'found', 'sec_T1': 7.9, 'witness_weight': 15, 'witness_ok': True}

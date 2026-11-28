@@ -1,0 +1,6 @@
+  SAT orbit 1/2 start 0: False 3.6s
+  SAT orbit 2/2 start 72: False 3.6s
+[[144,12,12]] sector Z SAT T=11: none (3.6s); T=12: found weight 12 verified True (0.0s)
+  SAT orbit 1/2 start 0: False 3.2s
+  SAT orbit 2/2 start 72: False 3.2s
+[[144,12,12]] sector X SAT T=11: none (3.2s); T=12: found weight 12 verified True (0.1s)

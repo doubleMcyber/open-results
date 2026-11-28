@@ -1,0 +1,5 @@
+pandey168 (168, 16, 8) automorphisms 122 orbits [84, 84]
+  X ISD upper bound 14 ; searching weight <= 13
+  X {'isd_ub': 14, 'T': 13, 'at_T': 'none', 'sec_T': 6.5, 'at_T1': 'found', 'sec_T1': 1.5, 'witness_weight': 14, 'witness_ok': True}
+  Z ISD upper bound 14 ; searching weight <= 13
+  Z {'isd_ub': 14, 'T': 13, 'at_T': 'none', 'sec_T': 5.0, 'at_T1': 'found', 'sec_T1': 0.4, 'witness_weight': 14, 'witness_ok': True}

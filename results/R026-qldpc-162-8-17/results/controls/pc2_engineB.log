@@ -1,0 +1,18 @@
+  SAT orbit 1/2 start 0: False 0.0s
+  SAT orbit 2/2 start 36: False 0.0s
+[[72,12,6]] sector Z SAT T=5: none (0.0s); T=6: found weight 6 verified True (0.0s)
+  SAT orbit 1/2 start 0: False 0.0s
+  SAT orbit 2/2 start 36: False 0.0s
+[[72,12,6]] sector X SAT T=5: none (0.0s); T=6: found weight 6 verified True (0.0s)
+  SAT orbit 1/2 start 0: False 0.9s
+  SAT orbit 2/2 start 45: False 0.9s
+[[90,8,10]] sector Z SAT T=9: none (0.9s); T=10: found weight 10 verified True (0.1s)
+  SAT orbit 1/2 start 0: False 0.7s
+  SAT orbit 2/2 start 45: False 0.7s
+[[90,8,10]] sector X SAT T=9: none (0.7s); T=10: found weight 10 verified True (0.1s)
+  SAT orbit 1/2 start 0: False 0.7s
+  SAT orbit 2/2 start 54: False 0.7s
+[[108,8,10]] sector Z SAT T=9: none (0.7s); T=10: found weight 10 verified True (0.6s)
+  SAT orbit 1/2 start 0: False 0.5s
+  SAT orbit 2/2 start 54: False 0.6s
+[[108,8,10]] sector X SAT T=9: none (0.6s); T=10: found weight 10 verified True (0.1s)

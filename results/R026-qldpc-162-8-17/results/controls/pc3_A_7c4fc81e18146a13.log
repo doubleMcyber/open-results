@@ -1,0 +1,9 @@
+w7re_180_16_14_g90_6_7c4fc8 db {'n': 180, 'k': 16, 'd': 14, 'w': 7} rebuilt {'n': 180, 'k': 16, 'w': 7}
+BR witnesses verify as logicals: {'X': True, 'Z': True} weights {'X': 14, 'Z': 14}
+automorphisms 86, orbit sizes [45, 45, 45, 45] (0.4s)
+sector X own ISD upper bound 14
+sector X engine A: no logical of weight <= 13? none (1.5s)
+sector X engine A at T=14: {'status': 'found', 'weight': 14, 'verified': True}
+sector Z own ISD upper bound 14
+sector Z engine A: no logical of weight <= 13? none (1.8s)
+sector Z engine A at T=14: {'status': 'found', 'weight': 14, 'verified': True}

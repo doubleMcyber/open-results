@@ -1,0 +1,4 @@
+code gross params (n,k,w) (144, 12, 6) T 11
+orbit sizes [72, 72]
+sector Z T=11 -> none support=None nodes=196474 per_start=[(0, 196369), (72, 105)] wall=0.31s
+sector X T=11 -> none support=None nodes=189851 per_start=[(0, 189635), (72, 216)] wall=0.01s

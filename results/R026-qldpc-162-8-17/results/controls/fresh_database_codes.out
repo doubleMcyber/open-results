@@ -1,0 +1,10 @@
+9683fdfed9b2bf24 translations ok: True db d 13
+ W=12 sec=X min found=None nodes=584867 0.7s
+ W=12 sec=Z min found=None nodes=446708 0.0s
+ W=13 sec=X min found=13 nodes=1804649 0.1s
+ W=13 sec=Z min found=13 nodes=1369491 0.1s
+83c04f9a6b070124 translations ok: True db d 14
+ W=13 sec=X min found=None nodes=2125889 0.2s
+ W=13 sec=Z min found=None nodes=2254510 0.1s
+ W=14 sec=X min found=14 nodes=10539811 0.6s
+ W=14 sec=Z min found=14 nodes=11410190 0.7s

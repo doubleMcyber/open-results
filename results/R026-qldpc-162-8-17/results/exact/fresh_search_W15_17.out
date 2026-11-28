@@ -1,0 +1,12 @@
+translations (all 81) preserve row sets of HX and HZ: True
+k logicals 8 8
+W=15 sector=X per-seed (nodes,minfound,closed_trivial,closed_nontriv)=[(104215616, None, 194, 0), (765, None, 0, 0)] cpu=8.6s
+W=15 sector=Z per-seed (nodes,minfound,closed_trivial,closed_nontriv)=[(147919197, None, 235, 0), (22144, None, 0, 0)] cpu=11.9s
+W=16 sector=X per-seed (nodes,minfound,closed_trivial,closed_nontriv)=[(377499796, None, 206, 0), (792, None, 0, 0)] cpu=31.9s
+W=16 sector=Z per-seed (nodes,minfound,closed_trivial,closed_nontriv)=[(542624321, None, 239, 0), (38847, None, 0, 0)] cpu=44.2s
+W=17 sector=X per-seed (nodes,minfound,closed_trivial,closed_nontriv)=[(12400100, 17, 0, 1), (802, None, 0, 0)] cpu=1.1s
+  found weight 17 support [0, 18, 27, 32, 33, 51, 60, 61, 72, 90, 93, 111, 113, 130, 142, 153, 161]
+  verify: in ker True  nontrivial (not in rowspace): True
+W=17 sector=Z per-seed (nodes,minfound,closed_trivial,closed_nontriv)=[(4849831, 17, 0, 1), (66814, None, 0, 0)] cpu=0.4s
+  found weight 17 support [0, 4, 11, 12, 19, 20, 28, 29, 31, 40, 50, 56, 68, 72, 92, 103, 147]
+  verify: in ker True  nontrivial (not in rowspace): True
